@@ -1,4 +1,4 @@
-submissionID,studyCountry,studyCity,studyLat,studyLon,birthCountry,countryID,birthCity,contactCountry,contactCity,contactLat,contactLon
+submissionID,studyCountry,studyCity,studyLon,studyLat,birthCountry,countryID,birthCity,contactCountry,contactCity,contactLon,contactLat
 SInt-FIERI-YSH-111-ITA,Italy,Rome, 12.483175192456267, 41.898616416336374,Eritrea,3,Debub Region,UK,Birmingham, -1.8939309966565692, 52.48155053062155
 SInt-FIERI-YSH-177-ITA,Italy,Fonte Nuova, 12.483175192456267, 41.898616416336374,Eritrea,3,Northern Region,UK,Birmingham, -1.8939309966565692, 52.48155053062155
 SInt-FIERI-YSH-146-ITA,Italy,Rome, 12.483175192456267, 41.898616416336374,Eritrea,3,Debub Region,Denmark,Odense, 10.392319695751649, 55.39820753561726

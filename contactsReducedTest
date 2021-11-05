@@ -7,17 +7,63 @@ SInt-AAU-Ytk-001-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,
 SInt-AAU-Ytk-023-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Maekel Region,Qatar,Doha,51.5158119,25.317513,1
 SInt-AAU-Ytk-023-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Maekel Region,Sudan,Khartoum,32.54065604,15.57790946,1
 SInt-AAU-Ytk-006-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Ethiopia,99,Addis Ababa,UK,London,-0.1276474,51.5073219,2
-SInt-AAU-Ytk-023-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Maekel Region,UK,London,-0.1276474,51.5073219,2
-SInt-AAU-Ytk-001-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,USA,Maryland,-76.62767362,39.29008521,2
-SInt-AAU-Ytk-005-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Northern Region,USA,Maryland,-76.9382069,39.5162234,2
-SInt-AAU-Ytk-004-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Northern Region,USA,New York,-74.0060152,40.7127281,1
-SInt-AAU-Ytk-037-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,Norway,Oslo,10.7389701,59.9133301,2
-SInt-AAU-Ytk-023-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Maekel Region,Norway,Oslo,10.7389701,59.9133301,2
-SInt-AAU-Ytk-003-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,Italy,Rome,12.4829321,41.8933203,2
-SInt-AAU-Ytk-011-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Maekel Region,Italy,Rome,12.4829321,41.8933203,2
-SInt-AAU-Ytk-019-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,Australia,Sydney,151.2164539,-33.8548157,3
-SInt-AAU-Ytk-023-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Maekel Region,Australia,Sydney,151.2164539,-33.8548157,3
-SInt-AAU-Ytk-008-ET,Ethiopia,Addis - Bole Arabsa,38.7146778,9.0295451,Ethiopia,99,,Australia,Sydney,151.2164539,-33.8548157,3
-
-
-
+SInt-AAU-Sgt-028-ET,Ethiopia,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,USA,Virginia,-78.4927721,37.1232245,3
+SInt-AAU-Sgt-002-ET,Ethiopia,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Maekel Region,USA,Washington DC,-77.0365427,38.8950368,2
+SInt-AAU-Sgt-030-ET,Ethiopia,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Maekel Region,USA,Washington DC,-77.0365427,38.8950368,2
+SInt-AAU-HAG-001-ET,Ethiopia,Afar - Asayata,41.438675,11.565831,Eritrea,3,Southern Region,Ethiopia,Afar Region,41.00809889,11.67689135,1
+SInt-AAU-AHA-001-ET,Ethiopia,Afar - Asayata,41.438663,11.565831,Eritrea,3,Southern Region,USA,Boston,-71.0582912,42.3602534,1
+SInt-AAU-HTA-010-ET,Ethiopia,Afar - Asayata,41.438675,11.565831,Eritrea,3,Other Region,USA,Chicago,-87.6244212,41.8755616,1
+SInt-AAU-HTA-002-ET,Ethiopia,Afar - Asayata,41.438675,11.565831,Eritrea,3,Other Region,USA,Columbus,-82.99306958,39.96629194,2
+SInt-AAU-HTA-132-ET,Ethiopia,Afar - Asayata,41.438675,11.565831,Eritrea,3,Other Region,USA,Columbus,-82.99306958,39.96629194,2
+SInt-AAU-HAG-026-ET,Ethiopia,Afar - Asayata,41.438675,11.565831,Eritrea,3,Southern Region,USA,Los Angeles,-118.242766,34.0536909,1
+SInt-YU-KM-028-JOR,Jordan,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,United Arab Emirates,Abu Dhabi,54.3774014,24.4538352,1
+SInt-YU-KM-022-JOR,Jordan,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Jordan,Ajloun,35.8128458,32.3600834,1
+SInt-YU-KM-013-JOR,Jordan,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Kuwait,Al Farwaniah,47.9735629,29.3797091,1
+SInt-YU-KM-015-JOR,Jordan,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Jordan,Al Karak,35.7047218,31.1847222,1
+SInt-YU-KM-033-JOR,Jordan,Ajloun,35.8128458,32.3600834,Syria,4,Rif Dimashq,Jordan,Al Zarqa,36.0885771,32.0668425,1
+SInt-AUTH-NM-244-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Kunduz,Greece,Athens,23.7265735,37.98398982,3
+SInt-AUTH-ST-007-GRC,Greece,Athens,23.7265735,37.98398982,DR Congo,2,Katanga,Greece,Athens,23.7283052,37.9839412,3
+SInt-AUTH-ST-006-GRC,Greece,Athens,23.7265735,37.98398982,DR Congo,2,Kinshasa,Greece,Athens,23.7283052,37.9839412,3
+SInt-AUTH-MI-301-GRC,Greece,Athens,23.7265735,37.98398982,Pakistan,5,Gojranwala,Pakistan,Bahri (Mandi bahauddin),73.59457177,32.33651701,2
+SInt-AUTH-MI-301-GRC,Greece,Athens,23.7265735,37.98398982,Pakistan,5,Gojranwala,Pakistan,Bahri (Mandi bahauddin),73.59457177,32.33651701,2
+SInt-AUTH-NM-217-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Mazari Sharif,Afghanistan,Balkh,66.8980826,36.7581256,2
+SInt-AUTH-NM-217-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Mazari Sharif,Afghanistan,Balkh,66.8980826,36.7581256,2
+SInt-AUTH-NM-248-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Kandahar,Pakistan,Balochistan,65.79611173,28.09952517,2
+SInt-AUTH-NM-248-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Kandahar,Pakistan,Balochistan,65.79611173,28.09952517,2
+SInt-AUTH-NM-212-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Bamyan,Afghanistan,Bamyan,67.25,34.75,5
+SInt-AUTH-NM-219-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Bamyan,Afghanistan,Bamyan,67.25,34.75,5
+SInt-AUTH-NM-271-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Bamyan,Afghanistan,Bamyan,67.25,34.75,5
+SInt-AUTH-NM-212-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Bamyan,Afghanistan,Bamyan,67.25,34.75,5
+SInt-AUTH-NM-219-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Bamyan,Afghanistan,Bamyan,67.25,34.75,5
+SInt-AUTH-MI-301-GRC,Greece,Athens,23.7265735,37.98398982,Pakistan,5,Nathu sivia/Gojranwala/Punjab,Spain,Barcelona,2.1774322,41.3828939,1
+SInt-AUTH-NM-235-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Behsoud,Afghanistan,Behsoud,67.90911181,34.34818142,3
+SInt-AUTH-NM-235-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Behsoud,Afghanistan,Behsoud,67.90911181,34.34818142,3
+SInt-AUTH-NM-235-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Behsoud,Afghanistan,Behsoud,67.90911181,34.34818142,3
+SInt-AUTH-NM-243-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Ghazni,Germany,Berlin,13.3888599,52.5170365,2
+SInt-AUTH-NM-257-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Hirat,Germany,Berlin,13.3888599,52.5170365,2
+SInt-AUTH-MI-301-GRC,Greece,Athens,23.7265735,37.98398982,Pakistan,5,Kunjah, Pakistan,Bhago,73.81693784,32.73278138,1
+SInt-AUTH-ST-005-GRC,Greece,Athens,23.7265735,37.98398982,DR Congo,2,Katanga,Greece,Thessaloniki,22.95203484,40.63095871,3
+SInt-AUTH-ST-005-GRC,Greece,Athens,23.7265735,37.98398982,DR Congo,2,Katanga,Greece,Thessaloniki,22.95203484,40.63095871,3
+SInt-AUTH-MM-208-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Hilmand,Greece,Thessaloniki,23.5282598,38.3707671,3
+SInt-AUTH-MI-301-GRC,Greece,Athens,23.7265735,37.98398982,Pakistan,5,Sheikhupura,Canada,Toronto,-79.3839347,43.6534817,1
+SInt-AUTH-NM-259-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Ghazni,Austria,Vienna,16.3725042,48.2083537,2
+SInt-AUTH-NM-270-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Kabul,Austria,Vienna,16.3725042,48.2083537,2
+SInt-AUTH-MI-301-GRC,Greece,Athens,23.7265735,37.98398982,Pakistan,5,Shadi waal,Pakistan,Wazirbad,74.11859512,32.44156105,1
+SInt-AUTH-NM-247-GRC,Greece,Athens,23.7265735,37.98398982,Afghanistan,1,Ghazni,Switzerland,Zurich,8.5410422,47.3744489,1
+SInt-FIERI-FR-005-ITA,Italy,Basaldella,13.2359222,46.0626085,Afghanistan,1,Laghman,Afghanistan,Laghman,70.183333,34.783333,3
+SInt-FIERI-FR-005-ITA,Italy,Basaldella,13.2359222,46.0626085,Afghanistan,1,Laghman,Afghanistan,Laghman,70.183333,34.783333,3
+SInt-FIERI-FR-005-ITA,Italy,Basaldella,13.2359222,46.0626085,Afghanistan,1,Laghman,Afghanistan,Laghman,70.183333,34.783333,3
+SInt-FIERI-FR-002-ITA,Italy,Basaldella,13.2359222,46.0626085,Afghanistan,1,Parwan,Afghanistan,Parwan,68.9146703,34.9797014,2
+SInt-FIERI-FR-002-ITA,Italy,Basaldella,13.2359222,46.0626085,Afghanistan,1,Parwan,Afghanistan,Parwan,68.9146703,34.9797014,2
+SInt-FIERI-FR-003-ITA,Italy,Basaldella,13.2359222,46.0626085,Pakistan,5,Peshawar,Pakistan,Peshawar,71.5787458,34.0123846,2
+SInt-FIERI-FR-003-ITA,Italy,Basaldella,13.2359222,46.0626085,Pakistan,5,Peshawar,Pakistan,Peshawar,71.5787458,34.0123846,2
+SInt-FIERI-FR-002-ITA,Italy,Basaldella,13.2359222,46.0626085,Afghanistan,1,Parwan,Italy,Udine,13.23694604,46.0656251,1
+SInt-ULEI-SL-049-COD,DR Congo,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kabare,Belgium,Brussels,4.359779196,50.84373495,1
+SInt-ULEI-SL-077-COD,DR Congo,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kabare,DR Congo,Fizi,28.88063156,-4.2696783,2
+SInt-ULEI-SL-070-COD,DR Congo,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kalehe,DR Congo,Fizi,28.88063156,-4.2696783,2
+SInt-ULEI-SL-077-COD,DR Congo,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kabare,DR Congo,Goma,29.225652,-1.6665685,8
+SInt-ULEI-SL-068-COD,DR Congo,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kabare,DR Congo,Goma,29.225652,-1.6665685,8
+SInt-ULEI-SL-049-COD,DR Congo,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kabare,DR Congo,Goma,29.225652,-1.6665685,8
+SInt-ULEI-SL-076-COD,DR Congo,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kalehe,DR Congo,Goma,29.225652,-1.6665685,8
+SInt-ULEI-SL-088-COD,DR Congo,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Mwenga,DR Congo,Goma,29.225652,-1.6665685,8
+SInt-ULEI-SL-080-COD,DR Congo,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Walungu,DR Congo,Goma,29.225652,-1.6665685,8

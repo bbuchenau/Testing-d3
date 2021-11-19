@@ -1,0 +1,417 @@
+submissionID,studyCountry,stud_adm1,lond_stud_adm1,lat_stud_adm1,studyCity,studyLon,studyLat,birthCountry,countryID,birthCity,contactCountry,cont_adm1,long_cont_adm1,lat_cont_adm1,contactCity,contactLon,contactLat,weight	
+SInt-AUTH-NM-244-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Kunduz,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,1	
+SInt-AUTH-NM-217-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Mazari Sharif,Afghanistan,Balkh,67.2185,36.6851,Balkh,66.8980826,36.7581256,2	
+SInt-AUTH-NM-248-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Kandahar,Pakistan,Baluchistan,65.5512,27.5194,Balochistan,65.79611173,28.09952517,2	
+SInt-AUTH-NM-212-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Bamyan,Afghanistan,Bamyan,67.2365,34.9693,Bamyan,67.25,34.75,5	
+SInt-AUTH-NM-243-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Ghazni,Germany,Berlin,13.4213,52.5131,Berlin,13.3888599,52.5170365,2	
+SInt-AUTH-NM-201-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Bamyan,Belgium,Brussels,4.36266,50.8332,Brussels,4.359779196,50.84373495,2	
+SInt-AUTH-NM-230-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Mazari Sharif (Balkh),Iran,Bushehr,51.4225,28.8273,Bushehr,51.3204877,28.8936645,1	
+SInt-AUTH-NM-257-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Hirat,Iran,Esfahan,52.4195,32.9837,Isfahan,51.6650002,32.6707877,2	
+SInt-AUTH-NM-262-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Bamyan,Iran,Fars,53.0793,29.4007,Shiraz,52.5378041,29.6060218,6	
+SInt-AUTH-NM-223-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Ghazni,Afghanistan,Ghazni,67.8006,33.4079,Ghazni,67.828989,33.3149631,11	
+SInt-AUTH-NM-213-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Lale Sar Jangel,Afghanistan,Ghor,64.9224,34.002,Ghor,64.9201949,34.1605257,2	
+SInt-AUTH-NM-224-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Hirat,Germany,Hamburg,10.0344,53.559,Hamburg,10.000654,53.550341,3	
+SInt-AUTH-NM-238-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Hirat,Afghanistan,Hirat,62.4845,34.1551,Herat,62.2164003,34.3508273,3	
+SInt-AUTH-NM-253-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Logar,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787458,34.0123846,2	
+SInt-AUTH-NM-221-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Baghlan,Afghanistan,Kabul,69.3846,34.4949,Kabul,69.1776838,34.5260109,8	
+SInt-AUTH-NM-216-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Kabul,Iran,Kerman,56.9567,30.1234,Kerman,57.301047,29.571858,2	
+SInt-AUTH-NM-271-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Bamyan,Australia,New South Wales,146.781,-32.4751,Sydney,151.2164539,-33.8548157,3	
+SInt-AUTH-NM-231-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Hirat,France,Paris,2.34347,48.8594,Paris,2.3514616,48.8566969,1	
+SInt-AUTH-NM-245-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Hirat,France,RhÃ´ne,4.64841,45.841,Lyon,4.8320114,45.7578137,1	
+SInt-AUTH-MM-208-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Hilmand,Greece,StereÃ¡ EllÃ¡da,22.6102,38.6373,Thessaloniki,23.5282598,38.3707671,1	
+SInt-AUTH-NM-202-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Ghazni,Sweden,Stockholm,17.8652,59.3659,Stockholm,18.0710935,59.3251172,1	
+SInt-AUTH-NM-255-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Behsoud,Iran,Tehran,51.6548,35.5146,Tehran,51.3896004,35.6892523,13	
+SInt-AUTH-NM-209-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Badakhshan,Afghanistan,Uruzgan,66.3011,33.8446,Dysai,65.75054328,33.58546235,2	
+SInt-AUTH-NM-235-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Behsoud,Afghanistan,Wardak,68.1087,34.4269,Behsoud,67.90911181,34.34818142,3	
+SInt-AUTH-NM-259-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Ghazni,Austria,Wien,16.3798,48.2247,Vienna,16.3725042,48.2083537,2	
+SInt-AUTH-NM-247-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Afghanistan,1,Ghazni,Switzerland,ZÃ¼rich,8.6609,47.4297,Zurich,8.5410422,47.3744489,1	
+SInt-SHARP-AI-271-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Afghanistan,1,Kabul,Pakistan,Baluchistan,65.5512,27.5194,Quetta,67.0172447,30.1957677,2	
+SInt-SHARP-SK-252-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Afghanistan,1,Kabul,Pakistan,K.P.,72.6402,34.9407,Hari Pur,72.93069066,34.00183104,19	
+SInt-SHARP-ZA-228-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Afghanistan,1,Kunduz,Afghanistan,Kabul,69.3846,34.4949,Kabul,69.1776838,34.5260109,1	
+SInt-SHARP-AI-009-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Afghanistan,1,Logar,Afghanistan,Nangarhar,70.3027,34.2153,Jalalabad,70.460128,34.430195,3	
+SInt-SHARP-AI-009-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Afghanistan,1,Logar,Pakistan,Punjab,72.3449,31.3589,Attock,72.35999201,33.76681271,7	
+SInt-SHARP-ZA-248-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Afghanistan,1,Kabul,Pakistan,Sind,68.8685,26.3734,Karachi,67.0207055,24.8546842,3	
+SInt-SHARP-AI-016-PAK,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787,34.0125,Afghanistan,1,Laghman,Afghanistan,Baghlan,68.9831,35.8588,Charbagh,68.5875612,35.5964572,4	
+SInt-SHARP-ZA-141-PAK,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787,34.0125,Afghanistan,1,Wardak,Belgium,Brussels,4.36266,50.8332,Brussels,4.359779196,50.84373495,1	
+SInt-SHARP-ZA-197-PAK,Pakistan,K.P.,72.6402,34.9407,Mardan,72.0449,34.1942,Afghanistan,1,Baghlan,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787458,34.0123846,6	
+SInt-SHARP-SK-313-PAK,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787,34.0125,Afghanistan,1,Kabul,Afghanistan,Kabul,69.3846,34.4949,Kabul,69.1776838,34.5260109,5	
+SInt-SHARP-SK-313-PAK,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787,34.0125,Afghanistan,1,Kabul,Afghanistan,Laghman,70.2085,34.7273,Laghman,70.183333,34.783333,6	
+SInt-SHARP-AI-027-PAK,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787,34.0125,Afghanistan,1,Laghman,Afghanistan,Nangarhar,70.3027,34.2153,Jalalabad,70.460128,34.430195,1	
+SInt-SHARP-AI-013-PAK,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787,34.0125,Afghanistan,1,Kabul,Australia,New South Wales,146.781,-32.4751,Sydney,151.2164539,-33.8548157,2	
+SInt-SHARP-ZA-141-PAK,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787,34.0125,Afghanistan,1,Wardak,Canada,Ontario,-84.7943,50.5244,Toronto,-79.3839347,43.6534817,1	
+SInt-SHARP-AI-190-PAK,Pakistan,K.P.,72.6402,34.9407,Mardan,72.0449,34.1942,Afghanistan,1,Kabul,Pakistan,Punjab,72.3449,31.3589,Lahore,74.3141829,31.5656822,2	
+SInt-SHARP-SK-315-PAK,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787,34.0125,Afghanistan,1,Kabul,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-SHARP-ZA-163-PAK,Pakistan,Punjab,72.3449,31.3589,Lahore,74.3142,31.5658,Afghanistan,1,Baghlan,Pakistan,Baluchistan,65.5512,27.5194,Quetta,67.0172447,30.1957677,3	
+SInt-SHARP-AR-412-PAK,Pakistan,Punjab,72.3449,31.3589,Lahore,74.3142,31.5658,Afghanistan,1,Baghlan,Pakistan,K.P.,72.6402,34.9407,Bannu,70.64132568,32.9936353,24	
+SInt-SHARP-ZA-153-PAK,Pakistan,Punjab,72.3449,31.3589,Lahore,74.3142,31.5658,Afghanistan,1,Baghlan,Afghanistan,Kabul,69.3846,34.4949,Kabul,69.1776838,34.5260109,1	
+SInt-SHARP-AR-409-PAK,Pakistan,Punjab,72.3449,31.3589,Lahore,74.3142,31.5658,Afghanistan,1,Kandahar,Afghanistan,Kandahar,65.7163,31.135,Kandahar,65.7157573,31.6205738,4	
+SInt-SHARP-AI-035-PAK,Pakistan,Punjab,72.3449,31.3589,Lahore,74.3142,31.5658,Afghanistan,1,Kunduz,Pakistan,Punjab,72.3449,31.3589,Gujranwala,74.19412852,32.16319331,7	
+SInt-SHARP-AI-311-PAK,Pakistan,Punjab,72.3449,31.3589,Lahore,74.3142,31.5658,Afghanistan,1,Kunduz,Pakistan,Sind,68.8685,26.3734,Karachi,67.0207055,24.8546842,4	
+SInt-FIERI-FR-046-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Afghanistan,1,Parwan,Afghanistan,Kabul,69.3846,34.4949,Kabul,69.1776838,34.5260109,1	
+SInt-SHARP-AI-175-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Faryab,Iraq,Baghdad,44.3827,33.306,Baghdad,44.3787992,33.3024309,1	
+SInt-SHARP-AR-185-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Kabul,Pakistan,Baluchistan,65.5512,27.5194,Loralai,68.59588183,30.37912538,7	
+SInt-SHARP-NS-203-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Kunduz,Iran,Esfahan,52.4195,32.9837,Isfahan,51.6650002,32.6707877,1	
+SInt-SHARP-AR-179-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Kandahar,Pakistan,K.P.,72.6402,34.9407,Charsadda,71.7517705,34.16916546,11	
+SInt-SHARP-AI-178-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Baghlan,Oman,Muscat,58.6759,23.2505,Muscat,58.3829448,23.5882019,2	
+SInt-SHARP-SK-236-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Kunduz,USA,New York,-75.3242,43.1988,New York,-74.0060152,40.7127281,1	
+SInt-SHARP-AI-048-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Kabul,Canada,Ontario,-84.7943,50.5244,Toronto,-79.3839347,43.6534817,4	
+SInt-SHARP-SK-223-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Kandahar,Pakistan,Punjab,72.3449,31.3589,Lahore,74.3141829,31.5656822,7	
+SInt-SHARP-AI-178-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Baghlan,Iran,Razavi Khorasan,58.7976,35.584,Mashhad,59.61927416,36.2687579,2	
+SInt-SHARP-NS-201-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Baghlan,Pakistan,Sind,68.8685,26.3734,Mirpur Khas,69.0158197,25.52350484,1	
+SInt-SHARP-AI-172-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Afghanistan,1,Baghlan,Iran,Tehran,51.6548,35.5146,Tehran,51.3896004,35.6892523,4	
+SInt-AUTH-NM-228-GRC,Greece,StereÃ¡ EllÃ¡da,22.6102,38.6373,Tiva,23.31901404,38.32154756,Afghanistan,1,Ghazni,Afghanistan,Ghazni,67.8006,33.4079,Ghazni,67.828989,33.3149631,2	
+SInt-FIERI-FR-001-ITA,Italy,Udine,13.1961,46.0839,Udine,13.2359222,46.0626085,Afghanistan,1,Laghman,Belgium,Antwerp,4.72122,51.2485,Antwerpen,4.3997081,51.2211097,1	
+SInt-FIERI-FR-005-ITA,Italy,Udine,13.1961,46.0839,Basaldella,13.2359222,46.0626085,Afghanistan,1,Laghman,Afghanistan,Laghman,70.2085,34.7273,Laghman,70.183333,34.783333,3	
+SInt-FIERI-FR-002-ITA,Italy,Udine,13.1961,46.0839,Basaldella,13.2359222,46.0626085,Afghanistan,1,Parwan,Afghanistan,Parwan,68.8995,34.9984,Parwan,68.9146703,34.9797014,3	
+SInt-FIERI-FR-019-ITA,Italy,Udine,13.1961,46.0839,Udine,13.2359222,46.0626085,Afghanistan,1,Nangarhar,Sweden,SkÃ¥ne,13.5193,55.9073,Malmo,13.0001566,55.6052931,1	
+SInt-FIERI-FR-002-ITA,Italy,Udine,13.1961,46.0839,Basaldella,13.2359222,46.0626085,Afghanistan,1,Parwan,Italy,Udine,13.1961,46.0839,Udine,13.23694604,46.0656251,1	
+SInt-AUTH-NM-295-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Lesbos,26.28370102,39.29403315,Afghanistan,1,Kabul,Turkey,Ankara,32.578,39.829,Ankara,32.81895689,39.94310256,1	
+SInt-AUTH-NM-277-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Chios,26.05713365,38.38279204,Afghanistan,1,Hirat,Greece,Attiki,23.7997,38.0626,Athens,23.7283052,37.9839412,1	
+SInt-AUTH-NM-290-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Lesbos,26.28370102,39.29403315,Afghanistan,1,Mazari Sharif,Afghanistan,Balkh,67.2185,36.6851,Balkh,66.8980826,36.7581256,2	
+SInt-AUTH-NM-277-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Chios,26.05713365,38.38279204,Afghanistan,1,Hirat,Germany,Berlin,13.4213,52.5131,Berlin,13.3888599,52.5170365,1	
+SInt-AUTH-NM-276-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Chios,26.05713365,38.38279204,Afghanistan,1,Badakhshan,Iran,Bushehr,51.4225,28.8273,Bushehr,51.3204877,28.8936645,2	
+SInt-AUTH-NM-291-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Lesbos,26.28370102,39.29403315,Afghanistan,1,Ghazni,Afghanistan,Ghazni,67.8006,33.4079,Ghazni,67.828989,33.3149631,2	
+SInt-AUTH-NM-279-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Chios,26.05713365,38.38279204,Afghanistan,1,Wardak,Germany,Hamburg,10.0344,53.559,Hamburg,10.000654,53.550341,2	
+SInt-AUTH-NM-284-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Chios,26.05713365,38.38279204,Afghanistan,1,Hirat,Afghanistan,Hirat,62.4845,34.1551,Herat,62.2164003,34.3508273,2	
+SInt-AUTH-NM-275-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Chios,26.05713365,38.38279204,Afghanistan,1,Kabul,Afghanistan,Kabul,69.3846,34.4949,Kabul,69.1776838,34.5260109,17	
+SInt-AUTH-NM-286-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Chios,26.05713365,38.38279204,Afghanistan,1,Kabul,UK,Liverpool,-2.9327,53.4312,Liverpool,-2.99168,53.4071991,1	
+SInt-AUTH-NM-295-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Lesbos,26.28370102,39.29403315,Afghanistan,1,Kabul,Australia,New South Wales,146.781,-32.4751,Sydney,151.2164539,-33.8548157,2	
+SInt-AUTH-NM-285-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Chios,26.05713365,38.38279204,Afghanistan,1,Hirat,Iran,Razavi Khorasan,58.7976,35.584,Mashhad,59.6059232,36.2974945,2	
+SInt-AUTH-NM-293-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Lesbos,26.28370102,39.29403315,Afghanistan,1,Kabul,France,RhÃ´ne,4.64841,45.841,Lyon,4.8320114,45.7578137,1	
+SInt-AUTH-NM-284-GRC,Greece,Voreio Aigaio,25.2262,39.9531,Chios,26.05713365,38.38279204,Afghanistan,1,Hirat,Iran,Tehran,51.6548,35.5146,Tehran,51.3896004,35.6892523,4	
+SInt-AUTH-ST-007-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,DR Congo,2,Katanga,Greece,Attiki,23.7997,38.0626,Athens,23.7283052,37.9839412,2	
+SInt-AUTH-ST-005-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,DR Congo,2,Katanga,Greece,Kentriki Makedonia,22.8519,40.8836,Thessaloniki,22.95203484,40.63095871,2	
+SInt-AUTH-ST-011-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,DR Congo,2,Kinshasa,DR Congo,Kinshasa City,15.8492,-4.49522,Kinshasa,15.3125974,-4.3217055,2	
+SInt-AUTH-ST-005-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,DR Congo,2,Katanga,Greece,Voreio Aigaio,25.2262,39.9531,Samos,26.81929189,37.72461615,1	
+SInt-ULEI-SL-049-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kabare,Belgium,Brussels,4.36266,50.8332,Brussels,4.359779196,50.84373495,3	
+SInt-ULEI-JR-048-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Kabare,Burundi,Bujumbura Mairie,29.3689,-3.39861,Bujumbura,29.36261589,-3.361246268,6	
+SInt-ULEI-JR-036-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Mwenga,Tanzania,Dar-Es-Salaam,39.2857,-6.89289,Dar-es-Salaam,39.27625184,-6.802981056,2	
+SInt-ULEI-JR-059-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Mwenga,USA,District of Columbia,-77.0113,38.8922,Washington DC,-77.0365427,38.8950368,2	
+SInt-ULEI-JR-059-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Mwenga,United Arab Emirates,Dubay,55.3436,24.9508,Dubai,55.18853865,25.07428235,1	
+SInt-ULEI-SL-068-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kabare,Uganda,Kampala,32.6048,0.360019,Kampala,32.5813539,0.3177137,6	
+SInt-ULEI-SL-070-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kalehe,DR Congo,Katanga,26.2512,-8.48374,Haut Katanga province,28.0960296,-10.68200782,10	
+SInt-ULEI-JR-048-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Kabare,Rwanda,Kigali City,30.1253,-1.92643,Kigali,30.061507,-1.950851,7	
+SInt-ULEI-SL-059-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kabare,DR Congo,Kinshasa City,15.8492,-4.49522,Kinshasa,15.3125974,-4.3217055,17	
+SInt-ULEI-JR-006-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Walungu,South Africa,KwaZulu-Natal,30.8231,-28.7468,Durban,31.009909,-29.861825,3	
+SInt-ULEI-SL-070-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kalehe,DR Congo,Maniema,26.0336,-3.26017,Kindu,25.83094812,-2.39266755,4	
+SInt-ULEI-JR-010-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Walungu,Kenya,Nairobi,36.9039,-1.29384,Nairobi,36.82606122,-1.30316895,1	
+SInt-ULEI-JR-078-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Walungu,Australia,New South Wales,146.781,-32.4751,Sydney,151.2164539,-33.8548157,1	
+SInt-ULEI-SL-077-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kabare,DR Congo,Nord-Kivu,28.5939,-0.659128,Goma,29.225652,-1.6665685,42	
+SInt-ULEI-JR-054-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Kabare,Germany,Nordrhein-Westfalen,7.65708,51.6146,Bonn,7.10066,50.735851,2	
+SInt-ULEI-SL-070-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kalehe,DR Congo,Orientale,26.785,2.40438,Kisangani,25.2057292,0.5184021,3	
+SInt-ULEI-JR-049-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Walungu,Norway,Oslo,10.6419,60.0237,Oslo,10.7389701,59.9133301,1	
+SInt-ULEI-JR-043-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Kabare,France,Paris,2.34347,48.8594,Paris,2.3514616,48.8566969,1	
+SInt-ULEI-JR-058-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Kalehe,Canada,QuÃ©bec,-73.7168,52.2593,Montreal,-73.6103642,45.4972159,6	
+SInt-ULEI-JR-054-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Kabare,Italy,Roma,12.7308,41.965,Rome,12.4829321,41.8933203,1	
+SInt-ULEI-SL-077-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Bagira,28.8529724,-2.508456945,DR Congo,2,Kabare,DR Congo,Sud-Kivu,28.1159,-3.10474,Fizi,28.88063156,-4.2696783,179	
+SInt-ULEI-JR-033-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Walungu,USA,Texas,-98.7607,31.131,Texas,-99.5120986,31.8160381,2	
+SInt-ULEI-JR-039-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Kadatu,28.8529724,-2.508456945,DR Congo,2,Kabare,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-AAU-Bhy-010-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,Canada,Alberta,-115,55.2816,Edmonton,-113.507996,53.535411,1	
+SInt-AAU-Ytk-018-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Maekel Region,Eritrea,Anseba,39.0563,15.2792,Asmara,38.9326763,15.3389667,8	
+SInt-AAU-Sgt-001-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,Germany,Berlin,13.4213,52.5131,Berlin,13.3888599,52.5170365,3	
+SInt-AAU-Bhy-008-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Gash-Barka,UK,Birmingham,-1.81614,52.4782,Birmingham,-1.9026911,52.4796992,1	
+SInt-AAU-Bhy-018-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Maekel Region,South Sudan,Central Equatoria,31.2854,4.68142,Juba,31.5951655,4.8472017,1	
+SInt-AAU-Bhy-039-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Maekel Region,Eritrea,Debub,40.1691,15.6179,Massawa,39.45323249,15.60973572,1	
+SInt-AAU-Ytk-015-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Maekel Region,USA,District of Columbia,-77.0113,38.8922,Washington DC,-77.0365427,38.8950368,4	
+SInt-AAU-Bhy-030-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,Germany,Hamburg,10.0344,53.559,Hamburg,10.000654,53.550341,5	
+SInt-AAU-Bhy-011-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,Germany,Hessen,8.95873,50.6098,Frankfurt,8.6820917,50.1106444,10	
+SInt-AAU-Ytk-001-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,Denmark,Hovedstaden,12.3198,55.8486,Copenhagen,12.5700724,55.6867243,4	
+SInt-AAU-Sgt-015-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,USA,Indiana,-86.1396,39.8874,Indiana,-86.1746933,40.3270127,3	
+SInt-AAU-Ytk-023-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Maekel Region,Sudan,Khartoum,32.9823,15.7338,Khartoum,32.54065604,15.57790946,1	
+SInt-AAU-Bhy-037-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,Eritrea,Maekel,38.9679,14.858,Adi Quala,38.833557,14.633798,4	
+SInt-AAU-Ytk-001-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,USA,Maryland,-77.0454,39.3874,Maryland,-76.62767362,39.29008521,3	
+SInt-AAU-Sgt-003-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,Russia,Moskva,37.6188,55.7177,Moscow,37.61595328,55.74733301,1	
+SInt-AAU-Sgt-012-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,USA,Nevada,-117.02,39.4299,Las Vegas,-115.148516,36.1672559,1	
+SInt-AAU-Ytk-019-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,Australia,New South Wales,146.781,-32.4751,Sydney,151.2164539,-33.8548157,4	
+SInt-AAU-Ytk-004-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Northern Region,USA,New York,-75.3242,43.1988,New York,-74.0060152,40.7127281,1	
+SInt-AAU-Sgt-005-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Maekel Region,Netherlands,Noord-Holland,4.89736,52.5748,Amsterdam,4.8936041,52.3727598,1	
+SInt-AAU-Ytk-009-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,Germany,Nordrhein-Westfalen,7.65708,51.6146,Bonn,7.10066,50.735851,1	
+SInt-AAU-Bhy-026-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,USA,North Carolina,-78.866,35.6152,Charlotte,-80.8430827,35.2272086,1	
+SInt-AAU-Bhy-006-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Gash-Barka,Canada,Ontario,-84.7943,50.5244,Toronto,-79.3839347,43.6534817,4	
+SInt-AAU-Ytk-037-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,Norway,Oslo,10.6419,60.0237,Oslo,10.7389701,59.9133301,3	
+SInt-AAU-Sgt-015-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,France,Paris,2.34347,48.8594,Paris,2.3514616,48.8566969,1	
+SInt-AAU-Bhy-007-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Gash-Barka,USA,Pennsylvania,-77.6094,40.8601,Philadelphia,-75.1635262,39.9527237,1	
+SInt-AAU-Ytk-003-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,Italy,Roma,12.7308,41.965,Rome,12.4829321,41.8933203,3	
+SInt-AAU-Bhy-036-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Anseba,Eritrea,Semenawi Keyih Bahri,37.9175,16.6263,Keren,38.453606,15.780477,2	
+SInt-AAU-Sgt-027-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Anseba,Sweden,Stockholm,17.8652,59.3659,Stockholm,18.0710935,59.3251172,4	
+SInt-AAU-Bhy-032-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,Israel,Tel Aviv,34.8091,32.0966,Tel Aviv,34.7818064,32.0852997,6	
+SInt-AAU-Ytk-012-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Debub Region,USA,Texas,-98.7607,31.131,Texas,-99.5120986,31.8160381,2	
+SInt-AAU-Sgt-036-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Maekel Region,Norway,Vest-Agder,7.30897,58.4481,Kristiansand,7.964961237,58.1301855,1	
+SInt-AAU-Sgt-031-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Maekel Region,Australia,Victoria,144.75,-37.0082,Melbourne,144.9631608,-37.8142176,2	
+SInt-AAU-Sgt-028-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Eritrea,3,Debub Region,USA,Virginia,-78.2431,37.7403,Virginia,-78.4927721,37.1232245,1	
+SInt-AAU-Ytk-023-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Eritrea,3,Maekel Region,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,6	
+SInt-AAU-HAG-001-ET,Ethiopia,Afar,41.0236,12.1232,Afar - Asayata,41.438675,11.565831,Eritrea,3,Southern Region,Ethiopia,Afar,41.0236,12.1232,Afar Region,41.00809889,11.67689135,1	
+SInt-AAU-HAG-026-ET,Ethiopia,Afar,41.0236,12.1232,Afar - Asayata,41.438675,11.565831,Eritrea,3,Southern Region,USA,California,-119.591,36.7496,Los Angeles,-118.242766,34.0536909,1	
+SInt-AAU-HTA-010-ET,Ethiopia,Afar,41.0236,12.1232,Afar - Asayata,41.438675,11.565831,Eritrea,3,Other Region,USA,Illinois,-89.1991,39.946,Chicago,-87.6244212,41.8755616,1	
+SInt-AAU-AHA-001-ET,Ethiopia,Afar,41.0236,12.1232,Afar - Asayata,41.438663,11.565831,Eritrea,3,Southern Region,USA,Massachusetts,-71.9993,42.3739,Boston,-71.0582912,42.3602534,1	
+SInt-AAU-HTA-002-ET,Ethiopia,Afar,41.0236,12.1232,Afar - Asayata,41.438675,11.565831,Eritrea,3,Other Region,USA,Ohio,-82.6719,40.0924,Columbus,-82.99306958,39.96629194,2	
+SInt-FIERI-YSH-153-ITA,Italy,Catania,14.969,37.5882,Catania,15.08953247,37.50376503,Eritrea,3,Debub Region,Ethiopia,Addis Ababa,38.7815,8.966,Addis Ababa,38.7612525,9.0107934,1	
+SInt-FIERI-YSH-153-ITA,Italy,Catania,14.969,37.5882,Catania,15.08953247,37.50376503,Eritrea,3,Debub Region,Uganda,Kampala,32.6048,0.360019,Kampala,32.5813539,0.3177137,1	
+SInt-FIERI-YSH-173-ITA,Italy,Catania,14.969,37.5882,Catania,15.08953247,37.50376503,Eritrea,3,Debub Region,Switzerland,Ticino,8.79019,46.3604,Bellinzona,9.023278623,46.19160525,1	
+SInt-FIERI-YSH-173-ITA,Italy,Catania,14.969,37.5882,Catania,15.08953247,37.50376503,Eritrea,3,Debub Region,Switzerland,ZÃ¼rich,8.6609,47.4297,Zurich,8.5410422,47.3744489,1	
+SInt-FIERI-YSH-131-ITA,Italy,Milano,9.1154,45.442,Milan,9.183409663,45.46699671,Eritrea,3,Debub Region,Ethiopia,Addis Ababa,38.7815,8.966,Addis Ababa,38.7612525,9.0107934,1	
+SInt-FIERI-YSH-163-ITA,Italy,Milano,9.1154,45.442,Milan,9.183409663,45.46699671,Eritrea,3,Debub Region,Netherlands,Noord-Holland,4.89736,52.5748,Amsterdam,4.8936041,52.3727598,1	
+SInt-FIERI-YSH-163-ITA,Italy,Milano,9.1154,45.442,Milan,9.183409663,45.46699671,Eritrea,3,Debub Region,Switzerland,Vaud,6.5118,46.6204,Lausanne,6.620902772,46.51752802,1	
+SInt-FIERI-YSH-163-ITA,Italy,Milano,9.1154,45.442,Milan,9.183409663,45.46699671,Eritrea,3,Debub Region,Switzerland,ZÃ¼rich,8.6609,47.4297,Zurich,8.5410422,47.3744489,1	
+SInt-FIERI-YSH-181-ITA,Italy,Parma,10.04,44.6355,Parma,10.32711337,44.80122418,Eritrea,3,Debub Region,Canada,Alberta,-115,55.2816,Calgary,-114.065465,51.0460954,1	
+SInt-FIERI-YSH-181-ITA,Italy,Parma,10.04,44.6355,Parma,10.32711337,44.80122418,Eritrea,3,Debub Region,Eritrea,Anseba,39.0563,15.2792,Asmara,38.9326763,15.3389667,1	
+SInt-FIERI-YSH-158-ITA,Italy,Rieti,12.9445,42.3382,Rieti,12.86022499,42.40756336,Eritrea,3,Debub Region,Norway,Vest-Agder,7.30897,58.4481,Kristiansand,7.964961237,58.1301855,1	
+SInt-FIERI-YSH-155-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Maekel Region,United Arab Emirates,Abu Dhabi,54.0817,23.5238,Abu Dhabi,54.3774014,24.4538352,1	
+SInt-FIERI-YSH-175-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Ethiopia,Addis Ababa,38.7815,8.966,Addis Ababa,38.7612525,9.0107934,12	
+SInt-FIERI-YSH-159-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Norway,Akershus,11.2222,60.1365,Lillestrom,11.04877965,59.95655401,1	
+SInt-FIERI-YSH-112-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Egypt,Al Qahirah,31.5788,29.9801,Cairo,31.24902248,30.05086615,1	
+SInt-FIERI-YSH-149-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Canada,Alberta,-115,55.2816,Alberta,-114.9044171,56.53801207,6	
+SInt-FIERI-YSH-118-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Italy,Ancona,13.1128,43.5383,Ancona,13.21879061,43.4801204,1	
+SInt-FIERI-YSH-179-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Maekel Region,Eritrea,Anseba,39.0563,15.2792,Asmara,38.9326763,15.3389667,2	
+SInt-FIERI-YSH-151-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Belgium,Antwerp,4.72122,51.2485,Antwerpen,4.3997081,51.2211097,2	
+SInt-FIERI-YSH-170-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Saudi Arabia,Ar Riyad,45.1404,23.3432,Riyadh,46.7160104,24.638916,3	
+SInt-FIERI-YSH-121-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,USA,Arizona,-111.935,34.3046,Arizona,-112.1659424,33.90317565,1	
+SInt-FIERI-YSH-104-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Germany,Baden-WÃ¼rttemberg,9.00328,48.59,Ulm,9.985009101,48.39776275,1	
+SInt-FIERI-YSH-105-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Germany,Berlin,13.4213,52.5131,Berlin,13.3888599,52.5170365,3	
+SInt-FIERI-YSH-111-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Switzerland,Bern,7.65026,46.7988,Bern,7.449432948,46.94823494,2	
+SInt-FIERI-YSH-177-ITA,Italy,Roma,12.7308,41.965,Fonte Nuova,12.48317519,41.89861642,Eritrea,3,Northern Region,UK,Birmingham,-1.81614,52.4782,Birmingham,-1.893930997,52.48155053,2	
+SInt-FIERI-YSH-196-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Maekel Region,Italy,Bologna,11.4149,44.3949,Bologna,11.3430308,44.4937577,1	
+SInt-FIERI-YSH-125-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Canada,British Columbia,-124.662,54.6943,Vancouver,-123.1139529,49.2608724,1	
+SInt-FIERI-YSH-137-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Belgium,Brussels,4.36266,50.8332,Brussels,4.359779196,50.84373495,1	
+SInt-FIERI-YSH-152-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,USA,California,-119.591,36.7496,California,-118.755997,36.7014631,3	
+SInt-FIERI-YSH-133-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,South Sudan,Central Equatoria,31.2854,4.68142,Juba,31.57409635,4.860687786,1	
+SInt-FIERI-YSH-110-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Italy,Crotene,16.9491,39.1644,Crotone,17.12681145,39.0801487,1	
+SInt-FIERI-YSH-188-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Sweden,Dalarna,14.4404,60.814,Mora,14.5431333,61.0082091,1	
+SInt-FIERI-YSH-113-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,USA,District of Columbia,-77.0113,38.8922,Washington DC,-77.0365427,38.8950368,2	
+SInt-FIERI-YSH-104-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Switzerland,GenÃ¨ve,6.11764,46.237,Geneve,6.147520137,46.20334484,1	
+SInt-FIERI-YSH-143-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Germany,Hamburg,10.0344,53.559,Hamburg,10.000654,53.550341,1	
+SInt-FIERI-YSH-112-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Norway,Hedmark,11.2721,61.5285,Engerdal,11.94007417,61.97347215,1	
+SInt-FIERI-YSH-139-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Germany,Hessen,8.95873,50.6098,Frankfurt,8.6820917,50.1106444,7	
+SInt-FIERI-YSH-169-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Maekel Region,Norway,Hordaland,6.89657,60.1134,Bergen,5.321298356,60.39141396,1	
+SInt-FIERI-YSH-111-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Denmark,Hovedstaden,12.3198,55.8486,Copenhagen,12.5700724,55.6867243,1	
+SInt-FIERI-YSH-106-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Uganda,Kampala,32.6048,0.360019,Kampala,32.5813539,0.3177137,6	
+SInt-FIERI-YSH-136-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Sudan,Khartoum,32.9823,15.7338,Khartoum,32.54065604,15.57790946,3	
+SInt-FIERI-YSH-169-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Maekel Region,Italy,Lecce,18.2094,40.167,Lecce,18.17343563,40.35595681,1	
+SInt-FIERI-YSH-122-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,UK,Leeds,-1.47788,53.8106,Leeds,-1.5437941,53.7974185,2	
+SInt-FIERI-YSH-184-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Netherlands,Limburg,5.93161,51.2248,Roermond,5.9882649,51.1933903,1	
+SInt-FIERI-YSH-155-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Maekel Region,UK,Liverpool,-2.9327,53.4312,Liverpool,-2.99168,53.4071991,1	
+SInt-FIERI-YSH-151-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Eritrea,Maekel,38.9679,14.858,Segeneiti,39.19059278,15.06130713,2	
+SInt-FIERI-YSH-156-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,USA,Massachusetts,-71.9993,42.3739,Boston,-71.0582912,42.3602534,2	
+SInt-FIERI-YSH-111-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Italy,Milano,9.1154,45.442,Milan,9.1905,45.4668,4	
+SInt-FIERI-YSH-151-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Kenya,Nairobi,36.9039,-1.29384,Nairobi,36.82606122,-1.30316895,1	
+SInt-FIERI-YSH-119-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Netherlands,Noord-Holland,4.89736,52.5748,Amsterdam,4.8936041,52.3727598,1	
+SInt-FIERI-YSH-109-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Germany,Nordrhein-Westfalen,7.65708,51.6146,Dortmund,7.4652789,51.5142273,1	
+SInt-FIERI-YSH-171-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Sweden,Norrbotten,20.4529,66.837,Boden,21.666667,65.833333,2	
+SInt-FIERI-YSH-135-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Canada,Ontario,-84.7943,50.5244,Ontario,-86.000977,50.000678,5	
+SInt-FIERI-YSH-177-ITA,Italy,Roma,12.7308,41.965,Fonte Nuova,12.48317519,41.89861642,Eritrea,3,Northern Region,Norway,Oslo,10.6419,60.0237,Oslo,10.7389701,59.9133301,5	
+SInt-FIERI-YSH-105-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,France,Paris,2.34347,48.8594,Paris,2.3514616,48.8566969,1	
+SInt-FIERI-YSH-156-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Canada,QuÃ©bec,-73.7168,52.2593,Montreal,-73.6103642,45.4972159,1	
+SInt-FIERI-YSH-152-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Norway,SÃ¸r-TrÃ¸ndelag,10.6956,62.9613,Trondhein,10.39428492,63.43059606,1	
+SInt-FIERI-YSH-122-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Italy,Savona,8.28916,44.2864,Savona,8.252572737,44.2334238,1	
+SInt-FIERI-YSH-178-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Eritrea,Semenawi Keyih Bahri,37.9175,16.6263,Ambese Geleba,38.31663081,15.89821823,2	
+SInt-FIERI-YSH-132-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,UK,Sheffield,-1.57387,53.4087,Sheffield,-1.4702278,53.3806626,1	
+SInt-FIERI-YSH-132-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Denmark,SjaÃ¦lland,11.7483,55.4417,Koge,12.18401864,55.45578939,1	
+SInt-FIERI-YSH-121-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Switzerland,Solothurn,7.41999,47.4325,Olten,7.903034088,47.34992175,3	
+SInt-FIERI-YSH-140-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Sweden,Stockholm,17.8652,59.3659,Stockholm,18.0710935,59.3251172,7	
+SInt-FIERI-YSH-146-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Denmark,Syddanmark,9.1292,55.349,Odense,10.3923197,55.39820754,1	
+SInt-FIERI-YSH-184-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Israel,Tel Aviv,34.8091,32.0966,Tel Aviv,34.7818064,32.0852997,3	
+SInt-FIERI-YSH-183-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Switzerland,Ticino,8.79019,46.3604,Lugano,8.9520281,46.0050102,1	
+SInt-FIERI-YSH-159-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Ethiopia,Tigray,38.2158,14.1003,Mai-Aini Camp,38.153946,13.654018,2	
+SInt-FIERI-YSH-123-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Anseba,Italy,Udine,13.1961,46.0839,Udine,13.23694604,46.0656251,1	
+SInt-FIERI-YSH-102-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Maekel Region,Sweden,Uppsala,17.7896,60.1522,Uppsala,17.64194864,59.86264335,1	
+SInt-FIERI-YSH-126-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Sweden,VÃ¤rmland,13.0764,59.8068,Karlstad,13.5027631,59.3809146,1	
+SInt-FIERI-YSH-145-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Northern Region,Sweden,VÃ¤stra GÃ¶taland,12.8371,58.2428,Lidkoping,13.1576427,58.5037196,1	
+SInt-FIERI-YSH-167-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Maekel Region,USA,Washington,-120.361,47.4865,Seattle,-122.3372643,47.63053014,1	
+SInt-FIERI-YSH-101-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,7	
+SInt-FIERI-YSH-133-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Switzerland,ZÃ¼rich,8.6609,47.4297,Zurich,8.5410422,47.3744489,5	
+SInt-FIERI-YSH-190-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Eritrea,3,Debub Region,Netherlands,Zuid-Holland,4.52252,52.0075,Rotterdam,4.4631786,51.9228934,4	
+SInt-AAU-Mga-001-ET,Ethiopia,Tigray,38.2158,14.1003,Mekele,39.4693274,13.49817444,Eritrea,3,Maekel Region,Ethiopia,Addis Ababa,38.7815,8.966,Addis Ababa,38.7612525,9.0107934,3	
+SInt-AAU-Awe-030-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Debub Region,New Zealand,Auckland,174.597,-36.6334,Auckland,174.7582685,-36.85618562,1	
+SInt-AAU-Awe-004-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Debub Region,Germany,Bayern,11.3966,49.0056,Munich,11.5753822,48.1371079,4	
+SInt-AAU-Awe-034-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Debub Region,USA,District of Columbia,-77.0113,38.8922,Washington DC,-77.0365427,38.8950368,1	
+SInt-AAU-Awe-029-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Debub Region,USA,Hawaii,-157.999,21.4919,Hawai,-155.4268897,19.58726775,1	
+SInt-AAU-Mkr-004-ET,Ethiopia,Tigray,38.2158,14.1003,Shire,38.28306186,14.10394365,Eritrea,3,Anseba,Sudan,Kassala,35.5979,15.6265,Kassela,36.40210157,15.45812244,1	
+SInt-AAU-Awe-003-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Southern Region,USA,Nevada,-117.02,39.4299,Las Vegas,-115.148516,36.1672559,1	
+SInt-AAU-Asm-002-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Debub Region,Netherlands,Noord-Holland,4.89736,52.5748,Amsterdam,4.8936041,52.3727598,2	
+SInt-AAU-Awe-001-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Maekel Region,USA,North Carolina,-78.866,35.6152,Desmond,-80.4364445,36.0684705,2	
+SInt-AAU-Mkr-004-ET,Ethiopia,Tigray,38.2158,14.1003,Shire,38.28306186,14.10394365,Eritrea,3,Anseba,Eritrea,Semenawi Keyih Bahri,37.9175,16.6263,Keren,38.453606,15.780477,1	
+SInt-AAU-Awe-001-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Maekel Region,Australia,South Australia,135.783,-29.6504,Adelaide,138.5973211,-34.92294726,1	
+SInt-AAU-Awe-020-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Debub Region,Sweden,Stockholm,17.8652,59.3659,Stockholm,18.0710935,59.3251172,1	
+SInt-AAU-Tes-001-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Debub Region,Israel,Tel Aviv,34.8091,32.0966,Tel Aviv,34.7818064,32.0852997,3	
+SInt-AAU-Mkr-004-ET,Ethiopia,Tigray,38.2158,14.1003,Shire,38.28306186,14.10394365,Eritrea,3,Anseba,Ethiopia,Tigray,38.2158,14.1003,Shire,38.28294574,14.0998916,1	
+SInt-AAU-Awe-001-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Maekel Region,Australia,Victoria,144.75,-37.0082,Melbourne,144.9631608,-37.8142176,1	
+SInt-AAU-Asm-005-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Debub Region,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-AAU-Awe-001-ET,Ethiopia,Tigray,38.2158,14.1003,Tigray - Mai Aini,38.153946,13.654018,Eritrea,3,Maekel Region,Switzerland,ZÃ¼rich,8.6609,47.4297,Zurich,8.5410422,47.3744489,1	
+SInt-FIERI-GG-019-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Eritrea,3,Asmara,Italy,Roma,12.7308,41.965,Rome,12.4829321,41.8933203,1	
+SInt-FIERI-YSH-127-ITA,Italy,Udine,13.1961,46.0839,Udine,13.2359222,46.0626085,Eritrea,3,Debub Region,Ethiopia,Addis Ababa,38.7815,8.966,Addis Ababa,38.7612525,9.0107934,1	
+SInt-FIERI-YSH-127-ITA,Italy,Udine,13.1961,46.0839,Udine,13.2359222,46.0626085,Eritrea,3,Debub Region,Switzerland,ZÃ¼rich,8.6609,47.4297,Zurich,8.5410422,47.3744489,1	
+SInt-YU-KM-028-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,United Arab Emirates,Abu Dhabi,54.0817,23.5238,Abu Dhabi,54.3774014,24.4538352,1	
+SInt-YU-KM-022-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,3	
+SInt-YU-KM-013-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Kuwait,Al Asimah,48.3318,29.4497,Al Farwaniah,47.9735629,29.3797091,3	
+SInt-YU-KM-032-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Jordan,Amman,36.4418,31.6211,Amman,35.9239625,31.9515694,2	
+SInt-YU-KM-026-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Germany,Berlin,13.4213,52.5131,Berlin,13.3888599,52.5170365,2	
+SInt-YU-KM-033-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Rif Dimashq,Syria,Damascus,36.2897,33.5101,Damascus,36.3095814,33.5130695,1	
+SInt-YU-KM-039-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,USA,Georgia,-83.4078,32.8547,Georgia,-83.37866384,32.80602416,1	
+SInt-YU-KM-029-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Syria,Idlib,36.6829,35.8528,Idlib,36.57109063,35.8600391,2	
+SInt-YU-KM-002-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Homs,USA,Indiana,-86.1396,39.8874,Indianapolis,-86.15404502,39.76861782,1	
+SInt-YU-KM-008-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Damascus,Jordan,Irbid,35.8195,32.5559,Irbid,35.5624544,32.3851711,11	
+SInt-YU-KM-003-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Jordan,Jarash,35.856,32.2186,Jerash Governorate,35.89482456,32.26802557,4	
+SInt-YU-KM-015-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Jordan,Karak,35.7693,31.1753,Al Karak,35.7047218,31.1847222,1	
+SInt-YU-KM-014-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Jordan,Ma`an,36.6401,30.492,Baqaa Camp,35.520716,30.477208,1	
+SInt-YU-KM-021-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,Jordan,Mafraq,37.6195,32.2481,Zaatari Camp,36.3267426,32.2942395,4	
+SInt-YU-KM-004-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,USA,Michigan,-84.9479,43.4343,Michigan,-84.6824346,43.6211955,3	
+SInt-YU-KM-009-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Quneitra,Canada,Nova Scotia,-62.8113,45.2293,Nova Scotia,-63.6552538,44.7335573,1	
+SInt-YU-KM-019-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Dar`a,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-YU-KM-033-JOR,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,Syria,4,Rif Dimashq,Jordan,Zarqa,36.8284,31.8095,Al Zarqa,36.0885771,32.0668425,3	
+SInt-AUTH-MN-018-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Syria,4,Aleppo,Turkey,Izmir,27.3977,38.2426,Izmir,27.1434119,38.4147331,1	
+SInt-AUTH-MN-031-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Syria,4,Aleppo,Sweden,SkÃ¥ne,13.5193,55.9073,Malmo,13.0001566,55.6052931,3	
+SInt-AUTH-MN-065-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Syria,4,Aleppo,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-YU-WA-043-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,United Arab Emirates,Abu Dhabi,54.0817,23.5238,Abu Dhabi,54.3774014,24.4538352,7	
+SInt-YU-TY-052-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Jordan,Ajlun,35.761,32.2932,Ajloun,35.8128458,32.3600834,1	
+SInt-YU-WA-007-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Kuwait,Al Asimah,48.3318,29.4497,Kuwait City,47.9735629,29.3797091,11	
+SInt-YU-WA-039-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Aleppo,Bahrain,Al JanÅ«bÄ«yah,50.5622,25.9688,Bahrain,50.56006758,26.04807021,1	
+SInt-YU-WA-039-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Aleppo,Syria,Aleppo,37.601,36.1054,Aleppo,37.1637253,36.19924,3	
+SInt-YU-TY-007-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Damascus,Jordan,Amman,36.4418,31.6211,Amman,35.9239625,31.9515694,19	
+SInt-YU-RA-023-JOR,Jordan,Irbid,35.8195,32.5559,Ramtha Area,36.010167,32.558748,Syria,4,Aleppo,Turkey,Ankara,32.578,39.829,Ankara,32.81895689,39.94310256,1	
+SInt-YU-WA-036-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Saudi Arabia,Ash Sharqiyah,50.1714,22.9875,Al Dammam,50.1039991,26.4367824,1	
+SInt-YU-WA-010-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Damascus,Lebanon,Beirut,35.5093,33.8849,Beirut,35.49346702,33.89263326,3	
+SInt-YU-RA-022-JOR,Jordan,Irbid,35.8195,32.5559,Ramtha Area,36.010167,32.558748,Syria,4,Dar`a,Libya,Benghazi,20.6182,31.2887,Benghazi,20.08268964,32.11086848,1	
+SInt-YU-WA-005-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Germany,Berlin,13.4213,52.5131,Berlin,13.3888599,52.5170365,13	
+SInt-YU-WA-020-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Aleppo,Syria,Damascus,36.2897,33.5101,Damascus,36.3095814,33.5130695,9	
+SInt-YU-TY-018-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Syria,Dar`a,36.1698,32.8686,Dar'a,36.1109696,32.6224342,42	
+SInt-YU-WA-020-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Aleppo,United Arab Emirates,Dubay,55.3436,24.9508,Dubai,55.18853865,25.07428235,7	
+SInt-YU-WA-041-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Hamah,Syria,Hamah,37.22,35.2352,Hamah,36.75538653,35.13892974,1	
+SInt-YU-RA-022-JOR,Jordan,Irbid,35.8195,32.5559,Ramtha Area,36.010167,32.558748,Syria,4,Dar`a,Germany,Hamburg,10.0344,53.559,Hamburg,10.000654,53.550341,1	
+SInt-YU-WA-010-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Damascus,Kuwait,Hawalli,48.0306,29.3243,Salmiya,48.0684884,29.3328242,13	
+SInt-YU-WA-025-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Damascus,Germany,Hessen,8.95873,50.6098,Frankfurt,8.6820917,50.1106444,3	
+SInt-YU-WA-040-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Homs,Syria,Homs (Hims),38.1425,34.1503,Homs,36.7166667,34.7333334,3	
+SInt-YU-RA-025-JOR,Jordan,Irbid,35.8195,32.5559,Ramtha Area,36.010167,32.558748,Syria,4,Dar`a,Syria,Idlib,36.6829,35.8528,Idlib,36.57109063,35.8600391,2	
+SInt-YU-TY-009-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Jordan,Irbid,35.8195,32.5559,Al-Ramtha,36.006944,32.559167,21	
+SInt-YU-WA-004-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Turkey,Istanbul,28.8463,41.1285,Istanbul,28.9651646,41.0096334,2	
+SInt-YU-TY-008-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Damascus,Jordan,Mafraq,37.6195,32.2481,Mafraq,38.13152652,32.5363788,3	
+SInt-YU-WA-037-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Saudi Arabia,Makkah,40.2542,21.4348,Jeddah,39.1653612,21.5810088,2	
+SInt-YU-RA-030-JOR,Jordan,Irbid,35.8195,32.5559,Ramtha Area,36.010167,32.558748,Syria,4,Homs,Canada,Manitoba,-97.3828,54.85,Manitoba,-97.001038,55.001251,1	
+SInt-YU-RA-007-JOR,Jordan,Irbid,35.8195,32.5559,Ramtha Area,36.010167,32.558748,Syria,4,Dar`a,UK,Mid Ulster,-6.70918,54.6262,Northern Ireland,-6.759498494,54.68027165,1	
+SInt-YU-WA-001-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Canada,New Brunswick,-66.4558,46.5822,Fredericton,-66.64737084,45.95737568,1	
+SInt-YU-RA-018-JOR,Jordan,Irbid,35.8195,32.5559,Ramtha Area,36.010167,32.558748,Syria,4,Dar`a,Australia,New South Wales,146.781,-32.4751,Sydney,151.2164539,-33.8548157,1	
+SInt-YU-WA-009-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Netherlands,Noord-Holland,4.89736,52.5748,Amsterdam,4.8936041,52.3727598,1	
+SInt-YU-WA-011-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Germany,Nordrhein-Westfalen,7.65708,51.6146,Munster,7.627544659,51.96172889,2	
+SInt-YU-WA-034-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Lebanon,North Lebanon,36.0424,34.3933,Tripoli,35.8225116,34.4453581,2	
+SInt-YU-WA-009-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Canada,Ontario,-84.7943,50.5244,Toronto,-79.3839347,43.6534817,1	
+SInt-YU-WA-039-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Aleppo,France,Paris,2.34347,48.8594,Paris,2.3514616,48.8566969,5	
+SInt-YU-WA-002-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Czech Republic,Prague,14.4487,50.0647,Prague,14.42338775,50.08811996,3	
+SInt-YU-RA-018-JOR,Jordan,Irbid,35.8195,32.5559,Ramtha Area,36.010167,32.558748,Syria,4,Dar`a,Canada,QuÃ©bec,-73.7168,52.2593,Montreal,-73.6103642,45.4972159,3	
+SInt-YU-WA-027-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Sweden,Stockholm,17.8652,59.3659,Stockholm,18.0710935,59.3251172,5	
+SInt-YU-WA-035-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,2	
+SInt-YU-TY-040-JOR,Jordan,Irbid,35.8195,32.5559,Irbid City,35.8493023,32.5556091,Syria,4,Dar`a,Jordan,Zarqa,36.8284,31.8095,Azraq Camp,36.8161831,31.833333,6	
+SInt-YU-AGS-050-JOR,Jordan,Mafraq,37.6195,32.2481,Zaatari Camp,36.3270549,32.2928659,Syria,4,Dar`a,Kuwait,Al Asimah,48.3318,29.4497,Kuwait City,47.9735629,29.3797091,2	
+SInt-YU-RH-030-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Homs,Saudi Arabia,Al Jawf,38.3651,29.5589,Al Qurayyat,37.96594287,30.8263242,2	
+SInt-YU-AGS-026-JOR,Jordan,Mafraq,37.6195,32.2481,Zaatari Camp,36.3270549,32.2928659,Syria,4,Dar`a,Saudi Arabia,Al Madinah,39.4378,24.9279,Madina,39.162594,25.1354363,1	
+SInt-YU-RH-004-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Aleppo,Syria,Aleppo,37.601,36.1054,Aleppo,37.1637253,36.19924,6	
+SInt-YU-RH-002-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Aleppo,Jordan,Amman,36.4418,31.6211,Amman,35.9239625,31.9515694,7	
+SInt-YU-RH-049-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Ar Raqqah,Syria,Ar Raqqah,38.9127,36.0067,Al Raqqah,39.0089212,35.949678,1	
+SInt-YU-RH-046-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Homs,Saudi Arabia,Ar Riyad,45.1404,23.3432,Riyadh,46.69051757,24.73412918,1	
+SInt-YU-RH-031-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Homs,Saudi Arabia,Ash Sharqiyah,50.1714,22.9875,Hafar al Batin,45.97803032,28.38497082,1	
+SInt-YU-AGS-017-JOR,Jordan,Mafraq,37.6195,32.2481,Zaatari Camp,36.3270549,32.2928659,Syria,4,Dar`a,Jordan,Balqa,35.7216,31.8345,Salt City,35.72429354,32.03559448,1	
+SInt-YU-RH-009-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Aleppo,Lebanon,Beirut,35.5093,33.8849,Beirut,35.49346702,33.89263326,3	
+SInt-YU-RH-034-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Homs,Lebanon,Beqaa,36.1086,34.0494,Baalbek,36.20794996,34.00493702,6	
+SInt-YU-RH-038-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Damascus,Syria,Damascus,36.2897,33.5101,Damascus,36.3095814,33.5130695,2	
+SInt-YU-RH-042-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Dar`a,Syria,Dar`a,36.1698,32.8686,Dar'a,36.1109696,32.6224342,1	
+SInt-YU-RH-051-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Homs,USA,District of Columbia,-77.0113,38.8922,Washington DC,-77.0365427,38.8950368,1	
+SInt-YU-AGS-050-JOR,Jordan,Mafraq,37.6195,32.2481,Zaatari Camp,36.3270549,32.2928659,Syria,4,Dar`a,United Arab Emirates,Dubay,55.3436,24.9508,Dubai,55.18853865,25.07428235,1	
+SInt-YU-RH-055-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Homs,Turkey,Gaziantep,37.2462,36.9988,Gaziantep,37.38288119,37.06587395,1	
+SInt-YU-AGS-001-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Dar`a,Syria,Hamah,37.22,35.2352,Hamah,36.75538653,35.13892974,2	
+SInt-YU-RH-050-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Aleppo,Turkey,Hatay,36.2284,36.4876,Al Reyhani,36.5672311,36.2684483,5	
+SInt-YU-RH-001-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Homs,Syria,Homs (Hims),38.1425,34.1503,Homs,36.7166667,34.7333334,24	
+SInt-YU-RH-011-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Aleppo,Syria,Idlib,36.6829,35.8528,Idlib,36.57109063,35.8600391,5	
+SInt-YU-RH-045-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Aleppo,Jordan,Irbid,35.8195,32.5559,Al-Ghor (Jordan valley),35.5742333,32.31100096,3	
+SInt-YU-RH-029-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Homs,Turkey,Istanbul,28.8463,41.1285,Istanbul,28.9651646,41.0096334,3	
+SInt-YU-AGS-010-JOR,Jordan,Mafraq,37.6195,32.2481,Zaatari Camp,36.3270549,32.2928659,Syria,4,Dar`a,Jordan,Madaba,35.6722,31.5852,Madaba,35.7949665,31.71692057,1	
+SInt-YU-RH-013-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Homs,Jordan,Mafraq,37.6195,32.2481,Al Kalidiah,36.20612102,32.3431669,5	
+SInt-YU-RH-027-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Aleppo,Lebanon,North Lebanon,36.0424,34.3933,Tripoli,35.8225116,34.4453581,5	
+SInt-YU-AGS-017-JOR,Jordan,Mafraq,37.6195,32.2481,Zaatari Camp,36.3270549,32.2928659,Syria,4,Dar`a,Jordan,Tafilah,35.6436,30.7879,Al Tafelah,35.63608203,30.84042055,1	
+SInt-YU-RH-046-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Homs,Austria,Wien,16.3798,48.2247,Vienna,16.3725042,48.2083537,1	
+SInt-YU-RH-009-JOR,Jordan,Mafraq,37.6195,32.2481,Mafraq City,36.2048577,32.3444716,Syria,4,Aleppo,Jordan,Zarqa,36.8284,31.8095,Azraq Camp,36.8161831,31.833333,3	
+SInt-FIERI-FR-041-ITA,Italy,Treviso,12.2313,45.8092,Possagno,11.87479106,45.8522677,Syria,4,Tartus,Italy,Roma,12.7308,41.965,Rome,12.4829321,41.8933203,1	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Nathu sivia/Gojranwala/Punjab,Spain,Barcelona,2.00777,41.6575,Barcelona,2.1774322,41.3828939,1	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Gujrat,Germany,Hessen,8.95873,50.6098,Frankfurt,8.6820917,50.1106444,2	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Gujrat,Italy,Milano,9.1154,45.442,Milan,9.1905,45.4668,1	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Mikiana,USA,New York,-75.3242,43.1988,New York,-74.0060152,40.7127281,1	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Mong (Mandi bahauddin),Germany,Niedersachsen,8.86184,52.775,Hannover,9.73640183,52.37727823,1	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Bhago (Kharina),Netherlands,Noord-Holland,4.89736,52.5748,Amsterdam,4.8936041,52.3727598,1	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Sheikhupura,Canada,Ontario,-84.7943,50.5244,Toronto,-79.3839347,43.6534817,1	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Gujrat,France,Paris,2.34347,48.8594,Paris,2.3514616,48.8566969,1	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Gojranwala,Pakistan,Punjab,72.3449,31.3589,Bahri (Mandi bahauddin),73.59457177,32.33651701,90	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Gujrat,Finland,Uusimaa,24.8475,60.4179,Helsinki,24.93901089,60.17071993,1	
+SInt-AUTH-MI-301-GRC,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,Pakistan,5,Sheikhupura,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-SHARP-AI-003-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Pakistan,5,,Afghanistan,Baghlan,68.9831,35.8588,Baghlan,68.74626149,36.17958989,1	
+SInt-SHARP-AI-004-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Pakistan,5,,Afghanistan,Balkh,67.2185,36.6851,Turkestan,67.12728179,36.71710992,1	
+SInt-SHARP-SK-250-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Pakistan,5,,Pakistan,Baluchistan,65.5512,27.5194,Quetta,67.0172447,30.1957677,1	
+SInt-SHARP-AI-007-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Pakistan,5,,Pakistan,F.C.T.,73.0628,33.7011,Sangjani,72.84830088,33.67557082,1	
+SInt-SHARP-AI-007-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Pakistan,5,,Pakistan,K.P.,72.6402,34.9407,Sawabi,72.4733733,34.12781869,1	
+SInt-SHARP-AI-008-PAK,Pakistan,F.C.T.,73.0628,33.7011,Islamabad,73.035,33.7352,Pakistan,5,,Afghanistan,Uruzgan,66.3011,33.8446,Naraykareem,65.75054328,33.58546235,2	
+SInt-FIERI-GG-002-ITA,Italy,Imperia,7.81935,44.011,Imperia,8.040475894,43.89211375,Pakistan,5,Punjab,United Arab Emirates,Dubay,55.3436,24.9508,Dubai,55.18853865,25.07428235,1	
+SInt-SHARP-ZA-162-PAK,Pakistan,K.P.,72.6402,34.9407,Mardan,72.0449,34.1942,Pakistan,5,,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787458,34.0123846,17	
+SInt-SHARP-SK-314-PAK,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787,34.0125,Pakistan,5,Kabul,Afghanistan,Laghman,70.2085,34.7273,Laghman,70.183333,34.783333,1	
+SInt-SHARP-AI-017-PAK,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787,34.0125,Pakistan,5,,Afghanistan,Nangarhar,70.3027,34.2153,Jalalabad,70.460128,34.430195,1	
+SInt-SHARP-ZA-162-PAK,Pakistan,K.P.,72.6402,34.9407,Mardan,72.0449,34.1942,Pakistan,5,,Pakistan,Punjab,72.3449,31.3589,Noshera,74.3038717,32.6450663,1	
+SInt-SHARP-ZA-151-PAK,Pakistan,Punjab,72.3449,31.3589,Lahore,74.3142,31.5658,Pakistan,5,,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787458,34.0123846,1	
+SInt-SHARP-AR-403-PAK,Pakistan,Punjab,72.3449,31.3589,Lahore,74.3142,31.5658,Pakistan,5,,Pakistan,Punjab,72.3449,31.3589,Chakwal,72.86071176,32.93305316,10	
+SInt-SHARP-ZA-243-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Pakistan,5,,Pakistan,Baluchistan,65.5512,27.5194,Quetta,67.0172447,30.1957677,1	
+SInt-SHARP-ZA-243-PAK,Pakistan,Sind,68.8685,26.3734,Karachi,67.2308,25.0035,Pakistan,5,,Pakistan,Punjab,72.3449,31.3589,Peshawar,74.3141829,31.5656822,1	
+SInt-FIERI-FR-045-ITA,Italy,Udine,13.1961,46.0839,Udine,13.2359222,46.0626085,Pakistan,5,Punjab,Greece,Attiki,23.7997,38.0626,Athens,23.7265735,37.98398982,1	
+SInt-FIERI-FR-010-ITA,Italy,Udine,13.1961,46.0839,Udine,13.2359222,46.0626085,Pakistan,5,Punjab,Germany,Hessen,8.95873,50.6098,Frankfurt,8.6820917,50.1106444,1	
+SInt-FIERI-FR-003-ITA,Italy,Udine,13.1961,46.0839,Basaldella,13.2359222,46.0626085,Pakistan,5,Peshawar,Pakistan,K.P.,72.6402,34.9407,Peshawar,71.5787458,34.0123846,5	
+SInt-FIERI-FR-020-ITA,Italy,Udine,13.1961,46.0839,Udine,13.2359222,46.0626085,Pakistan,5,Sialkot,Italy,Modena,10.8516,44.4311,Carpi,10.88173235,44.78374481,1	
+SInt-FIERI-FR-016-ITA,Italy,Udine,13.1961,46.0839,Udine,13.2359222,46.0626085,Pakistan,5,Kashmir,Italy,Piacenza,9.58167,44.8704,Piacenza,9.666531258,44.8476352,1	
+SInt-FIERI-FR-031-ITA,Italy,Udine,13.1961,46.0839,Cividale,13.43013174,46.09487279,Pakistan,5,Punjab,India,Punjab,72.3449,31.3589,Punjab,72,31,31	
+SInt-FIERI-FR-029-ITA,Italy,Udine,13.1961,46.0839,Udine,13.2359222,46.0626085,Pakistan,5,Punjab,Italy,Venezia,12.1647,45.4591,Venezia,12.3345898,45.4371908,1	
+SInt-FIERI-FR-015-ITA,Italy,Udine,13.1961,46.0839,Udine,13.2359222,46.0626085,Pakistan,5,Punjab,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-AAU-Sgt-037-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Ethiopia,99,Addis Ababa,Ethiopia,Addis Ababa,38.7815,8.966,Addis Ababa,38.7612525,9.0107934,1	
+SInt-AAU-Ytk-007-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Ethiopia,99,Addis Ababa,Eritrea,Anseba,39.0563,15.2792,Asmara,38.9326763,15.3389667,1	
+SInt-AAU-Ytk-007-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Ethiopia,99,Addis Ababa,USA,Arizona,-111.935,34.3046,Arizona,-112.1659424,33.90317565,1	
+SInt-AAU-Ytk-006-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Ethiopia,99,Addis Ababa,USA,District of Columbia,-77.0113,38.8922,Washington DC,-77.0365427,38.8950368,1	
+SInt-AAU-Sgt-008-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Ethiopia,99,Addis Ababa,Germany,Hessen,8.95873,50.6098,Frankfurt,8.6820917,50.1106444,1	
+SInt-AAU-Sgt-011-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Ethiopia,99,Addis Ababa,USA,Minnesota,-93.364,46.0592,Minnesota,-94.6113288,45.9896587,1	
+SInt-AAU-Ytk-008-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Ethiopia,99,,Australia,New South Wales,146.781,-32.4751,Sydney,151.2164539,-33.8548157,1	
+SInt-AAU-Sgt-037-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Ethiopia,99,Addis Ababa,Norway,Vest-Agder,7.30897,58.4481,Kristiansand,8.018956237,58.16002277,1	
+SInt-AAU-Sgt-011-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Mebrathayil,38.7146778,9.0295451,Ethiopia,99,Addis Ababa,USA,Virginia,-78.2431,37.7403,Virginia,-78.4927721,37.1232245,2	
+SInt-AAU-Ytk-006-ET,Ethiopia,Addis Ababa,38.7815,8.966,Addis - Bole Arabsa,38.7146778,9.0295451,Ethiopia,99,Addis Ababa,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-FIERI-GG-006-ITA,Italy,Imperia,7.81935,44.011,Imperia,8.040475894,43.89211375,Guinea,99,Kankan,Guinea,Kankan,-9.12624,10.1319,Kankan,-9.3175166,10.6248355,5	
+SInt-FIERI-GG-005-ITA,Italy,Imperia,7.81935,44.011,Imperia,8.040475894,43.89211375,Mali,99,Diabira/Kayes,France,Paris,2.34347,48.8594,Paris,2.3514616,48.8566969,3	
+SInt-FIERI-FR-071-ITA,Italy,Milano,9.1154,45.442,Milan,9.183409663,45.46699671,Cameroon,99,,Italy,Bergamo,9.77093,45.8097,Lombardy region,9.874400841,45.62120736,1	
+SInt-FIERI-FR-068-ITA,Italy,Milano,9.1154,45.442,Milan,9.183409663,45.46699671,Senegal,99,Bignuna,Senegal,Dakar,-17.3327,14.7835,Dakar,-17.447938,14.693425,2	
+SInt-FIERI-FR-062-ITA,Italy,Milano,9.1154,45.442,Milan,9.183409663,45.46699671,Senegal,99,Dakar,France,Paris,2.34347,48.8594,Paris,2.3514616,48.8566969,3	
+SInt-FIERI-FR-062-ITA,Italy,Milano,9.1154,45.442,Milan,9.183409663,45.46699671,Senegal,99,Dakar,France,RhÃ´ne,4.64841,45.841,Lyon,4.8320114,45.7578137,1	
+SInt-FIERI-FR-066-ITA,Italy,Milano,9.1154,45.442,Milan,9.183409663,45.46699671,Gambia,99,,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-FIERI-FR-084-ITA,Italy,Modena,10.8516,44.4311,Carpi (Modena),10.88585349,44.78181139,Nigeria,99,Edo State,Nigeria,Edo,5.84934,6.52416,Edo State,5.9722713,6.6076575,1	
+SInt-FIERI-YSH-116-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Ethiopia,99,Addis Ababa,Ethiopia,Addis Ababa,38.7815,8.966,Addis Ababa,38.7612525,9.0107934,1	
+SInt-FIERI-YSH-172-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Sudan,99,Kesala (Eastern Sudan),Canada,Alberta,-115,55.2816,Edmonton,-113.507996,53.535411,1	
+SInt-FIERI-YSH-180-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Ethiopia,99,Tigray,Belgium,Brussels,4.36266,50.8332,Brussels,4.359779196,50.84373495,1	
+SInt-FIERI-YSH-199-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Ethiopia,99,Addis Ababa,USA,California,-119.591,36.7496,California,-118.755997,36.7014631,1	
+SInt-FIERI-FR-040-ITA,Italy,Roma,12.7308,41.965,Roma,12.48317519,41.89861642,Iran,99,,Iran,Esfahan,52.4195,32.9837,Isfahan,51.6650002,32.6707877,2	
+SInt-FIERI-FR-037-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Cameroon,99,,Cameroon,Littoral,10.0932,4.1938,Duala,9.706203,4.0429408,1	
+SInt-FIERI-YSH-162-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Ethiopia,99,Addis Ababa,UK,Manchester,-2.26678,53.4597,Manchester,-2.2451148,53.4794892,1	
+SInt-FIERI-FR-052-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Togo,99,Lome,Togo,Maritime,1.24665,6.42521,Lome,1.215829,6.130419,2	
+SInt-FIERI-YSH-116-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Ethiopia,99,Addis Ababa,Canada,Ontario,-84.7943,50.5244,Toronto,-79.3839347,43.6534817,1	
+SInt-FIERI-YSH-180-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Ethiopia,99,Tigray,Italy,Pescara,13.8877,42.3126,Pescara,13.95759011,42.3102619,1	
+SInt-FIERI-YSH-172-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Sudan,99,Kesala (Eastern Sudan),Sweden,Stockholm,17.8652,59.3659,Stockholm,18.0710935,59.3251172,1	
+SInt-FIERI-YSH-116-ITA,Italy,Roma,12.7308,41.965,Rome,12.48317519,41.89861642,Ethiopia,99,Addis Ababa,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-ULEI-IA-049-COD,DR Congo,Sud-Kivu,28.1159,-3.10474,Bukavu - Ibanda,28.8529724,-2.508456945,Burundi,99,Gitega,DR Congo,Sud-Kivu,28.1159,-3.10474,Other neighbourhood in Bukavu,28.85056894,-2.512487117,2	
+SInt-FIERI-FR-091-ITA,Italy,Treviso,12.2313,45.8092,One di Fonte,11.87502879,45.78404098,Nigeria,99,Edo State,Nigeria,Edo,5.84934,6.52416,Edo State,5.9722713,6.6076575,5	
+SInt-FIERI-FR-093-ITA,Italy,Treviso,12.2313,45.8092,One di Fonte,11.87502879,45.78404098,Nigeria,99,Edo State,Niger,Lagos,3.52478,6.43313,Lagos,3.375958223,6.498235085,1	
+SInt-FIERI-FR-086-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Gambia,99,Serekunda,Germany,Baden-WÃ¼rttemberg,9.00328,48.59,Tubingen,9.0535531,48.5236164,1	
+SInt-FIERI-GG-035-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Mali,99,Region of Timbuktu,Mali,Bamako,-8.01917,12.643,Bamako,-7.984739136,12.61326555,1	
+SInt-FIERI-GG-027-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Nigeria,99,Benin City,Germany,Berlin,13.4213,52.5131,Berlin,13.3888599,52.5170365,1	
+SInt-FIERI-GG-075-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Senegal,99,Dakar,Senegal,Dakar,-17.3327,14.7835,Dakar,-17.447938,14.693425,3	
+SInt-FIERI-GG-034-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Nigeria,99,Agbor,Nigeria,Delta,5.88195,5.44265,Agbor,6.182193,6.2578135,2	
+SInt-FIERI-GG-008-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Nigeria,99,Benin City,Nigeria,Edo,5.84934,6.52416,Benin city,5.609161203,6.334262822,8	
+SInt-FIERI-GG-036-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Nigeria,99,Edo State,Germany,Hamburg,10.0344,53.559,Hamburg,10.000654,53.550341,1	
+SInt-FIERI-GG-050-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Cote d'Ivoire,99,Abidjan,Ivory Coast,Lagunes,-4.42852,5.4607,Abidjan,-4.016107,5.320357,4	
+SInt-FIERI-GG-001-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Mali,99,Region of Timbuktu,Mauritania,Nouakchott,-15.92,18.139,Nouhankchott,-15.97279556,18.0821336,1	
+SInt-FIERI-GG-053-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Nigeria,99,Ogun state,Nigeria,Ogun,3.29255,7.01845,Ogun State,3.4389293,6.9788582,1	
+SInt-FIERI-GG-077-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Senegal,99,Mbour,France,Paris,2.34347,48.8594,Paris,2.3514616,48.8566969,1	
+SInt-FIERI-GG-001-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Mali,99,Region of Timbuktu,Mali,Timbuktu,-3.295,19.9073,Goundam,-3.6636275,16.4168533,4	
+SInt-FIERI-GG-064-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Nigeria,99,Edo State,Italy,Vercelli,8.15956,45.8416,Vercelli,8.423737705,45.32234472,1	
+SInt-FIERI-GG-027-ITA,Italy,Turin,7.47211,45.1609,Torino,7.684475733,45.07385256,Nigeria,99,Benin City,UK,Westminster,-0.161651,51.5115,London,-0.1276474,51.5073219,1	
+SInt-FIERI-FR-034-ITA,Italy,Udine,13.1961,46.0839,Cassacco,13.19387025,46.17526344,Togo,99,Lome,Togo,Maritime,1.24665,6.42521,Lome,1.215829,6.130419,2	
+SInt-FIERI-FR-032-ITA,Italy,Udine,13.1961,46.0839,Cividale,13.43013174,46.09487279,Mali,99,Segou,Mali,SÃ©gou,-5.51952,13.5852,Segou,-5.991121103,14.0492494,2	
+SInt-FIERI-FR-051-ITA,Italy,Venezia,12.1647,45.4591,Mestre,12.26419844,45.46571989,Nigeria,99,Delta State,Italy,Mantova,10.7355,45.1396,Mantova,10.79110177,45.15596115,1	
+SInt-FIERI-FR-050-ITA,Italy,Venezia,12.1647,45.4591,Marghera,12.26419844,45.46571989,Cameroon,99,Ovest,Cameroon,Ouest,10.5889,5.36694,Ovest,10.41690231,5.48640898,2	
+SInt-FIERI-FR-060-ITA,Italy,Vicenza,11.4753,45.712,Vicenza,11.54610747,45.54889421,Senegal,99,Mbour,Italy,Terni,12.4862,42.5788,Terni (Calabria),12.64282734,42.56363492,1	
+	

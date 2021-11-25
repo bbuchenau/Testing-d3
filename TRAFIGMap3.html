@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <!-- Load plotly.js into the DOM -->
+    <script src='https://cdn.plot.ly/plotly-2.4.2.min.js'></script>
+    <script src='https://cdnjs.cloudflare.com/ajax/libs/d3/7.1.1/d3.min.js'></script>
+
+    <style>
+        html,
+        body {
+            height: 100%;
+            margin: 0;
+        }
+
+        .full-height {
+            height: 100%
+        }
+    </style>
+</head>
+
+<body>
+    <!-- Full-size div where globe & legend will be shown -->
+    <div id='contacts' class='full-height'></div>
+
+    <script>
+
+        //Configuration map for trace colors and legend names.
+        const config = {
+            1: { color: '#007396', name: "Afghans" },
+            2: { color: '#47853e', name: "Congolese" },
+            3: { color: '#F29C68', name: "Eritreans" },
+            4: { color: '#aca1b5', name: "Syrians" },
+            5: { color: '#71797E', name: "Pakistanis" },
+            99: { color: '#959DA2', name: "Other countries" }
+        }
+
+        //Set color according to origin country.
+        function trafigColors(countryID) {
+            return config[countryID].color
+        }
+
+        //Displaying correct word for origin country.
+        function legendName(countryID) {
+            return config[countryID].name
+        }
+
+        //If no contact city is mentioned, write unknown city.
+        function cityName(contactCity) {
+            if (contactCity === "") {
+                return "unknown city"
+            }
+            return contactCity
+        }
+
+        //Drawing trace from given start to end with settings according to countryID.
+        function drawTrace(legendOffset, countryID, lonArray, latArray, dash) {
+            return {
+                type: 'scattergeo',
+                locationmode: 'country names',
+                name: legendName(countryID),
+                legendgroup: countryID + legendOffset, //Offset just for getting legend sorted right.
+                showlegend: !config[countryID].hasLegend,
+                legendrank: parseInt(countryID + legendOffset, 10),
+                hoverinfo: 'skip',
+                lon: lonArray,
+                lat: latArray,
+                mode: 'lines',
+                line: {
+                    color: trafigColors(countryID),
+                    width: 2,
+                    dash: dash,
+                },
+                opacity: 0.2
+            }
+        }
+
+        //Drawing marker at given location with settings according to weight, city and country.
+        function drawMarker(weight, contactCity, contactCountry, lon, lat) {
+            return {
+                type: 'scattergeo',
+                showlegend: false,
+                hoverinfo: 'text',
+                hoverlabel: {
+                    align: 'left',
+                    bgcolor: 'white'
+                },
+                text: cityName(contactCity) + ', ' + contactCountry
+                    + '<br>Contacts at this place: ' + weight,
+                mode: 'markers',
+                name: contactCity,
+                lon: [lon],
+                lat: [lat],
+                marker: {
+                    symbol: 'circle-dot',
+                    size: 6 * Math.pow(weight, 1 / 4),
+                    color: '#8f9fb8',
+                    opacity: 0.8
+                }
+            }
+        }
+
+        //Set layout for the globe.
+        function setLayout() {
+            return {
+                title: '<b>TRAFIG Contact Persons</b> <br>(n = 2019)',
+                legend: {
+                    title: {
+                        text: 'Respondent origin groups',
+                        side: 'top'
+                    }
+                },
+                geo: {
+                    scope: 'world',
+                    resolution: '110',
+                    projection: {
+                        type: 'orthographic'
+                    },
+                    showland: true,
+                    showocean: true,
+                    showcountries: true,
+                    oceancolor: 'rgb(225, 231, 240)',
+                    landcolor: 'rgb(240, 240, 240)',
+                    countrycolor: 'rgb(190,190,190)'
+                }
+            }
+        }
+
+        /*Function is looping through data files, extracting all 
+        neccessary information and plotting the map in the end*/
+        function renderLines(rows) {
+
+            //Storing ALL displayable features in one array.
+            const all = [];
+
+            //dataContacts array for contact lines, contactPlaces array for markers and trajectories for fleeing routes.
+            const dataContacts = [];
+            const contactPlaces = [];
+            const trajectories = [];
+
+            //Looping through first data set: CONTACT PERSONS
+            for (const row of rows[0]) {
+                if (!row.countryID) {
+                    console.log(row)
+                    continue
+                }
+
+                //Push trace to array.
+                dataContacts.push(drawTrace(0, row.countryID, [row.studyLon, row.contactLon], [row.studyLat, row.contactLat], 'solid'))
+
+
+                //Setting hasLegend true if country is encountered first time.
+                config[row.countryID].hasLegend = true;
+
+                //Store marker information in contactPlaces array for hover labels.
+                contactPlaces.push(drawMarker(row.weight, row.contactCity, row.contactCountry, row.contactLon, row.contactLat));
+            }
+
+            //Setting legend workaround back to false to use it again in trajectories.
+            config[99].hasLegend = false;
+            for (var i = 1; i < 6; i++) {
+                config[i].hasLegend = false
+            }
+
+            //Looping through second data set: TRAJECTORIES
+            for (const row of rows[1]) {
+                if (!row.countryID) {
+                    console.log(row)
+                    continue
+                }
+
+                //Array for storing lon and lat coordinates.
+                lonArray = [];
+                latArray = [];
+
+                /*For each row, go through birth, transit 1-3 and study country.
+                If not empty, push coordinates to lon & lat array.*/
+
+                lonArray.push(row.birthLon)
+                latArray.push(row.birthLat)
+
+                if (row.transitCountry1.length > 0) {
+                    lonArray.push(row.transitLon1)
+                    latArray.push(row.transitLat1)
+                }
+                if (row.transitCountry2.length > 0) {
+                    lonArray.push(row.transitLon2)
+                    latArray.push(row.transitLat2)
+                }
+                if (row.transitCountry3.length > 0) {
+                    lonArray.push(row.transitLon3)
+                    latArray.push(row.transitLat3)
+                }
+
+                lonArray.push(row.studyLon)
+                latArray.push(row.studyLat)
+
+                trajectories.push(drawTrace(2000, row.countryID, latArray, lonArray, 'solid'))
+
+                //Setting hasLegend true if country is encountered first time.
+                config[row.countryID].hasLegend = true;
+            }
+
+            //Create two arrays (originCountries and studyCountries) with country information as objects. 
+            //TODO: Put into function!
+            const originCountries = [{
+                type: 'choropleth',
+                name: 'origin countries',
+                hoverinfo: 'skip',
+                visible: 'legendonly',
+                showscale: false,
+                showlegend: true,
+                locationmode: 'country names',
+                locations: ['Afghanistan', 'Eritrea', 'Syria', 'Democratic Republic of the Congo'],
+                z: [1, 1, 1, 1],
+                colorscale: [[0, '#bdacc2'], [1, '#bdacc2']],
+                marker: {
+                    opacity: 0.8
+                }
+            }];
+
+            const studyCountries = [{
+                type: 'choropleth',
+                name: 'study countries',
+                hoverinfo: 'skip',
+                visible: 'legendonly',
+                showscale: false,
+                showlegend: true,
+                locationmode: 'country names',
+                locations: ['Italy', 'Greece', 'Jordan', 'Ethiopia', 'Democratic Republic of the Congo', 'Pakistan'],
+                z: [1, 1, 1, 1, 1, 1],
+                colorscale: [[0, '#b8c2ac'], [1, '#b8c2ac']],
+                marker: {
+                    opacity: 0.8
+                }
+            }];
+
+            //Merge data arrays: dataContacts (lines), contactPlaces (markers), origin&studyCountries (filled polygon) in order of appearance on map.
+            Array.prototype.push.apply(all, contactPlaces);
+            Array.prototype.push.apply(all, dataContacts);
+            Array.prototype.push.apply(all, originCountries);
+            Array.prototype.push.apply(all, studyCountries);
+            Array.prototype.push.apply(all, trajectories);
+
+            //Set layout options for the map.
+            var layout = setLayout();
+
+            //Create the globe.
+            Plotly.newPlot("contacts", all, layout, { showLink: false, displayModeBar: true });
+        }
+
+        //Import CONTACT PERSONS and TRAJECTORIES data from online source. 
+        Promise.all([
+            d3.csv('https://raw.githubusercontent.com/bbuchenau/Testing-d3/main/weights_reduced.csv'),
+            d3.csv('https://raw.githubusercontent.com/bbuchenau/Testing-d3/main/trafigTestTrajectories')
+        ]).then(renderLines)
+
+    </script>
+</body>
+
+</html>

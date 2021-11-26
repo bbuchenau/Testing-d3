@@ -1,4 +1,4 @@
-﻿submissionID,studyCountry,studyCity,studyLat,studyLon,birthCountry,birthCity,birthLat,birthLon,TtCountry1,transitLat1,transitLon1,transitCountry2,transitLat2,transitLon2,transitCountry3,transitLat3,transitLon3,countryID,weight
+﻿submissionID,studyCountry,studyCity,studyLat,studyLon,birthCountry,birthCity,birthLat,birthLon,transitCountry1,transitLat1,transitLon1,transitCountry2,transitLat2,transitLon2,transitCountry3,transitLat3,transitLon3,countryID,weight
 SInt-ULEI-IA-035-COD,DR Congo,Sud-Kivu,-3.10474,28.1159,DR Congo,Sud-Kivu,-3.10474,28.1159,,,,,,,,,,2,285
 SInt-YU-RA-001-JOR,Jordan,Irbid,32.5559,35.8195,Syria,Dar`a,32.8686,36.1698,,,,,,,,,,4,122
 SInt-AAU-Asm-001-ET,Ethiopia,Tigray,14.1003,38.2158,Eritrea,Maekel,14.858,38.9679,,,,,,,,,,3,103

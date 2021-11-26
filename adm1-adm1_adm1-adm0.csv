@@ -1,0 +1,570 @@
+﻿studyCountry,studysite_adm1,lon_stud_adm1,lat_stud_adm1,birthCountry,countryID,contactCountry,contact_adm1,lon_cont_adm0,lat_cont_adm1,weight
+Italy,Turin,7.47211,45.1609,Nigeria,99,USA,,-100.4458825,39.7837304,1
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Afghanistan,,66.2385139,33.7680065,1
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Austria,,13.2,47.2,1
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Finland,,25.9209164,63.2467777,1
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Iran,,51.3896004,35.6892523,1
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Sweden,,14.5208584,59.6749712,1
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Switzerland,,8.2319736,46.7985624,1
+Italy,Rieti,12.9445,42.3382,Afghanistan,1,Afghanistan,,66.2385139,33.7680065,1
+Italy,Trieste,13.7799,45.6866,Afghanistan,1,Afghanistan,,66.2385139,33.7680065,1
+Italy,Roma,12.7308,41.965,Afghanistan,1,Germany,,10.4234469,51.0834196,1
+Italy,Turin,7.47211,45.1609,Afghanistan,1,Iran,,51.3896004,35.6892523,1
+Italy,Trieste,13.7799,45.6866,Afghanistan,1,Saudi Arabia,,42.3528328,25.6242618,1
+Italy,Trieste,13.7799,45.6866,Afghanistan,1,USA,,-100.4458825,39.7837304,1
+Italy,Udine,13.1961,46.0839,Afghanistan,1,USA,,-100.4458825,39.7837304,1
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,Germany,,10.4234469,51.0834196,1
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Pakistan,,67.91064443,29.10819827,1
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,USA,,-100.4458825,39.7837304,1
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Iran,Bushehr,51.4225,28.8273,1
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,France,Rhone,4.64841,45.841,1
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Greece,Sterea Ellada,22.6102,38.6373,1
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Sweden,Stockholm,17.8652,59.3659,1
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Switzerland,Zurich,8.6609,47.4297,1
+Pakistan,Islamabad Capital Territory,73.0628,33.7011,Afghanistan,1,Afghanistan,Kabul,69.3846,34.4949,1
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,Belgium,Brussels,4.36266,50.8332,1
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,Canada,Ontario,-84.7943,50.5244,1
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,UK,Westminster,-0.161651,51.5115,1
+Pakistan,Punjab,72.3449,31.3589,Afghanistan,1,Afghanistan,Kabul,69.3846,34.4949,1
+Italy,Roma,12.7308,41.965,Afghanistan,1,Afghanistan,Kabul,69.3846,34.4949,1
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Iraq,Baghdad,44.3827,33.306,1
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Iran,Esfahan,52.4195,32.9837,1
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,USA,New York,-75.3242,43.1988,1
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Pakistan,Sind,68.8685,26.3734,1
+Italy,Udine,13.1961,46.0839,Afghanistan,1,Belgium,Antwerp,4.72122,51.2485,1
+Italy,Udine,13.1961,46.0839,Afghanistan,1,Sweden,Skane,13.5193,55.9073,1
+Italy,Udine,13.1961,46.0839,Afghanistan,1,Italy,Udine,13.1961,46.0839,1
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Turkey,Ankara,32.578,39.829,1
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Greece,Attiki,23.7997,38.0626,1
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Germany,Berlin,13.4213,52.5131,1
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,UK,Liverpool,-2.9327,53.4312,1
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,France,Rhone,4.64841,45.841,1
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,DR Congo,,23.8222636,-2.9814344,1
+Italy,Turin,7.47211,45.1609,DR Congo,2,DR Congo,,23.8222636,-2.9814344,1
+Italy,Turin,7.47211,45.1609,DR Congo,2,Philippines,,122.7312101,12.7503486,1
+Greece,Attiki,23.7997,38.0626,DR Congo,2,Greece,Voreio Aigaio,25.2262,39.9531,1
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,United Arab Emirates,Dubay,55.3436,24.9508,1
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Kenya,Nairobi,36.9039,-1.29384,1
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Australia,New South Wales,146.781,-32.4751,1
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Norway,Oslo,10.6419,60.0237,1
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,France,Paris,2.34347,48.8594,1
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Italy,Roma,12.7308,41.965,1
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,UK,Westminster,-0.161651,51.5115,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Angola,,17.5691241,-11.8775768,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Angola,,17.5691241,-11.8775768,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Canada,,-107.991707,61.0666922,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Denmark,,10.3333283,55.670249,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Finland,,25.9209164,63.2467777,1
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,Finland,,25.9209164,63.2467777,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,France,,1.8883335,46.603354,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Germany,,10.4234469,51.0834196,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Israel,,34.8667654,31.5313113,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Netherlands,,5.453803502,52.17826107,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,New Zealand,,172.8344077,-41.5000831,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Norway,,9.0999715,60.5000209,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Norway,,9.0999715,60.5000209,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Saudi Arabia,,42.3528328,25.6242618,1
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,Saudi Arabia,,42.3528328,25.6242618,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,South Africa,,24.991639,-28.8166236,1
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,Sweden,,14.5208584,59.6749712,1
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,Switzerland,,8.2319736,46.7985624,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,UK,,-1.462061885,52.28097045,1
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,USA,,-100.4458825,39.7837304,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Denmark,,10.3333283,55.670249,1
+Italy,Turin,7.47211,45.1609,Eritrea,3,Eritrea,,37.9999668,15.9500319,1
+Italy,Udine,13.1961,46.0839,Eritrea,3,Eritrea,,37.9999668,15.9500319,1
+Italy,Turin,7.47211,45.1609,Eritrea,3,Ethiopia,,38.6521203,10.2116702,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Finland,,25.9209164,63.2467777,1
+Italy,Turin,7.47211,45.1609,Eritrea,3,France,,1.8883335,46.603354,1
+Italy,Catania,14.969,37.5882,Eritrea,3,Germany,,10.4234469,51.0834196,1
+Italy,Milano,9.1154,45.442,Eritrea,3,Israel,,34.8667654,31.5313113,1
+Italy,Pavia,9.2558,45.1396,Eritrea,3,Norway,,9.0999715,60.5000209,1
+Italy,Turin,7.47211,45.1609,Eritrea,3,Norway,,9.0999715,60.5000209,1
+Italy,Roma,12.7308,41.965,Eritrea,3,South Africa,,24.991639,-28.8166236,1
+Italy,Turin,7.47211,45.1609,Eritrea,3,Switzerland,,8.2319736,46.7985624,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Canada,Alberta,-115,55.2816,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,UK,Birmingham,-1.81614,52.4782,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,South Sudan,Central Equatoria,31.2854,4.68142,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Eritrea,Debub,40.1691,15.6179,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Sudan,Khartoum,32.9823,15.7338,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Russia,Moskva,37.6188,55.7177,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,USA,Nevada,-117.02,39.4299,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,USA,New York,-75.3242,43.1988,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Netherlands,Noord-Holland,4.89736,52.5748,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Germany,Nordrhein-Westfalen,7.65708,51.6146,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,USA,North Carolina,-78.866,35.6152,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,France,Paris,2.34347,48.8594,1
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,USA,Pennsylvania,-77.6094,40.8601,1
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,Ethiopia,Afar,41.0236,12.1232,1
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,USA,California,-119.591,36.7496,1
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,USA,Illinois,-89.1991,39.946,1
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,USA,Massachusetts,-71.9993,42.3739,1
+Italy,Catania,14.969,37.5882,Eritrea,3,Ethiopia,Addis Ababa,38.7815,8.966,1
+Italy,Catania,14.969,37.5882,Eritrea,3,Uganda,Kampala,32.6048,0.360019,1
+Italy,Catania,14.969,37.5882,Eritrea,3,Switzerland,Ticino,8.79019,46.3604,1
+Italy,Catania,14.969,37.5882,Eritrea,3,Switzerland,Zurich,8.6609,47.4297,1
+Italy,Milano,9.1154,45.442,Eritrea,3,Ethiopia,Addis Ababa,38.7815,8.966,1
+Italy,Milano,9.1154,45.442,Eritrea,3,Netherlands,Noord-Holland,4.89736,52.5748,1
+Italy,Milano,9.1154,45.442,Eritrea,3,Switzerland,Vaud,6.5118,46.6204,1
+Italy,Milano,9.1154,45.442,Eritrea,3,Switzerland,Zurich,8.6609,47.4297,1
+Italy,Parma,10.04,44.6355,Eritrea,3,Canada,Alberta,-115,55.2816,1
+Italy,Parma,10.04,44.6355,Eritrea,3,Eritrea,Anseba,39.0563,15.2792,1
+Italy,Rieti,12.9445,42.3382,Eritrea,3,Norway,Vest-Agder,7.30897,58.4481,1
+Italy,Roma,12.7308,41.965,Eritrea,3,United Arab Emirates,Abu Dhabi,54.0817,23.5238,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Norway,Akershus,11.2222,60.1365,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Egypt,Al Qahirah,31.5788,29.9801,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Italy,Ancona,13.1128,43.5383,1
+Italy,Roma,12.7308,41.965,Eritrea,3,USA,Arizona,-111.935,34.3046,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Germany,Baden-Wurttemberg,9.00328,48.59,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Italy,Bologna,11.4149,44.3949,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Canada,British Columbia,-124.662,54.6943,1
+Italy,Roma,12.7308,41.965,Eritrea,3,South Sudan,Central Equatoria,31.2854,4.68142,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Italy,Crotene,16.9491,39.1644,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Sweden,Dalarna,14.4404,60.814,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Switzerland,Geneve,6.11764,46.237,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Germany,Hamburg,10.0344,53.559,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Norway,Hedmark,11.2721,61.5285,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Norway,Hordaland,6.89657,60.1134,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Denmark,Hovedstaden,12.3198,55.8486,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Italy,Lecce,18.2094,40.167,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Netherlands,Limburg,5.93161,51.2248,1
+Italy,Roma,12.7308,41.965,Eritrea,3,UK,Liverpool,-2.9327,53.4312,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Kenya,Nairobi,36.9039,-1.29384,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Netherlands,Noord-Holland,4.89736,52.5748,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Germany,Nordrhein-Westfalen,7.65708,51.6146,1
+Italy,Roma,12.7308,41.965,Eritrea,3,France,Paris,2.34347,48.8594,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Canada,Quebec,-73.7168,52.2593,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Norway,Sor Trondelag,10.6956,62.9613,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Italy,Savona,8.28916,44.2864,1
+Italy,Roma,12.7308,41.965,Eritrea,3,UK,Sheffield,-1.57387,53.4087,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Denmark,Sjaelland,11.7483,55.4417,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Denmark,Syddanmark,9.1292,55.349,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Switzerland,Ticino,8.79019,46.3604,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Italy,Udine,13.1961,46.0839,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Sweden,Uppsala,17.7896,60.1522,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Sweden,Varmland,13.0764,59.8068,1
+Italy,Roma,12.7308,41.965,Eritrea,3,Sweden,Vastra Gotaland,12.8371,58.2428,1
+Italy,Roma,12.7308,41.965,Eritrea,3,USA,Washington,-120.361,47.4865,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,New Zealand,Auckland,174.597,-36.6334,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,USA,District of Columbia,-77.0113,38.8922,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,USA,Hawaii,-157.999,21.4919,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Sudan,Kassala,35.5979,15.6265,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,USA,Nevada,-117.02,39.4299,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Eritrea,Semenawi Keyih Bahri,37.9175,16.6263,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Australia,South Australia,135.783,-29.6504,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Sweden,Stockholm,17.8652,59.3659,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Ethiopia,Tigray,38.2158,14.1003,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Australia,Victoria,144.75,-37.0082,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,UK,Westminster,-0.161651,51.5115,1
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Switzerland,Zurich,8.6609,47.4297,1
+Italy,Turin,7.47211,45.1609,Eritrea,3,Italy,Roma,12.7308,41.965,1
+Italy,Udine,13.1961,46.0839,Eritrea,3,Ethiopia,Addis Ababa,38.7815,8.966,1
+Italy,Udine,13.1961,46.0839,Eritrea,3,Switzerland,Zurich,8.6609,47.4297,1
+Greece,Attiki,23.7997,38.0626,Syria,4,UK,,-1.462061885,52.28097045,1
+Italy,Treviso,12.2313,45.8092,Syria,4,Germany,,10.4234469,51.0834196,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Austria,,13.2,47.2,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,Brazil,,-53.2,-10.3333333,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,Canada,,-107.991707,61.0666922,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Denmark,,10.3333283,55.670249,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,France,,1.8883335,46.603354,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Germany,,10.4234469,51.0834196,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Saudi Arabia,,42.3528328,25.6242618,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,Sweden,,14.5208584,59.6749712,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,UK,,-1.462061885,52.28097045,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,UK,,-1.462061885,52.28097045,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,USA,,-100.4458825,39.7837304,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,United Arab Emirates,Abu Dhabi,54.0817,23.5238,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,Syria,Damascus,36.2897,33.5101,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,USA,Georgia,-83.4078,32.8547,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,USA,Indiana,-86.1396,39.8874,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,Jordan,Karak,35.7693,31.1753,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,Jordan,Ma`an,36.6401,30.492,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,Canada,Nova Scotia,-62.8113,45.2293,1
+Jordan,Ajlun,35.761,32.2932,Syria,4,UK,Westminster,-0.161651,51.5115,1
+Greece,Attiki,23.7997,38.0626,Syria,4,Turkey,Izmir,27.3977,38.2426,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Jordan,Ajlun,35.761,32.2932,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Bahrain,Al Janubiyah,50.5622,25.9688,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Turkey,Ankara,32.578,39.829,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Saudi Arabia,Ash Sharqiyah,50.1714,22.9875,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Libya,Benghazi,20.6182,31.2887,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Syria,Hamah,37.22,35.2352,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Germany,Hamburg,10.0344,53.559,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Canada,Manitoba,-97.3828,54.85,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,UK,Mid Ulster,-6.70918,54.6262,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Canada,New Brunswick,-66.4558,46.5822,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Australia,New South Wales,146.781,-32.4751,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Netherlands,Noord-Holland,4.89736,52.5748,1
+Jordan,Irbid,35.8195,32.5559,Syria,4,Canada,Ontario,-84.7943,50.5244,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Saudi Arabia,Al Madinah,39.4378,24.9279,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Syria,Ar Raqqah,38.9127,36.0067,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Saudi Arabia,Ar Riyad,45.1404,23.3432,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Saudi Arabia,Ash Sharqiyah,50.1714,22.9875,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Jordan,Balqa,35.7216,31.8345,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Syria,Dar`a,36.1698,32.8686,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,USA,District of Columbia,-77.0113,38.8922,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,United Arab Emirates,Dubay,55.3436,24.9508,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Turkey,Gaziantep,37.2462,36.9988,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Jordan,Madaba,35.6722,31.5852,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Jordan,Tafilah,35.6436,30.7879,1
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Austria,Wien,16.3798,48.2247,1
+Italy,Treviso,12.2313,45.8092,Syria,4,Italy,Roma,12.7308,41.965,1
+Greece,Attiki,23.7997,38.0626,Pakistan,5,Pakistan,,67.91064443,29.10819827,1
+Italy,Imperia,7.81935,44.011,Pakistan,5,France,,1.8883335,46.603354,1
+Italy,Udine,13.1961,46.0839,Pakistan,5,Germany,,10.4234469,51.0834196,1
+Italy,Udine,13.1961,46.0839,Pakistan,5,Turkey,,34.9249653,38.9597594,1
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Pakistan,5,USA,,-100.4458825,39.7837304,1
+Greece,Attiki,23.7997,38.0626,Pakistan,5,Spain,Barcelona,2.00777,41.6575,1
+Greece,Attiki,23.7997,38.0626,Pakistan,5,Italy,Milano,9.1154,45.442,1
+Greece,Attiki,23.7997,38.0626,Pakistan,5,USA,New York,-75.3242,43.1988,1
+Greece,Attiki,23.7997,38.0626,Pakistan,5,Germany,Niedersachsen,8.86184,52.775,1
+Greece,Attiki,23.7997,38.0626,Pakistan,5,Netherlands,Noord-Holland,4.89736,52.5748,1
+Greece,Attiki,23.7997,38.0626,Pakistan,5,Canada,Ontario,-84.7943,50.5244,1
+Greece,Attiki,23.7997,38.0626,Pakistan,5,Finland,Uusimaa,24.8475,60.4179,1
+Pakistan,Islamabad Capital Territory,73.0628,33.7011,Pakistan,5,Afghanistan,Baghlan,68.9831,35.8588,1
+Pakistan,Islamabad Capital Territory,73.0628,33.7011,Pakistan,5,Afghanistan,Balkh,67.2185,36.6851,1
+Pakistan,Islamabad Capital Territory,73.0628,33.7011,Pakistan,5,Pakistan,Islamabad Capital Territory,73.0628,33.7011,1
+Italy,Imperia,7.81935,44.011,Pakistan,5,United Arab Emirates,Dubay,55.3436,24.9508,1
+Italy,Udine,13.1961,46.0839,Pakistan,5,Greece,Attiki,23.7997,38.0626,1
+Italy,Udine,13.1961,46.0839,Pakistan,5,Germany,Hessen,8.95873,50.6098,1
+Italy,Udine,13.1961,46.0839,Pakistan,5,Italy,Modena,10.8516,44.4311,1
+Italy,Udine,13.1961,46.0839,Pakistan,5,Italy,Piacenza,9.58167,44.8704,1
+Italy,Udine,13.1961,46.0839,Pakistan,5,Italy,Venezia,12.1647,45.4591,1
+Italy,Udine,13.1961,46.0839,Pakistan,5,UK,Westminster,-0.161651,51.5115,1
+Ethiopia,Addis Ababa,38.7815,8.966,Ethiopia,99,Germany,,10.4234469,51.0834196,1
+Ethiopia,Addis Ababa,38.7815,8.966,Ethiopia,99,Sweden,,14.5208584,59.6749712,1
+Italy,Milano,9.1154,45.442,Cameroon,99,Cameroon,,12.44144166,5.270294606,1
+Italy,Roma,12.7308,41.965,Cameroon,99,Cameroon,,12.44144166,5.270294606,1
+Italy,Vicenza,11.4753,45.712,Niger,99,Cameroon,,12.44144166,5.270294606,1
+Italy,Turin,7.47211,45.1609,Gambia,99,Finland,,25.9209164,63.2467777,1
+Italy,Milano,9.1154,45.442,Cote d'Ivoire,99,France,,1.8883335,46.603354,1
+Italy,Reggio Emilia,10.6186,44.6699,Gambia,99,France,,1.8883335,46.603354,1
+Italy,Roma,12.7308,41.965,Guinea,99,France,,1.8883335,46.603354,1
+Italy,Vicenza,11.4753,45.712,Senegal,99,France,,1.8883335,46.603354,1
+Italy,Cuneo,7.63034,44.4862,Gambia,99,Gambia,,-15.4900464,13.470062,1
+Italy,Padova,11.8371,45.361,Gambia,99,Gambia,,-15.4900464,13.470062,1
+Italy,Milano,9.1154,45.442,Gambia,99,Germany,,10.4234469,51.0834196,1
+Italy,Padova,11.8371,45.361,Guinea,99,Guinea,,-10.7083587,10.7226226,1
+Italy,Vicenza,11.4753,45.712,Guinea,99,Guinea,,-10.7083587,10.7226226,1
+Italy,Venezia,12.1647,45.4591,Iran,99,Iran,,51.3896004,35.6892523,1
+Italy,Turin,7.47211,45.1609,Nigeria,99,Italy,,12.33284597,43.38126738,1
+Italy,Roma,12.7308,41.965,Cote d'Ivoire,99,Ivory Coast,,-5.5679458,7.9897371,1
+Italy,Vicenza,11.4753,45.712,Mali,99,Ivory Coast,,-5.5679458,7.9897371,1
+Italy,Milano,9.1154,45.442,Mali,99,Mali,,-2.2900239,16.3700359,1
+Italy,Vicenza,11.4753,45.712,Niger,99,Niger,,9.3238432,17.7356214,1
+Italy,Avellino,15.1044,40.9404,Senegal,99,Senegal,,-14.4529612,14.4750607,1
+Italy,Imperia,7.81935,44.011,Mali,99,Spain,,-3.523344922,39.56495146,1
+Italy,Milano,9.1154,45.442,Senegal,99,Spain,,-3.523344922,39.56495146,1
+Italy,Turin,7.47211,45.1609,Gambia,99,Spain,,-3.523344922,39.56495146,1
+Italy,Treviso,12.2313,45.8092,Sudan,99,Sudan,,31.1178617,16.39440993,1
+Italy,Turin,7.47211,45.1609,Nigeria,99,UK,,-1.462061885,52.28097045,1
+Italy,Roma,12.7308,41.965,Sudan,99,USA,,-100.4458825,39.7837304,1
+Ethiopia,Addis Ababa,38.7815,8.966,Ethiopia,99,Ethiopia,Addis Ababa,38.7815,8.966,1
+Ethiopia,Addis Ababa,38.7815,8.966,Ethiopia,99,USA,Arizona,-111.935,34.3046,1
+Ethiopia,Addis Ababa,38.7815,8.966,Ethiopia,99,USA,Minnesota,-93.364,46.0592,1
+Italy,Milano,9.1154,45.442,Cameroon,99,Italy,Bergamo,9.77093,45.8097,1
+Italy,Milano,9.1154,45.442,Senegal,99,France,Rhone,4.64841,45.841,1
+Italy,Milano,9.1154,45.442,Gambia,99,UK,Westminster,-0.161651,51.5115,1
+Italy,Modena,10.8516,44.4311,Nigeria,99,Nigeria,Edo,5.84934,6.52416,1
+Italy,Roma,12.7308,41.965,Cameroon,99,Cameroon,Littoral,10.0932,4.1938,1
+Italy,Roma,12.7308,41.965,Ethiopia,99,UK,Manchester,-2.26678,53.4597,1
+Italy,Roma,12.7308,41.965,Ethiopia,99,Italy,Pescara,13.8877,42.3126,1
+Italy,Treviso,12.2313,45.8092,Nigeria,99,Niger,Lagos,3.52478,6.43313,1
+Italy,Turin,7.47211,45.1609,Gambia,99,Germany,Baden-Wurttemberg,9.00328,48.59,1
+Italy,Turin,7.47211,45.1609,Mali,99,Mali,Bamako,-8.01917,12.643,1
+Italy,Turin,7.47211,45.1609,Nigeria,99,Germany,Berlin,13.4213,52.5131,1
+Italy,Turin,7.47211,45.1609,Nigeria,99,Germany,Hamburg,10.0344,53.559,1
+Italy,Turin,7.47211,45.1609,Mali,99,Mauritania,Nouakchott,-15.92,18.139,1
+Italy,Turin,7.47211,45.1609,Nigeria,99,Nigeria,Ogun,3.29255,7.01845,1
+Italy,Turin,7.47211,45.1609,Senegal,99,France,Paris,2.34347,48.8594,1
+Italy,Turin,7.47211,45.1609,Nigeria,99,Italy,Vercelli,8.15956,45.8416,1
+Italy,Turin,7.47211,45.1609,Nigeria,99,UK,Westminster,-0.161651,51.5115,1
+Italy,Venezia,12.1647,45.4591,Nigeria,99,Italy,Mantova,10.7355,45.1396,1
+Italy,Vicenza,11.4753,45.712,Senegal,99,Italy,Terni,12.4862,42.5788,1
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Australia,,134.755,-24.7761086,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Norway,,9.0999715,60.5000209,2
+Italy,Piacenza,9.58167,44.8704,Afghanistan,1,Afghanistan,,66.2385139,33.7680065,2
+Italy,Udine,13.1961,46.0839,Afghanistan,1,Afghanistan,,66.2385139,33.7680065,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Afghanistan,Balkh,67.2185,36.6851,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Pakistan,Baluchistan,65.5512,27.5194,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Germany,Berlin,13.4213,52.5131,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Belgium,Brussels,4.36266,50.8332,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Iran,Esfahan,52.4195,32.9837,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Afghanistan,Ghor,64.9224,34.002,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Iran,Kerman,56.9567,30.1234,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,France,Paris,2.34347,48.8594,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Afghanistan,Uruzgan,66.3011,33.8446,2
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Austria,Wien,16.3798,48.2247,2
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,Afghanistan,Nangarhar,70.3027,34.2153,2
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,Australia,New South Wales,146.781,-32.4751,2
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Oman,Muscat,58.6759,23.2505,2
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Iran,Razavi Khorasan,58.7976,35.584,2
+Greece,Sterea Ellada,22.6102,38.6373,Afghanistan,1,Afghanistan,Ghazni,67.8006,33.4079,2
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Afghanistan,Balkh,67.2185,36.6851,2
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Iran,Bushehr,51.4225,28.8273,2
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Afghanistan,Ghazni,67.8006,33.4079,2
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Germany,Hamburg,10.0344,53.559,2
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Afghanistan,Hirat,62.4845,34.1551,2
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Australia,New South Wales,146.781,-32.4751,2
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Iran,Razavi Khorasan,58.7976,35.584,2
+Greece,Attiki,23.7997,38.0626,DR Congo,2,DR Congo,,23.8222636,-2.9814344,2
+Greece,Attiki,23.7997,38.0626,DR Congo,2,Greece,Kentriki Makedonia,22.8519,40.8836,2
+Greece,Attiki,23.7997,38.0626,DR Congo,2,DR Congo,Kinshasa City,15.8492,-4.49522,2
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Tanzania,Dar-Es-Salaam,39.2857,-6.89289,2
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,USA,District of Columbia,-77.0113,38.8922,2
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Germany,Nordrhein-Westfalen,7.65708,51.6146,2
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,USA,Texas,-98.7607,31.131,2
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Belgium,,4.6667145,50.6402809,2
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,Canada,,-107.991707,61.0666922,2
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,USA,,-100.4458825,39.7837304,2
+Italy,Roma,12.7308,41.965,Eritrea,3,Belgium,,4.6667145,50.6402809,2
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Eritrea,Semenawi Keyih Bahri,37.9175,16.6263,2
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,USA,Texas,-98.7607,31.131,2
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Norway,Vest-Agder,7.30897,58.4481,2
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Australia,Victoria,144.75,-37.0082,2
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,USA,Ohio,-82.6719,40.0924,2
+Italy,Roma,12.7308,41.965,Eritrea,3,Eritrea,Anseba,39.0563,15.2792,2
+Italy,Roma,12.7308,41.965,Eritrea,3,Belgium,Antwerp,4.72122,51.2485,2
+Italy,Roma,12.7308,41.965,Eritrea,3,Switzerland,Bern,7.65026,46.7988,2
+Italy,Roma,12.7308,41.965,Eritrea,3,UK,Birmingham,-1.81614,52.4782,2
+Italy,Roma,12.7308,41.965,Eritrea,3,Belgium,Brussels,4.36266,50.8332,2
+Italy,Roma,12.7308,41.965,Eritrea,3,USA,District of Columbia,-77.0113,38.8922,2
+Italy,Roma,12.7308,41.965,Eritrea,3,UK,Leeds,-1.47788,53.8106,2
+Italy,Roma,12.7308,41.965,Eritrea,3,Eritrea,Maekel,38.9679,14.858,2
+Italy,Roma,12.7308,41.965,Eritrea,3,USA,Massachusetts,-71.9993,42.3739,2
+Italy,Roma,12.7308,41.965,Eritrea,3,Sweden,Norrbotten,20.4529,66.837,2
+Italy,Roma,12.7308,41.965,Eritrea,3,Eritrea,Semenawi Keyih Bahri,37.9175,16.6263,2
+Italy,Roma,12.7308,41.965,Eritrea,3,Ethiopia,Tigray,38.2158,14.1003,2
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Netherlands,Noord-Holland,4.89736,52.5748,2
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,USA,North Carolina,-78.866,35.6152,2
+Greece,Attiki,23.7997,38.0626,Syria,4,France,,1.8883335,46.603354,2
+Greece,Attiki,23.7997,38.0626,Syria,4,Malta,,14.4476911,35.8885993,2
+Jordan,Ajlun,35.761,32.2932,Syria,4,Finland,,25.9209164,63.2467777,2
+Jordan,Irbid,35.8195,32.5559,Syria,4,Finland,,25.9209164,63.2467777,2
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Lebanon,,35.843409,33.8750629,2
+Jordan,Irbid,35.8195,32.5559,Syria,4,Norway,,9.0999715,60.5000209,2
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Sweden,,14.5208584,59.6749712,2
+Jordan,Irbid,35.8195,32.5559,Syria,4,Syria,,39.0494106,34.6401861,2
+Jordan,Mafraq,37.6195,32.2481,Syria,4,USA,,-100.4458825,39.7837304,2
+Jordan,Ajlun,35.761,32.2932,Syria,4,Jordan,Amman,36.4418,31.6211,2
+Jordan,Ajlun,35.761,32.2932,Syria,4,Germany,Berlin,13.4213,52.5131,2
+Jordan,Ajlun,35.761,32.2932,Syria,4,Syria,Idlib,36.6829,35.8528,2
+Greece,Attiki,23.7997,38.0626,Syria,4,UK,Westminster,-0.161651,51.5115,2
+Jordan,Irbid,35.8195,32.5559,Syria,4,Syria,Idlib,36.6829,35.8528,2
+Jordan,Irbid,35.8195,32.5559,Syria,4,Turkey,Istanbul,28.8463,41.1285,2
+Jordan,Irbid,35.8195,32.5559,Syria,4,Saudi Arabia,Makkah,40.2542,21.4348,2
+Jordan,Irbid,35.8195,32.5559,Syria,4,Germany,Nordrhein-Westfalen,7.65708,51.6146,2
+Jordan,Irbid,35.8195,32.5559,Syria,4,Lebanon,North Lebanon,36.0424,34.3933,2
+Jordan,Irbid,35.8195,32.5559,Syria,4,UK,Westminster,-0.161651,51.5115,2
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Kuwait,Al Asimah,48.3318,29.4497,2
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Saudi Arabia,Al Jawf,38.3651,29.5589,2
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Syria,Damascus,36.2897,33.5101,2
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Syria,Hamah,37.22,35.2352,2
+Italy,Imperia,7.81935,44.011,Pakistan,5,Pakistan,,67.91064443,29.10819827,2
+Italy,Udine,13.1961,46.0839,Pakistan,5,UK,,-1.462061885,52.28097045,2
+Greece,Attiki,23.7997,38.0626,Pakistan,5,Germany,Hessen,8.95873,50.6098,2
+Pakistan,Islamabad Capital Territory,73.0628,33.7011,Pakistan,5,Afghanistan,Uruzgan,66.3011,33.8446,2
+Ethiopia,Addis Ababa,38.7815,8.966,Ethiopia,99,Canada,,-107.991707,61.0666922,2
+Italy,Turin,7.47211,45.1609,Mali,99,Algeria,,2.9999825,28.0000272,2
+Italy,Turin,7.47211,45.1609,Gambia,99,Belgium,,4.6667145,50.6402809,2
+Italy,Turin,7.47211,45.1609,Burkina Faso,99,Burkina Faso,,-1.6880314,12.0753083,2
+Italy,Milano,9.1154,45.442,Gambia,99,Gambia,,-15.4900464,13.470062,2
+Italy,Roma,12.7308,41.965,Gambia,99,Gambia,,-15.4900464,13.470062,2
+Italy,Roma,12.7308,41.965,Ghana,99,Ghana,,-1.0800271,8.0300284,2
+Italy,Treviso,12.2313,45.8092,Ghana,99,Ghana,,-1.0800271,8.0300284,2
+Italy,Turin,7.47211,45.1609,Guinea,99,Guinea,,-10.7083587,10.7226226,2
+Italy,Treviso,12.2313,45.8092,Ghana,99,Italy,,12.33284597,43.38126738,2
+Italy,Padova,11.8371,45.361,Mali,99,Mali,,-2.2900239,16.3700359,2
+Italy,Vicenza,11.4753,45.712,Mali,99,Mali,,-2.2900239,16.3700359,2
+Italy,Turin,7.47211,45.1609,Niger,99,Niger,,9.3238432,17.7356214,2
+Italy,Venezia,12.1647,45.4591,Nigeria,99,Nigeria,,7.9999721,9.6000359,2
+Italy,Imperia,7.81935,44.011,Senegal,99,Senegal,,-14.4529612,14.4750607,2
+Italy,Vicenza,11.4753,45.712,Senegal,99,Senegal,,-14.4529612,14.4750607,2
+Italy,Treviso,12.2313,45.8092,Somalia,99,Somalia,,49.083416,8.3676771,2
+Italy,Roma,12.7308,41.965,Iran,99,Sweden,,14.5208584,59.6749712,2
+Italy,Milano,9.1154,45.442,Senegal,99,Senegal,Dakar,-17.3327,14.7835,2
+Italy,Roma,12.7308,41.965,Iran,99,Iran,Esfahan,52.4195,32.9837,2
+Italy,Roma,12.7308,41.965,Togo,99,Togo,Maritime,1.24665,6.42521,2
+Italy,Turin,7.47211,45.1609,Nigeria,99,Nigeria,Delta,5.88195,5.44265,2
+Italy,Udine,13.1961,46.0839,Togo,99,Togo,Maritime,1.24665,6.42521,2
+Italy,Udine,13.1961,46.0839,Mali,99,Mali,Segou,-5.51952,13.5852,2
+Italy,Venezia,12.1647,45.4591,Cameroon,99,Cameroon,Ouest,10.5889,5.36694,2
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Australia,,134.755,-24.7761086,3
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Switzerland,,8.2319736,46.7985624,3
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Greece,Attiki,23.7997,38.0626,3
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Germany,Hamburg,10.0344,53.559,3
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Afghanistan,Hirat,62.4845,34.1551,3
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Australia,New South Wales,146.781,-32.4751,3
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Afghanistan,Wardak,68.1087,34.4269,3
+Pakistan,Islamabad Capital Territory,73.0628,33.7011,Afghanistan,1,Pakistan,Baluchistan,65.5512,27.5194,3
+Pakistan,Islamabad Capital Territory,73.0628,33.7011,Afghanistan,1,Afghanistan,Nangarhar,70.3027,34.2153,3
+Pakistan,Islamabad Capital Territory,73.0628,33.7011,Afghanistan,1,Pakistan,Sind,68.8685,26.3734,3
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,Pakistan,Punjab,72.3449,31.3589,3
+Pakistan,Punjab,72.3449,31.3589,Afghanistan,1,Pakistan,Baluchistan,65.5512,27.5194,3
+Italy,Udine,13.1961,46.0839,Afghanistan,1,Afghanistan,Laghman,70.2085,34.7273,3
+Italy,Udine,13.1961,46.0839,Afghanistan,1,Afghanistan,Parwan,68.8995,34.9984,3
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Belgium,Brussels,4.36266,50.8332,3
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,South Africa,KwaZulu-Natal,30.8231,-28.7468,3
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,DR Congo,Orientale,26.785,2.40438,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Australia,,134.755,-24.7761086,3
+Ethiopia,Afar,41.0236,12.1232,Eritrea,3,Australia,,134.755,-24.7761086,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Canada,,-107.991707,61.0666922,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Eritrea,,37.9999668,15.9500319,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Germany,,10.4234469,51.0834196,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Switzerland,,8.2319736,46.7985624,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Germany,Berlin,13.4213,52.5131,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,USA,Indiana,-86.1396,39.8874,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,USA,Maryland,-77.0454,39.3874,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Norway,Oslo,10.6419,60.0237,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Italy,Roma,12.7308,41.965,3
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,USA,Virginia,-78.2431,37.7403,3
+Italy,Roma,12.7308,41.965,Eritrea,3,Saudi Arabia,Ar Riyad,45.1404,23.3432,3
+Italy,Roma,12.7308,41.965,Eritrea,3,Germany,Berlin,13.4213,52.5131,3
+Italy,Roma,12.7308,41.965,Eritrea,3,Sudan,Khartoum,32.9823,15.7338,3
+Italy,Roma,12.7308,41.965,Eritrea,3,Switzerland,Solothurn,7.41999,47.4325,3
+Italy,Roma,12.7308,41.965,Eritrea,3,Israel,Tel Aviv,34.8091,32.0966,3
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Ethiopia,Addis Ababa,38.7815,8.966,3
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Israel,Tel Aviv,34.8091,32.0966,3
+Jordan,Ajlun,35.761,32.2932,Syria,4,Germany,,10.4234469,51.0834196,3
+Jordan,Irbid,35.8195,32.5559,Syria,4,Netherlands,,5.453803502,52.17826107,3
+Jordan,Ajlun,35.761,32.2932,Syria,4,Jordan,Ajlun,35.761,32.2932,3
+Jordan,Ajlun,35.761,32.2932,Syria,4,Kuwait,Al Asimah,48.3318,29.4497,3
+Jordan,Ajlun,35.761,32.2932,Syria,4,USA,Michigan,-84.9479,43.4343,3
+Jordan,Ajlun,35.761,32.2932,Syria,4,Jordan,Zarqa,36.8284,31.8095,3
+Greece,Attiki,23.7997,38.0626,Syria,4,Sweden,Skane,13.5193,55.9073,3
+Jordan,Irbid,35.8195,32.5559,Syria,4,Syria,Aleppo,37.601,36.1054,3
+Jordan,Irbid,35.8195,32.5559,Syria,4,Lebanon,Beirut,35.5093,33.8849,3
+Jordan,Irbid,35.8195,32.5559,Syria,4,Germany,Hessen,8.95873,50.6098,3
+Jordan,Irbid,35.8195,32.5559,Syria,4,Syria,Homs (Hims),38.1425,34.1503,3
+Jordan,Irbid,35.8195,32.5559,Syria,4,Jordan,Mafraq,37.6195,32.2481,3
+Jordan,Irbid,35.8195,32.5559,Syria,4,Czech Republic,Prague,14.4487,50.0647,3
+Jordan,Irbid,35.8195,32.5559,Syria,4,Canada,Quebec,-73.7168,52.2593,3
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Lebanon,Beirut,35.5093,33.8849,3
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Jordan,Irbid,35.8195,32.5559,3
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Turkey,Istanbul,28.8463,41.1285,3
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Jordan,Zarqa,36.8284,31.8095,3
+Greece,Attiki,23.7997,38.0626,Pakistan,5,Iran,,51.3896004,35.6892523,3
+Italy,Turin,7.47211,45.1609,Mali,99,Mali,,-2.2900239,16.3700359,3
+Italy,Treviso,12.2313,45.8092,Nigeria,99,Nigeria,,7.9999721,9.6000359,3
+Italy,Turin,7.47211,45.1609,Senegal,99,Senegal,,-14.4529612,14.4750607,3
+Italy,Turin,7.47211,45.1609,Somalia,99,Somalia,,49.083416,8.3676771,3
+Italy,Turin,7.47211,45.1609,Somalia,99,Sweden,,14.5208584,59.6749712,3
+Italy,Imperia,7.81935,44.011,Mali,99,France,Paris,2.34347,48.8594,3
+Italy,Milano,9.1154,45.442,Senegal,99,France,Paris,2.34347,48.8594,3
+Italy,Turin,7.47211,45.1609,Senegal,99,Senegal,Dakar,-17.3327,14.7835,3
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,Afghanistan,Baghlan,68.9831,35.8588,4
+Pakistan,Punjab,72.3449,31.3589,Afghanistan,1,Afghanistan,Kandahar,65.7163,31.135,4
+Pakistan,Punjab,72.3449,31.3589,Afghanistan,1,Pakistan,Sind,68.8685,26.3734,4
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Canada,Ontario,-84.7943,50.5244,4
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Iran,Tehran,51.6548,35.5146,4
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Iran,Tehran,51.6548,35.5146,4
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,DR Congo,Maniema,26.0336,-3.26017,4
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,USA,,-100.4458825,39.7837304,4
+Italy,Roma,12.7308,41.965,Eritrea,3,UK,,-1.462061885,52.28097045,4
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Denmark,Hovedstaden,12.3198,55.8486,4
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Eritrea,Maekel,38.9679,14.858,4
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Canada,Ontario,-84.7943,50.5244,4
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Sweden,Stockholm,17.8652,59.3659,4
+Italy,Roma,12.7308,41.965,Eritrea,3,USA,California,-119.591,36.7496,4
+Italy,Roma,12.7308,41.965,Eritrea,3,Italy,Milano,9.1154,45.442,4
+Italy,Roma,12.7308,41.965,Eritrea,3,Netherlands,Zuid-Holland,4.52252,52.0075,4
+Ethiopia,Tigray,38.2158,14.1003,Eritrea,3,Germany,Bayern,11.3966,49.0056,4
+Greece,Attiki,23.7997,38.0626,Syria,4,Denmark,,10.3333283,55.670249,4
+Greece,Attiki,23.7997,38.0626,Syria,4,Sweden,,14.5208584,59.6749712,4
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Turkey,,34.9249653,38.9597594,4
+Jordan,Irbid,35.8195,32.5559,Syria,4,UK,,-1.462061885,52.28097045,4
+Jordan,Irbid,35.8195,32.5559,Syria,4,USA,,-100.4458825,39.7837304,4
+Jordan,Ajlun,35.761,32.2932,Syria,4,Jordan,Jarash,35.856,32.2186,4
+Jordan,Ajlun,35.761,32.2932,Syria,4,Jordan,Mafraq,37.6195,32.2481,4
+Italy,Udine,13.1961,46.0839,Pakistan,5,Pakistan,,67.91064443,29.10819827,4
+Italy,Turin,7.47211,45.1609,Ghana,99,Ghana,,-1.0800271,8.0300284,4
+Italy,Milano,9.1154,45.442,Cote d'Ivoire,99,Ivory Coast,,-5.5679458,7.9897371,4
+Italy,Turin,7.47211,45.1609,Cote d'Ivoire,99,Ivory Coast,Lagunes,-4.42852,5.4607,4
+Italy,Turin,7.47211,45.1609,Mali,99,Mali,Timbuktu,-3.295,19.9073,4
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Afghanistan,Bamyan,67.2365,34.9693,5
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,Afghanistan,Kabul,69.3846,34.4949,5
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Sweden,,14.5208584,59.6749712,5
+Italy,Roma,12.7308,41.965,Eritrea,3,Switzerland,,8.2319736,46.7985624,5
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,USA,District of Columbia,-77.0113,38.8922,5
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Germany,Hamburg,10.0344,53.559,5
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Australia,New South Wales,146.781,-32.4751,5
+Italy,Roma,12.7308,41.965,Eritrea,3,Norway,Oslo,10.6419,60.0237,5
+Italy,Roma,12.7308,41.965,Eritrea,3,Switzerland,Zurich,8.6609,47.4297,5
+Jordan,Irbid,35.8195,32.5559,Syria,4,Germany,,10.4234469,51.0834196,5
+Jordan,Irbid,35.8195,32.5559,Syria,4,Kuwait,,47.4979476,29.2733964,5
+Jordan,Irbid,35.8195,32.5559,Syria,4,United Arab Emirates,,53.9994829,24.0002488,5
+Jordan,Irbid,35.8195,32.5559,Syria,4,France,Paris,2.34347,48.8594,5
+Jordan,Irbid,35.8195,32.5559,Syria,4,Sweden,Stockholm,17.8652,59.3659,5
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Turkey,Hatay,36.2284,36.4876,5
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Syria,Idlib,36.6829,35.8528,5
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Jordan,Mafraq,37.6195,32.2481,5
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Lebanon,North Lebanon,36.0424,34.3933,5
+Italy,Udine,13.1961,46.0839,Pakistan,5,Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,5
+Italy,Turin,7.47211,45.1609,Gambia,99,Gambia,,-15.4900464,13.470062,5
+Italy,Milano,9.1154,45.442,Senegal,99,Senegal,,-14.4529612,14.4750607,5
+Italy,Imperia,7.81935,44.011,Guinea,99,Guinea,Kankan,-9.12624,10.1319,5
+Italy,Treviso,12.2313,45.8092,Nigeria,99,Nigeria,Edo,5.84934,6.52416,5
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Iran,Fars,53.0793,29.4007,6
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Burundi,Bujumbura Mairie,29.3689,-3.39861,6
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Uganda,Kampala,32.6048,0.360019,6
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Canada,Quebec,-73.7168,52.2593,6
+Italy,Roma,12.7308,41.965,Eritrea,3,Norway,,9.0999715,60.5000209,6
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Israel,Tel Aviv,34.8091,32.0966,6
+Italy,Roma,12.7308,41.965,Eritrea,3,Uganda,Kampala,32.6048,0.360019,6
+Italy,Roma,12.7308,41.965,Eritrea,3,Canada,Ontario,-84.7943,50.5244,6
+Jordan,Irbid,35.8195,32.5559,Syria,4,Jordan,Zarqa,36.8284,31.8095,6
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Syria,Aleppo,37.601,36.1054,6
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Lebanon,Beqaa,36.1086,34.0494,6
+Pakistan,Islamabad Capital Territory,73.0628,33.7011,Afghanistan,1,Pakistan,Punjab,72.3449,31.3589,7
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,Afghanistan,Laghman,70.2085,34.7273,7
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,Rwanda,Kigali City,30.1253,-1.92643,7
+Italy,Roma,12.7308,41.965,Eritrea,3,Netherlands,,5.453803502,52.17826107,7
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,UK,Westminster,-0.161651,51.5115,7
+Italy,Roma,12.7308,41.965,Eritrea,3,Canada,Alberta,-115,55.2816,7
+Italy,Roma,12.7308,41.965,Eritrea,3,Germany,Hessen,8.95873,50.6098,7
+Jordan,Irbid,35.8195,32.5559,Syria,4,United Arab Emirates,Abu Dhabi,54.0817,23.5238,7
+Jordan,Irbid,35.8195,32.5559,Syria,4,United Arab Emirates,Dubay,55.3436,24.9508,7
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Jordan,Amman,36.4418,31.6211,7
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Afghanistan,Kabul,69.3846,34.4949,8
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Pakistan,Baluchistan,65.5512,27.5194,8
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Pakistan,Punjab,72.3449,31.3589,8
+Italy,Roma,12.7308,41.965,Eritrea,3,Canada,,-107.991707,61.0666922,8
+Italy,Roma,12.7308,41.965,Eritrea,3,Sweden,Stockholm,17.8652,59.3659,8
+Italy,Roma,12.7308,41.965,Eritrea,3,UK,Westminster,-0.161651,51.5115,8
+Italy,Turin,7.47211,45.1609,Nigeria,99,Nigeria,Edo,5.84934,6.52416,8
+Italy,Roma,12.7308,41.965,Eritrea,3,Germany,,10.4234469,51.0834196,9
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Eritrea,Anseba,39.0563,15.2792,9
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Canada,,-107.991707,61.0666922,9
+Jordan,Irbid,35.8195,32.5559,Syria,4,Syria,Damascus,36.2897,33.5101,9
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,DR Congo,Katanga,26.2512,-8.48374,10
+Italy,Roma,12.7308,41.965,Eritrea,3,Sweden,,14.5208584,59.6749712,10
+Italy,Roma,12.7308,41.965,Eritrea,3,USA,,-100.4458825,39.7837304,10
+Italy,Turin,7.47211,45.1609,Cote d'Ivoire,99,France,,1.8883335,46.603354,10
+Italy,Turin,7.47211,45.1609,Gambia,99,Germany,,10.4234469,51.0834196,10
+Italy,Turin,7.47211,45.1609,Cote d'Ivoire,99,Ivory Coast,,-5.5679458,7.9897371,10
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Afghanistan,Ghazni,67.8006,33.4079,11
+Pakistan,Sind,68.8685,26.3734,Afghanistan,1,Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,11
+Ethiopia,Addis Ababa,38.7815,8.966,Eritrea,3,Germany,Hessen,8.95873,50.6098,11
+Jordan,Ajlun,35.761,32.2932,Syria,4,Jordan,Irbid,35.8195,32.5559,11
+Jordan,Irbid,35.8195,32.5559,Syria,4,Kuwait,Al Asimah,48.3318,29.4497,11
+Greece,Attiki,23.7997,38.0626,Afghanistan,1,Iran,Tehran,51.6548,35.5146,13
+Italy,Roma,12.7308,41.965,Eritrea,3,Ethiopia,Addis Ababa,38.7815,8.966,13
+Jordan,Irbid,35.8195,32.5559,Syria,4,Germany,Berlin,13.4213,52.5131,13
+Jordan,Irbid,35.8195,32.5559,Syria,4,Kuwait,Hawalli,48.0306,29.3243,13
+Pakistan,Punjab,72.3449,31.3589,Afghanistan,1,Pakistan,Punjab,72.3449,31.3589,17
+Greece,Voreio Aigaio,25.2262,39.9531,Afghanistan,1,Afghanistan,Kabul,69.3846,34.4949,17
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,DR Congo,Kinshasa City,15.8492,-4.49522,17
+Jordan,Irbid,35.8195,32.5559,Syria,4,Jordan,Amman,36.4418,31.6211,19
+Pakistan,Islamabad Capital Territory,73.0628,33.7011,Afghanistan,1,Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,20
+Jordan,Irbid,35.8195,32.5559,Syria,4,Canada,,-107.991707,61.0666922,21
+Jordan,Irbid,35.8195,32.5559,Syria,4,Jordan,Irbid,35.8195,32.5559,21
+Italy,Turin,7.47211,45.1609,Nigeria,99,Nigeria,,7.9999721,9.6000359,21
+Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,Afghanistan,1,Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,23
+Jordan,Mafraq,37.6195,32.2481,Syria,4,Syria,Homs (Hims),38.1425,34.1503,24
+Pakistan,Punjab,72.3449,31.3589,Afghanistan,1,Pakistan,Khyber Pakhtunkhwa,72.6402,34.9407,25
+Italy,Udine,13.1961,46.0839,Pakistan,5,India,Punjab,72.3449,31.3589,31
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,DR Congo,Nord-Kivu,28.5939,-0.659128,42
+Jordan,Irbid,35.8195,32.5559,Syria,4,Syria,Dar`a,36.1698,32.8686,42
+Greece,Attiki,23.7997,38.0626,Syria,4,Germany,,10.4234469,51.0834196,73
+Greece,Attiki,23.7997,38.0626,Pakistan,5,Pakistan,Punjab,72.3449,31.3589,90
+DR Congo,Sud-Kivu,28.1159,-3.10474,DR Congo,2,DR Congo,Sud-Kivu,28.1159,-3.10474,181

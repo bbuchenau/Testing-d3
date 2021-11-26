@@ -1,4 +1,4 @@
-﻿studyCountry,studysite_adm1,lon_stud_adm1,lat_stud_adm1,birthCountry,countryID,contactCountry,contact_adm1,lon_cont_adm1,lat_cont_adm1,weight,total_at_cp
+﻿studyCountry,studyCity,studyLon,studyLat,birthCountry,countryID,contactCountry,contactCity,contactLon,contactLat,weight,total_at_cp
 Italy,Roma,12.7308,41.965,Eritrea,3,United Arab Emirates,Abu Dhabi,54.0817,23.5238,1,9
 Jordan,Ajlun,35.761,32.2932,Syria,4,United Arab Emirates,Abu Dhabi,54.0817,23.5238,1,9
 Jordan,Irbid,35.8195,32.5559,Syria,4,United Arab Emirates,Abu Dhabi,54.0817,23.5238,7,9

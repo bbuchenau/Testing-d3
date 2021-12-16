@@ -1,8 +1,8 @@
-id, value
+id,value
 index,
 index.connectivity,
-index.connectivity.Networked-Mobilty, 1
-index.connectivity.Network-relevance-for-return-decision, 2
+index.connectivity.NetworkedMobilty, 1
+index.connectivity.Networkrelevanceforreturndecision, 2
 index.connectivity.okay, 3
 index.connectivity.ja, 4
 index.connectivity.nein, 5

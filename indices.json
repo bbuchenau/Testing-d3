@@ -1,15 +1,36 @@
-{   "name": "root",   
+{   "name": "Indices",   
     "children": [     
-            {"name": "parent A",      
+            {"name": "Mobility",      
              "children": [        
-                   {"name": "child A1"},        
-                   {"name": "child A2"},        
-                   {"name": "child A3"}      
+                   {"name": "Long-distance mobility"},        
+                   {"name": "Internal mobility"},        
+                   {"name": "Return mobility"},
+                   {"name": "Return intention"},
+                   {"name": "Onward move attempts"},
+                   {"name": "Onward move intention"},
+                   {"name": "Barriers to onward moves"},
+                   {"name": "Resettlement/Relocation"}
              ]     
-            },{"name": "parent B",      
+            },{"name": "Connectivity",      
              "children": [        
-                  {"name": "child B1"},        
-                  {"name": "child B2"}      
+                  {"name": "Networked mobility"},        
+                  {"name": "Network relevance for return decision"},
+                  {"name": "Livelihood support by network"},
+                  {"name": "Local connectivity"},
+                  {"name": "Contact persons elsewhere"},
+                  {"name": "Receiving translocal support"},
+                  {"name": "Giving translocal support"},
+                  {"name": "Soatial extent of network"}
              ]     
-            }   ] 
+            },{"name": "Marginalisation",      
+             "children": [        
+                  {"name": "Legal status"},        
+                  {"name": "Health service access"},
+                  {"name": "Access to education"},
+                  {"name": "Housing situation"},
+                  {"name": "Formal support received"},
+                  {"name": "Economic situation"},
+                  {"name": "Physical safety"},
+                  {"name": "Social cohesion"}
+    ] 
 }

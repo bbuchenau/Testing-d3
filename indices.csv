@@ -1,0 +1,18 @@
+id, value
+index,
+index.connectivity,
+index.connectivity.Networked-Mobilty, 1
+index.connectivity.Network-relevance-for-return-decision, 2
+index.connectivity.okay, 3
+index.connectivity.ja, 4
+index.connectivity.nein, 5
+index.connectivity.vielleicht, 6
+index.connectivity.maybe, 7
+index.connectivity.niemals, 8
+index.mobility,
+index.mobility.ja, 3
+index.mobility.nein, 2
+index.mobility.vielleicht, 1
+index.marginalisation,
+index.marginalisation.jajaja, 1
+index.marginalisation.neineinein, 2

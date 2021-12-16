@@ -1,18 +1,15 @@
 id,value
 index,
 index.connectivity,
-index.connectivity.NetworkedMobilty, 1
-index.connectivity.Networkrelevanceforreturndecision, 2
-index.connectivity.okay, 3
-index.connectivity.ja, 4
-index.connectivity.nein, 5
-index.connectivity.vielleicht, 6
-index.connectivity.maybe, 7
-index.connectivity.niemals, 8
+index.connectivity.NetworkedMobilty, 3938
+index.connectivity.Networkrelevanceforreturndecision, 3812
+index.connectivity.okay, 6714
+index.connectivity.ja, 743
 index.mobility,
-index.mobility.ja, 3
-index.mobility.nein, 2
-index.mobility.vielleicht, 1
+index.mobility.ja, 3534
+index.mobility.nein, 5731
+index.mobility.vielleicht, 7840
+index.mobility.bingo, 5914
+index.mobility.tralala, 3416
 index.marginalisation,
-index.marginalisation.jajaja, 1
-index.marginalisation.neineinein, 2
+index.marginalisation.jajaja, 7074

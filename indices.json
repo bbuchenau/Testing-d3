@@ -1,8 +1,8 @@
-{   "name": "Indices",   
+{   "name": "root",   
     "children": [     
-            {"name": "parent A",      
+            {"name": "Connectivity",      
              "children": [        
-                   {"name": "child A1"},        
+                   {"name": "long range"},        
                    {"name": "child A2"},        
                    {"name": "child A3"}      
              ]     

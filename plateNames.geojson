@@ -1,7 +1,5 @@
 {
 "type": "FeatureCollection",
-"name": "plate_names",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
 "features": [
 { "type": "Feature", "properties": { "id": 2, "name": "South American plate" }, "geometry": { "type": "Point", "coordinates": [ -5783757.612816158682108, -6027877.25231833383441 ] } },
 { "type": "Feature", "properties": { "id": 3, "name": "Pacific plate" }, "geometry": { "type": "Point", "coordinates": [ -17463943.44129554182291, -4675830.018153518438339 ] } },

@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "plate_names",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 2, "name": "South American plate" }, "geometry": { "type": "Point", "coordinates": [ -5783757.612816158682108, -6027877.25231833383441 ] } },
+{ "type": "Feature", "properties": { "id": 3, "name": "Pacific plate" }, "geometry": { "type": "Point", "coordinates": [ -17463943.44129554182291, -4675830.018153518438339 ] } },
+{ "type": "Feature", "properties": { "id": 4, "name": "North American plate" }, "geometry": { "type": "Point", "coordinates": [ -7361146.052675111219287, 3962249.533455025404692 ] } },
+{ "type": "Feature", "properties": { "id": 5, "name": "Eurasian plate" }, "geometry": { "type": "Point", "coordinates": [ 8938534.492534056305885, 9069983.529188774526119 ] } },
+{ "type": "Feature", "properties": { "id": 6, "name": "Indian plate" }, "geometry": { "type": "Point", "coordinates": [ 8112283.404988892376423, 169005.904270403087139 ] } },
+{ "type": "Feature", "properties": { "id": 7, "name": "Australian plate" }, "geometry": { "type": "Point", "coordinates": [ 9051205.095381125807762, -2873100.372600432485342 ] } },
+{ "type": "Feature", "properties": { "id": 8, "name": "Antarctic plate" }, "geometry": { "type": "Point", "coordinates": [ -826251.087545167654753, -10008905.21958140283823 ] } },
+{ "type": "Feature", "properties": { "id": 9, "name": "Nazca plate" }, "geometry": { "type": "Point", "coordinates": [ -11379730.887553868815303, -2722872.90213767439127 ] } },
+{ "type": "Feature", "properties": { "id": 10, "name": "Cocos plate" }, "geometry": { "type": "Point", "coordinates": [ -11154389.681859733536839, 957700.124199878424406 ] } },
+{ "type": "Feature", "properties": { "id": 11, "name": "Arabian plate" }, "geometry": { "type": "Point", "coordinates": [ 4657051.584345474839211, 2722872.902137277647853 ] } },
+{ "type": "Feature", "properties": { "id": 12, "name": "Carribean plate" }, "geometry": { "type": "Point", "coordinates": [ -8713193.286839926615357, 1746394.344129355624318 ] } },
+{ "type": "Feature", "properties": { "id": 13, "name": "Scotia plate" }, "geometry": { "type": "Point", "coordinates": [ -5783757.612816158682108, -7793050.030255734920502 ] } },
+{ "type": "Feature", "properties": { "id": 14, "name": "Philippine plate" }, "geometry": { "type": "Point", "coordinates": [ 14384280.296809010207653, 1971735.549823490902781 ] } }
+]
+}

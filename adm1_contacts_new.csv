@@ -1,0 +1,570 @@
+﻿﻿studyCountry;studyCity;studyLon;studyLat;birthCountry;countryID;contactCountry;contactCity;contactLon;contactLat;weight;total_at_cp;country_at_cp
+Italy;Roma;127308;41.965;Eritrea;3;United Arab Emirates;Abu Dhabi;540.817;235.238;1;9;1
+Jordan;Ajlun;35761;322.932;Syria;4;United Arab Emirates;Abu Dhabi;540.817;235.238;1;9;8
+Jordan;Irbid;358195;325.559;Syria;4;United Arab Emirates;Abu Dhabi;540.817;235.238;7;9;8
+Italy;Catania;14969;375.882;Eritrea;3;Ethiopia;Addis Ababa;387.815;8.966;1;20;19
+Italy;Milano;91154;45.442;Eritrea;3;Ethiopia;Addis Ababa;387.815;8.966;1;20;19
+Italy;Udine;131961;460.839;Eritrea;3;Ethiopia;Addis Ababa;387.815;8.966;1;20;19
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Ethiopia;Addis Ababa;387.815;8.966;3;20;19
+Italy;Roma;127308;41.965;Eritrea;3;Ethiopia;Addis Ababa;387.815;8.966;13;20;19
+Ethiopia;Addis Ababa;387815;8.966;Ethiopia;99;Ethiopia;Addis Ababa;387.815;8.966;1;20;1
+Ethiopia;Afar;410236;121.232;Eritrea;3;Ethiopia;Afar;410.236;121.232;1;1;1
+Jordan;Irbid;358195;325.559;Syria;4;Jordan;Ajlun;35.761;322.932;1;4;8
+Jordan;Ajlun;35761;322.932;Syria;4;Jordan;Ajlun;35.761;322.932;3;4;8
+Italy;Roma;127308;41.965;Eritrea;3;Norway;Akershus;112.222;601.365;1;1;1
+Jordan;Mafraq;376195;322.481;Syria;4;Kuwait;Al Asimah;483.318;294.497;2;16;16
+Jordan;Ajlun;35761;322.932;Syria;4;Kuwait;Al Asimah;483.318;294.497;3;16;16
+Jordan;Irbid;358195;325.559;Syria;4;Kuwait;Al Asimah;483.318;294.497;11;16;16
+Jordan;Irbid;358195;325.559;Syria;4;Bahrain;Al Janubiyah;505.622;259.688;1;1;1
+Jordan;Mafraq;376195;322.481;Syria;4;Saudi Arabia;Al Jawf;383.651;295.589;2;2;1
+Jordan;Mafraq;376195;322.481;Syria;4;Saudi Arabia;Al Madinah;394.378;249.279;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;Egypt;Al Qahirah;315.788;299.801;1;1;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Canada;Alberta;-115;552.816;1;9;9
+Italy;Parma;10.04;446.355;Eritrea;3;Canada;Alberta;-115;552.816;1;9;9
+Italy;Roma;127308;41.965;Eritrea;3;Canada;Alberta;-115;552.816;7;9;9
+Jordan;Irbid;358195;325.559;Syria;4;Syria;Aleppo;37.601;361.054;3;9;9
+Jordan;Mafraq;376195;322.481;Syria;4;Syria;Aleppo;37.601;361.054;6;9;9
+Jordan;Ajlun;35761;322.932;Syria;4;Jordan;Amman;364.418;316.211;2;28;28
+Jordan;Mafraq;376195;322.481;Syria;4;Jordan;Amman;364.418;316.211;7;28;28
+Jordan;Irbid;358195;325.559;Syria;4;Jordan;Amman;364.418;316.211;19;28;28
+Italy;Roma;127308;41.965;Eritrea;3;Italy;Ancona;131.128;435.383;1;1;1
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Turkey;Ankara;32.578;39.829;1;2;1
+Jordan;Irbid;358195;325.559;Syria;4;Turkey;Ankara;32.578;39.829;1;2;1
+Italy;Parma;10.04;446.355;Eritrea;3;Eritrea;Anseba;390.563;152.792;1;12;12
+Italy;Roma;127308;41.965;Eritrea;3;Eritrea;Anseba;390.563;152.792;2;12;12
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Eritrea;Anseba;390.563;152.792;9;12;12
+Italy;Udine;131961;460.839;Afghanistan;1;Belgium;Antwerp;472.122;512.485;1;3;1
+Italy;Roma;127308;41.965;Eritrea;3;Belgium;Antwerp;472.122;512.485;2;3;2
+Jordan;Mafraq;376195;322.481;Syria;4;Syria;Ar Raqqah;389.127;360.067;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;USA;Arizona;-111.935;343.046;1;2;1
+Ethiopia;Addis Ababa;387815;8.966;Ethiopia;99;USA;Arizona;-111.935;343.046;1;2;1
+Jordan;Irbid;358195;325.559;Syria;4;Saudi Arabia;Ash Sharqiyah;501.714;229.875;1;2;2
+Jordan;Mafraq;376195;322.481;Syria;4;Saudi Arabia;Ash Sharqiyah;501.714;229.875;1;2;2
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Greece;Athens Area;237.997;380.626;1;5;4
+Greece;Athens Area;237997;380.626;Afghanistan;1;Greece;Athens Area;237.997;380.626;3;5;4
+Italy;Udine;131961;460.839;Pakistan;5;Greece;Athens Area;237.997;380.626;1;5;1
+Ethiopia;Tigray;382158;141.003;Eritrea;3;New Zealand;Auckland;174.597;-366.334;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;Germany;Baden-Wurttemberg;900.328;48.59;1;2;1
+Italy;Turin;747211;451.609;Gambia;99;Germany;Baden-Wurttemberg;900.328;48.59;1;2;1
+Pakistan;Sind;688685;263.734;Afghanistan;1;Iraq;Baghdad;443.827;33.306;1;1;1
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;Afghanistan;Baghlan;689.831;358.588;4;5;5
+Pakistan;Islamabad Area;730628;337.011;Pakistan;5;Afghanistan;Baghlan;689.831;358.588;1;5;5
+Greece;Athens Area;237997;380.626;Afghanistan;1;Afghanistan;Balkh;672.185;366.851;2;5;5
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Afghanistan;Balkh;672.185;366.851;2;5;5
+Pakistan;Islamabad Area;730628;337.011;Pakistan;5;Afghanistan;Balkh;672.185;366.851;1;5;5
+Jordan;Mafraq;376195;322.481;Syria;4;Jordan;Balqa;357.216;318.345;1;1;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Pakistan;Baluchistan;655.512;275.194;2;16;16
+Pakistan;Islamabad Area;730628;337.011;Afghanistan;1;Pakistan;Baluchistan;655.512;275.194;3;16;16
+Pakistan;Punjab;723449;313.589;Afghanistan;1;Pakistan;Baluchistan;655.512;275.194;3;16;16
+Pakistan;Sind;688685;263.734;Afghanistan;1;Pakistan;Baluchistan;655.512;275.194;8;16;16
+Italy;Turin;747211;451.609;Mali;99;Mali;Bamako;-801.917;12.643;1;1;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Afghanistan;Bamyan;672.365;349.693;5;5;1
+Greece;Athens Area;237997;380.626;Pakistan;5;Spain;Barcelona;200.777;416.575;1;1;1
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Germany;Bayern;113.966;490.056;4;4;1
+Jordan;Irbid;358195;325.559;Syria;4;Lebanon;Beirut;355.093;338.849;3;6;6
+Jordan;Mafraq;376195;322.481;Syria;4;Lebanon;Beirut;355.093;338.849;3;6;6
+Jordan;Irbid;358195;325.559;Syria;4;Libya;Benghazi;206.182;312.887;1;1;1
+Jordan;Mafraq;376195;322.481;Syria;4;Lebanon;Beqaa;361.086;340.494;6;6;1
+Italy;Milano;91154;45.442;Cameroon;99;Italy;Bergamo;977.093;458.097;1;1;1
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Germany;Berlin;134.213;525.131;1;25;3
+Greece;Athens Area;237997;380.626;Afghanistan;1;Germany;Berlin;134.213;525.131;2;25;3
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Germany;Berlin;134.213;525.131;3;25;6
+Italy;Roma;127308;41.965;Eritrea;3;Germany;Berlin;134.213;525.131;3;25;6
+Jordan;Ajlun;35761;322.932;Syria;4;Germany;Berlin;134.213;525.131;2;25;15
+Jordan;Irbid;358195;325.559;Syria;4;Germany;Berlin;134.213;525.131;13;25;15
+Italy;Turin;747211;451.609;Nigeria;99;Germany;Berlin;134.213;525.131;1;25;1
+Italy;Roma;127308;41.965;Eritrea;3;Switzerland;Bern;765.026;467.988;2;2;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;UK;Birmingham;-181.614;524.782;1;3;3
+Italy;Roma;127308;41.965;Eritrea;3;UK;Birmingham;-181.614;524.782;2;3;3
+Italy;Roma;127308;41.965;Eritrea;3;Italy;Bologna;114.149;443.949;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;Canada;British Columbia;-124.662;546.943;1;1;1
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;Belgium;Brussels;436.266;508.332;1;8;3
+Greece;Athens Area;237997;380.626;Afghanistan;1;Belgium;Brussels;436.266;508.332;2;8;3
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Belgium;Brussels;436.266;508.332;3;8;3
+Italy;Roma;127308;41.965;Eritrea;3;Belgium;Brussels;436.266;508.332;2;8;2
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Burundi;Bujumbura Mairie;293.689;-339.861;6;6;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Iran;Bushehr;514.225;288.273;1;3;3
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Iran;Bushehr;514.225;288.273;2;3;3
+Ethiopia;Afar;410236;121.232;Eritrea;3;USA;California;-119.591;367.496;1;5;5
+Italy;Roma;127308;41.965;Eritrea;3;USA;California;-119.591;367.496;4;5;5
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;South Sudan;Central Equatoria;312.854;468.142;1;2;2
+Italy;Roma;127308;41.965;Eritrea;3;South Sudan;Central Equatoria;312.854;468.142;1;2;2
+Italy;Roma;127308;41.965;Eritrea;3;Italy;Crotene;169.491;391.644;1;1;1
+Italy;Milano;91154;45.442;Senegal;99;Senegal;Dakar;-173.327;147.835;2;5;5
+Italy;Turin;747211;451.609;Senegal;99;Senegal;Dakar;-173.327;147.835;3;5;5
+Italy;Roma;127308;41.965;Eritrea;3;Sweden;Dalarna;144.404;60.814;1;1;1
+Jordan;Ajlun;35761;322.932;Syria;4;Syria;Damascus;362.897;335.101;1;12;12
+Jordan;Mafraq;376195;322.481;Syria;4;Syria;Damascus;362.897;335.101;2;12;12
+Jordan;Irbid;358195;325.559;Syria;4;Syria;Damascus;362.897;335.101;9;12;12
+Jordan;Mafraq;376195;322.481;Syria;4;Syria;Dar`a;361.698;328.686;1;43;43
+Jordan;Irbid;358195;325.559;Syria;4;Syria;Dar`a;361.698;328.686;42;43;43
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Tanzania;Dar-Es-Salaam;392.857;-689.289;2;2;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Eritrea;Debub;401.691;156.179;1;1;1
+Italy;Turin;747211;451.609;Nigeria;99;Nigeria;Delta;588.195;544.265;2;2;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;USA;District of Columbia;-770.113;388.922;2;11;2
+Ethiopia;Tigray;382158;141.003;Eritrea;3;USA;District of Columbia;-770.113;388.922;1;11;8
+Italy;Roma;127308;41.965;Eritrea;3;USA;District of Columbia;-770.113;388.922;2;11;8
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;USA;District of Columbia;-770.113;388.922;5;11;8
+Jordan;Mafraq;376195;322.481;Syria;4;USA;District of Columbia;-770.113;388.922;1;11;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;United Arab Emirates;Dubai;553.436;249.508;1;10;1
+Jordan;Mafraq;376195;322.481;Syria;4;United Arab Emirates;Dubai;553.436;249.508;1;10;8
+Jordan;Irbid;358195;325.559;Syria;4;United Arab Emirates;Dubai;553.436;249.508;7;10;8
+Italy;Imperia;781935;44.011;Pakistan;5;United Arab Emirates;Dubai;553.436;249.508;1;10;1
+Italy;Modena;108516;444.311;Nigeria;99;Nigeria;Edo;584.934;652.416;1;14;14
+Italy;Treviso;122313;458.092;Nigeria;99;Nigeria;Edo;584.934;652.416;5;14;14
+Italy;Turin;747211;451.609;Nigeria;99;Nigeria;Edo;584.934;652.416;8;14;14
+Pakistan;Sind;688685;263.734;Afghanistan;1;Iran;Esfahan;524.195;329.837;1;5;3
+Greece;Athens Area;237997;380.626;Afghanistan;1;Iran;Esfahan;524.195;329.837;2;5;3
+Italy;Roma;127308;41.965;Iran;99;Iran;Esfahan;524.195;329.837;2;5;2
+Greece;Athens Area;237997;380.626;Afghanistan;1;Iran;Fars;530.793;294.007;6;6;1
+Jordan;Mafraq;376195;322.481;Syria;4;Turkey;Gaziantep;372.462;369.988;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;Switzerland;Geneve;611.764;46.237;1;1;1
+Jordan;Ajlun;35761;322.932;Syria;4;USA;Georgia;-834.078;328.547;1;1;1
+Greece;Sterea Ellada;226102;386.373;Afghanistan;1;Afghanistan;Ghazni;678.006;334.079;2;15;15
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Afghanistan;Ghazni;678.006;334.079;2;15;15
+Greece;Athens Area;237997;380.626;Afghanistan;1;Afghanistan;Ghazni;678.006;334.079;11;15;15
+Greece;Athens Area;237997;380.626;Afghanistan;1;Afghanistan;Ghor;649.224;34.002;2;2;1
+Jordan;Irbid;358195;325.559;Syria;4;Syria;Hamah;37.22;352.352;1;3;3
+Jordan;Mafraq;376195;322.481;Syria;4;Syria;Hamah;37.22;352.352;2;3;3
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Germany;Hamburg;100.344;53.559;2;13;5
+Greece;Athens Area;237997;380.626;Afghanistan;1;Germany;Hamburg;100.344;53.559;3;13;5
+Italy;Roma;127308;41.965;Eritrea;3;Germany;Hamburg;100.344;53.559;1;13;6
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Germany;Hamburg;100.344;53.559;5;13;6
+Jordan;Irbid;358195;325.559;Syria;4;Germany;Hamburg;100.344;53.559;1;13;1
+Italy;Turin;747211;451.609;Nigeria;99;Germany;Hamburg;100.344;53.559;1;13;1
+Jordan;Mafraq;376195;322.481;Syria;4;Turkey;Hatay;362.284;364.876;5;5;1
+Ethiopia;Tigray;382158;141.003;Eritrea;3;USA;Hawaii;-157.999;214.919;1;1;1
+Jordan;Irbid;358195;325.559;Syria;4;Kuwait;Hawalli;480.306;293.243;13;13;1
+Italy;Roma;127308;41.965;Eritrea;3;Norway;Hedmark;112.721;615.285;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;Germany;Hessen;895.873;506.098;7;24;18
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Germany;Hessen;895.873;506.098;11;24;18
+Jordan;Irbid;358195;325.559;Syria;4;Germany;Hessen;895.873;506.098;3;24;3
+Italy;Udine;131961;460.839;Pakistan;5;Germany;Hessen;895.873;506.098;1;24;3
+Greece;Athens Area;237997;380.626;Pakistan;5;Germany;Hessen;895.873;506.098;2;24;3
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Afghanistan;Hirat;624.845;341.551;2;5;5
+Greece;Athens Area;237997;380.626;Afghanistan;1;Afghanistan;Hirat;624.845;341.551;3;5;5
+Jordan;Irbid;358195;325.559;Syria;4;Syria;Homs;381.425;341.503;3;27;27
+Jordan;Mafraq;376195;322.481;Syria;4;Syria;Homs;381.425;341.503;24;27;27
+Italy;Roma;127308;41.965;Eritrea;3;Norway;Hordaland;689.657;601.134;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;Denmark;Hovedstaden;123.198;558.486;1;5;5
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Denmark;Hovedstaden;123.198;558.486;4;5;5
+Jordan;Ajlun;35761;322.932;Syria;4;Syria;Idlib;366.829;358.528;2;9;9
+Jordan;Irbid;358195;325.559;Syria;4;Syria;Idlib;366.829;358.528;2;9;9
+Jordan;Mafraq;376195;322.481;Syria;4;Syria;Idlib;366.829;358.528;5;9;9
+Ethiopia;Afar;410236;121.232;Eritrea;3;USA;Illinois;-891.991;39.946;1;1;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;USA;Indiana;-861.396;398.874;3;4;3
+Jordan;Ajlun;35761;322.932;Syria;4;USA;Indiana;-861.396;398.874;1;4;1
+Jordan;Mafraq;376195;322.481;Syria;4;Jordan;Irbid;358.195;325.559;3;35;35
+Jordan;Ajlun;35761;322.932;Syria;4;Jordan;Irbid;358.195;325.559;11;35;35
+Jordan;Irbid;358195;325.559;Syria;4;Jordan;Irbid;358.195;325.559;21;35;35
+Pakistan;Islamabad Area;730628;337.011;Pakistan;5;Pakistan;Islamabad Area;730.628;337.011;1;1;1
+Jordan;Irbid;358195;325.559;Syria;4;Turkey;Istanbul;288.463;411.285;2;5;5
+Jordan;Mafraq;376195;322.481;Syria;4;Turkey;Istanbul;288.463;411.285;3;5;5
+Greece;Athens Area;237997;380.626;Syria;4;Turkey;Izmir;273.977;382.426;1;1;1
+Jordan;Ajlun;35761;322.932;Syria;4;Jordan;Jarash;35.856;322.186;4;4;1
+Pakistan;Islamabad Area;730628;337.011;Afghanistan;1;Afghanistan;Kabul;693.846;344.949;1;33;33
+Pakistan;Punjab;723449;313.589;Afghanistan;1;Afghanistan;Kabul;693.846;344.949;1;33;33
+Italy;Roma;127308;41.965;Afghanistan;1;Afghanistan;Kabul;693.846;344.949;1;33;33
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;Afghanistan;Kabul;693.846;344.949;5;33;33
+Greece;Athens Area;237997;380.626;Afghanistan;1;Afghanistan;Kabul;693.846;344.949;8;33;33
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Afghanistan;Kabul;693.846;344.949;17;33;33
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Uganda;Kampala;326.048;0.360019;6;13;6
+Italy;Catania;14969;375.882;Eritrea;3;Uganda;Kampala;326.048;0.360019;1;13;7
+Italy;Roma;127308;41.965;Eritrea;3;Uganda;Kampala;326.048;0.360019;6;13;7
+Pakistan;Punjab;723449;313.589;Afghanistan;1;Afghanistan;Kandahar;657.163;31.135;4;4;1
+Italy;Imperia;781935;44.011;Guinea;99;Guinea;Kankan;-912.624;101.319;5;5;1
+Jordan;Ajlun;35761;322.932;Syria;4;Jordan;Karak;357.693;311.753;1;1;1
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Sudan;Kassala;355.979;156.265;1;1;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;DR Congo;Katanga;262.512;-848.374;10;10;1
+Greece;Athens Area;237997;380.626;DR Congo;2;Greece;Kentriki Makedonia;228.519;408.836;2;2;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Iran;Kerman;569.567;301.234;2;2;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Sudan;Khartoum;329.823;157.338;1;4;4
+Italy;Roma;127308;41.965;Eritrea;3;Sudan;Khartoum;329.823;157.338;3;4;4
+Greece;Athens Area;237997;380.626;Afghanistan;1;Pakistan;Khyber Pakhtunkhwa;726.402;349.407;2;86;81
+Pakistan;Sind;688685;263.734;Afghanistan;1;Pakistan;Khyber Pakhtunkhwa;726.402;349.407;11;86;81
+Pakistan;Islamabad Area;730628;337.011;Afghanistan;1;Pakistan;Khyber Pakhtunkhwa;726.402;349.407;20;86;81
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;Pakistan;Khyber Pakhtunkhwa;726.402;349.407;23;86;81
+Pakistan;Punjab;723449;313.589;Afghanistan;1;Pakistan;Khyber Pakhtunkhwa;726.402;349.407;25;86;81
+Italy;Udine;131961;460.839;Pakistan;5;Pakistan;Khyber Pakhtunkhwa;726.402;349.407;5;86;5
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Rwanda;Kigali City;301.253;-192.643;7;7;1
+Greece;Athens Area;237997;380.626;DR Congo;2;DR Congo;Kinshasa;158.492;-449.522;2;19;19
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;DR Congo;Kinshasa;158.492;-449.522;17;19;19
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;South Africa;KwaZulu-Natal;308.231;-287.468;3;3;1
+Italy;Udine;131961;460.839;Afghanistan;1;Afghanistan;Laghman;702.085;347.273;3;10;10
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;Afghanistan;Laghman;702.085;347.273;7;10;10
+Italy;Treviso;122313;458.092;Nigeria;99;Niger;Lagos;352.478;643.313;1;1;1
+Italy;Turin;747211;451.609;Cote d'Ivoire;99;Ivory Coast;Lagunes;-442.852;54.607;4;4;1
+Italy;Roma;127308;41.965;Eritrea;3;Italy;Lecce;182.094;40.167;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;UK;Leeds;-147.788;538.106;2;2;1
+Italy;Roma;127308;41.965;Eritrea;3;Netherlands;Limburg;593.161;512.248;1;1;1
+Italy;Roma;127308;41.965;Cameroon;99;Cameroon;Littoral;100.932;41.938;1;1;1
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;UK;Liverpool;-29.327;534.312;1;2;1
+Italy;Roma;127308;41.965;Eritrea;3;UK;Liverpool;-29.327;534.312;1;2;1
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;UK;London Area;-0.161651;515.115;1;26;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;UK;London Area;-0.161651;515.115;1;26;1
+Ethiopia;Tigray;382158;141.003;Eritrea;3;UK;London Area;-0.161651;515.115;1;26;16
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;UK;London Area;-0.161651;515.115;7;26;16
+Italy;Roma;127308;41.965;Eritrea;3;UK;London Area;-0.161651;515.115;8;26;16
+Jordan;Ajlun;35761;322.932;Syria;4;UK;London Area;-0.161651;515.115;1;26;5
+Greece;Athens Area;237997;380.626;Syria;4;UK;London Area;-0.161651;515.115;2;26;5
+Jordan;Irbid;358195;325.559;Syria;4;UK;London Area;-0.161651;515.115;2;26;5
+Italy;Udine;131961;460.839;Pakistan;5;UK;London Area;-0.161651;515.115;1;26;1
+Italy;Milano;91154;45.442;Gambia;99;UK;London Area;-0.161651;515.115;1;26;2
+Italy;Turin;747211;451.609;Nigeria;99;UK;London Area;-0.161651;515.115;1;26;2
+Jordan;Ajlun;35761;322.932;Syria;4;Jordan;Ma`an;366.401;30.492;1;1;1
+Jordan;Mafraq;376195;322.481;Syria;4;Jordan;Madaba;356.722;315.852;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;Eritrea;Maekel;389.679;14.858;2;6;6
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Eritrea;Maekel;389.679;14.858;4;6;6
+Jordan;Irbid;358195;325.559;Syria;4;Jordan;Mafraq;376.195;322.481;3;12;12
+Jordan;Ajlun;35761;322.932;Syria;4;Jordan;Mafraq;376.195;322.481;4;12;12
+Jordan;Mafraq;376195;322.481;Syria;4;Jordan;Mafraq;376.195;322.481;5;12;12
+Jordan;Irbid;358195;325.559;Syria;4;Saudi Arabia;Makkah;402.542;214.348;2;2;1
+Italy;Roma;127308;41.965;Ethiopia;99;UK;Manchester;-226.678;534.597;1;1;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;DR Congo;Maniema;260.336;-326.017;4;4;1
+Jordan;Irbid;358195;325.559;Syria;4;Canada;Manitoba;-973.828;54.85;1;1;1
+Italy;Venezia;121647;454.591;Nigeria;99;Italy;Mantova;107.355;451.396;1;1;1
+Italy;Roma;127308;41.965;Togo;99;Togo;Maritime;124.665;642.521;2;4;4
+Italy;Udine;131961;460.839;Togo;99;Togo;Maritime;124.665;642.521;2;4;4
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;USA;Maryland;-770.454;393.874;3;3;1
+Ethiopia;Afar;410236;121.232;Eritrea;3;USA;Massachusetts;-719.993;423.739;1;3;3
+Italy;Roma;127308;41.965;Eritrea;3;USA;Massachusetts;-719.993;423.739;2;3;3
+Jordan;Ajlun;35761;322.932;Syria;4;USA;Michigan;-849.479;434.343;3;3;1
+Jordan;Irbid;358195;325.559;Syria;4;UK;Mid Ulster;-670.918;546.262;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;Italy;Milano;91.154;45.442;4;5;4
+Greece;Athens Area;237997;380.626;Pakistan;5;Italy;Milano;91.154;45.442;1;5;1
+Ethiopia;Addis Ababa;387815;8.966;Ethiopia;99;USA;Minnesota;-93.364;460.592;1;1;1
+Italy;Udine;131961;460.839;Pakistan;5;Italy;Modena;108.516;444.311;1;1;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Russia;Moskva;376.188;557.177;1;1;1
+Pakistan;Sind;688685;263.734;Afghanistan;1;Oman;Muscat;586.759;232.505;2;2;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Kenya;Nairobi;369.039;-129.384;1;2;1
+Italy;Roma;127308;41.965;Eritrea;3;Kenya;Nairobi;369.039;-129.384;1;2;1
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;Afghanistan;Nangarhar;703.027;342.153;2;5;5
+Pakistan;Islamabad Area;730628;337.011;Afghanistan;1;Afghanistan;Nangarhar;703.027;342.153;3;5;5
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;USA;Nevada;-117.02;394.299;1;2;2
+Ethiopia;Tigray;382158;141.003;Eritrea;3;USA;Nevada;-117.02;394.299;1;2;2
+Jordan;Irbid;358195;325.559;Syria;4;Canada;New Brunswick;-664.558;465.822;1;1;1
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;Australia;New South Wales;146.781;-324.751;2;14;7
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Australia;New South Wales;146.781;-324.751;2;14;7
+Greece;Athens Area;237997;380.626;Afghanistan;1;Australia;New South Wales;146.781;-324.751;3;14;7
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Australia;New South Wales;146.781;-324.751;1;14;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Australia;New South Wales;146.781;-324.751;5;14;5
+Jordan;Irbid;358195;325.559;Syria;4;Australia;New South Wales;146.781;-324.751;1;14;1
+Pakistan;Sind;688685;263.734;Afghanistan;1;USA;New York;-753.242;431.988;1;3;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;USA;New York;-753.242;431.988;1;3;1
+Greece;Athens Area;237997;380.626;Pakistan;5;USA;New York;-753.242;431.988;1;3;1
+Greece;Athens Area;237997;380.626;Pakistan;5;Germany;Niedersachsen;886.184;52.775;1;1;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Netherlands;Noord-Holland;489.736;525.748;1;7;5
+Italy;Milano;91154;45.442;Eritrea;3;Netherlands;Noord-Holland;489.736;525.748;1;7;5
+Italy;Roma;127308;41.965;Eritrea;3;Netherlands;Noord-Holland;489.736;525.748;1;7;5
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Netherlands;Noord-Holland;489.736;525.748;2;7;5
+Jordan;Irbid;358195;325.559;Syria;4;Netherlands;Noord-Holland;489.736;525.748;1;7;1
+Greece;Athens Area;237997;380.626;Pakistan;5;Netherlands;Noord-Holland;489.736;525.748;1;7;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;DR Congo;Nord-Kivu;285.939;-0.659128;42;42;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Germany;Nordrhein-Westfalen;765.708;516.146;2;6;2
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Germany;Nordrhein-Westfalen;765.708;516.146;1;6;2
+Italy;Roma;127308;41.965;Eritrea;3;Germany;Nordrhein-Westfalen;765.708;516.146;1;6;2
+Jordan;Irbid;358195;325.559;Syria;4;Germany;Nordrhein-Westfalen;765.708;516.146;2;6;2
+Italy;Roma;127308;41.965;Eritrea;3;Sweden;Norrbotten;204.529;66.837;2;2;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;USA;North Carolina;-78.866;356.152;1;3;3
+Ethiopia;Tigray;382158;141.003;Eritrea;3;USA;North Carolina;-78.866;356.152;2;3;3
+Jordan;Irbid;358195;325.559;Syria;4;Lebanon;North Lebanon;360.424;343.933;2;7;7
+Jordan;Mafraq;376195;322.481;Syria;4;Lebanon;North Lebanon;360.424;343.933;5;7;7
+Italy;Turin;747211;451.609;Mali;99;Mauritania;Nouakchott;-15.92;18.139;1;1;1
+Jordan;Ajlun;35761;322.932;Syria;4;Canada;Nova Scotia;-628.113;452.293;1;1;1
+Italy;Turin;747211;451.609;Nigeria;99;Nigeria;Ogun;329.255;701.845;1;1;1
+Ethiopia;Afar;410236;121.232;Eritrea;3;USA;Ohio;-826.719;400.924;2;2;1
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;Canada;Ontario;-847.943;505.244;1;17;5
+Pakistan;Sind;688685;263.734;Afghanistan;1;Canada;Ontario;-847.943;505.244;4;17;5
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Canada;Ontario;-847.943;505.244;4;17;10
+Italy;Roma;127308;41.965;Eritrea;3;Canada;Ontario;-847.943;505.244;6;17;10
+Jordan;Irbid;358195;325.559;Syria;4;Canada;Ontario;-847.943;505.244;1;17;1
+Greece;Athens Area;237997;380.626;Pakistan;5;Canada;Ontario;-847.943;505.244;1;17;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;DR Congo;Orientale;26.785;240.438;3;3;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Norway;Oslo;106.419;600.237;1;9;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Norway;Oslo;106.419;600.237;3;9;8
+Italy;Roma;127308;41.965;Eritrea;3;Norway;Oslo;106.419;600.237;5;9;8
+Italy;Venezia;121647;454.591;Cameroon;99;Cameroon;Ouest;105.889;536.694;2;2;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;France;Paris;234.347;488.594;2;17;2
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;France;Paris;234.347;488.594;1;17;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;France;Paris;234.347;488.594;1;17;2
+Italy;Roma;127308;41.965;Eritrea;3;France;Paris;234.347;488.594;1;17;2
+Jordan;Irbid;358195;325.559;Syria;4;France;Paris;234.347;488.594;5;17;5
+Italy;Turin;747211;451.609;Senegal;99;France;Paris;234.347;488.594;1;17;7
+Italy;Imperia;781935;44.011;Mali;99;France;Paris;234.347;488.594;3;17;7
+Italy;Milano;91154;45.442;Senegal;99;France;Paris;234.347;488.594;3;17;7
+Italy;Udine;131961;460.839;Afghanistan;1;Afghanistan;Parwan;688.995;349.984;3;3;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;USA;Pennsylvania;-776.094;408.601;1;1;1
+Italy;Roma;127308;41.965;Ethiopia;99;Italy;Pescara;138.877;423.126;1;1;1
+Italy;Udine;131961;460.839;Pakistan;5;Italy;Piacenza;958.167;448.704;1;1;1
+Jordan;Irbid;358195;325.559;Syria;4;Czech Republic;Prague;144.487;500.647;3;3;1
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;Pakistan;Punjab;723.449;313.589;3;156;35
+Pakistan;Islamabad Area;730628;337.011;Afghanistan;1;Pakistan;Punjab;723.449;313.589;7;156;35
+Pakistan;Sind;688685;263.734;Afghanistan;1;Pakistan;Punjab;723.449;313.589;8;156;35
+Pakistan;Punjab;723449;313.589;Afghanistan;1;Pakistan;Punjab;723.449;313.589;17;156;35
+Greece;Athens Area;237997;380.626;Pakistan;5;Pakistan;Punjab;723.449;313.589;90;156;121
+Italy;Udine;131961;460.839;Pakistan;5;Pakistan;Punjab;723.449;313.589;31;156;121
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Canada;Quebec;-737.168;522.593;6;10;6
+Italy;Roma;127308;41.965;Eritrea;3;Canada;Quebec;-737.168;522.593;1;10;1
+Jordan;Irbid;358195;325.559;Syria;4;Canada;Quebec;-737.168;522.593;3;10;3
+Pakistan;Sind;688685;263.734;Afghanistan;1;Iran;Razavi Khorasan;587.976;35.584;2;4;4
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Iran;Razavi Khorasan;587.976;35.584;2;4;4
+Greece;Athens Area;237997;380.626;Afghanistan;1;France;Rhone;464.841;45.841;1;3;2
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;France;Rhone;464.841;45.841;1;3;2
+Italy;Milano;91154;45.442;Senegal;99;France;Rhone;464.841;45.841;1;3;1
+Italy;Roma;127308;41.965;Eritrea;3;Saudi Arabia;Riad Area;451.404;233.432;3;4;3
+Jordan;Mafraq;376195;322.481;Syria;4;Saudi Arabia;Riad Area;451.404;233.432;1;4;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;Italy;Roma;127.308;41.965;1;6;1
+Italy;Turin;747211;451.609;Eritrea;3;Italy;Roma;127.308;41.965;1;6;4
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Italy;Roma;127.308;41.965;3;6;4
+Italy;Treviso;122313;458.092;Syria;4;Italy;Roma;127.308;41.965;1;6;1
+Italy;Roma;127308;41.965;Eritrea;3;Italy;Savona;828.916;442.864;1;1;1
+Italy;Udine;131961;460.839;Mali;99;Mali;Segou;-551.952;135.852;2;2;1
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Eritrea;Semenawi Keyih Bahri;379.175;166.263;1;5;5
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Eritrea;Semenawi Keyih Bahri;379.175;166.263;2;5;5
+Italy;Roma;127308;41.965;Eritrea;3;Eritrea;Semenawi Keyih Bahri;379.175;166.263;2;5;5
+Italy;Roma;127308;41.965;Eritrea;3;UK;Sheffield;-157.387;534.087;1;1;1
+Pakistan;Sind;688685;263.734;Afghanistan;1;Pakistan;Sind;688.685;263.734;1;8;8
+Pakistan;Islamabad Area;730628;337.011;Afghanistan;1;Pakistan;Sind;688.685;263.734;3;8;8
+Pakistan;Punjab;723449;313.589;Afghanistan;1;Pakistan;Sind;688.685;263.734;4;8;8
+Italy;Roma;127308;41.965;Eritrea;3;Denmark;Sjaelland;117.483;554.417;1;1;1
+Italy;Udine;131961;460.839;Afghanistan;1;Sweden;Skane;135.193;559.073;1;4;1
+Greece;Athens Area;237997;380.626;Syria;4;Sweden;Skane;135.193;559.073;3;4;3
+Italy;Roma;127308;41.965;Eritrea;3;Switzerland;Solothurn;741.999;474.325;3;3;1
+Italy;Roma;127308;41.965;Eritrea;3;Norway;Sor Trondelag;106.956;629.613;1;1;1
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Australia;South Australia;135.783;-296.504;1;1;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Greece;Sterea Ellada;226.102;386.373;1;1;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Sweden;Stockholm;178.652;593.659;1;19;1
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Sweden;Stockholm;178.652;593.659;1;19;13
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Sweden;Stockholm;178.652;593.659;4;19;13
+Italy;Roma;127308;41.965;Eritrea;3;Sweden;Stockholm;178.652;593.659;8;19;13
+Jordan;Irbid;358195;325.559;Syria;4;Sweden;Stockholm;178.652;593.659;5;19;5
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;DR Congo;Sud-Kivu;281.159;-310.474;181;181;1
+Italy;Roma;127308;41.965;Eritrea;3;Denmark;Syddanmark;91.292;55.349;1;1;1
+Jordan;Mafraq;376195;322.481;Syria;4;Jordan;Tafilah;356.436;307.879;1;1;1
+Pakistan;Sind;688685;263.734;Afghanistan;1;Iran;Tehran;516.548;355.146;4;21;21
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Iran;Tehran;516.548;355.146;4;21;21
+Greece;Athens Area;237997;380.626;Afghanistan;1;Iran;Tehran;516.548;355.146;13;21;21
+Italy;Roma;127308;41.965;Eritrea;3;Israel;Tel Aviv;348.091;320.966;3;12;12
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Israel;Tel Aviv;348.091;320.966;3;12;12
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Israel;Tel Aviv;348.091;320.966;6;12;12
+Italy;Vicenza;114753;45.712;Senegal;99;Italy;Terni;124.862;425.788;1;1;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;USA;Texas;-987.607;31.131;2;4;2
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;USA;Texas;-987.607;31.131;2;4;2
+Italy;Catania;14969;375.882;Eritrea;3;Switzerland;Ticino;879.019;463.604;1;2;2
+Italy;Roma;127308;41.965;Eritrea;3;Switzerland;Ticino;879.019;463.604;1;2;2
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Ethiopia;Tigray;382.158;141.003;1;3;3
+Italy;Roma;127308;41.965;Eritrea;3;Ethiopia;Tigray;382.158;141.003;2;3;3
+Italy;Turin;747211;451.609;Mali;99;Mali;Timbuktu;-3.295;199.073;4;4;1
+Italy;Udine;131961;460.839;Afghanistan;1;Italy;Udine;131.961;460.839;1;2;1
+Italy;Roma;127308;41.965;Eritrea;3;Italy;Udine;131.961;460.839;1;2;1
+Italy;Roma;127308;41.965;Eritrea;3;Sweden;Uppsala;177.896;601.522;1;1;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Afghanistan;Uruzgan;663.011;338.446;2;4;2
+Pakistan;Islamabad Area;730628;337.011;Pakistan;5;Afghanistan;Uruzgan;663.011;338.446;2;4;2
+Greece;Athens Area;237997;380.626;Pakistan;5;Finland;Uusimaa;248.475;604.179;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;Sweden;Varmland;130.764;598.068;1;1;1
+Italy;Roma;127308;41.965;Eritrea;3;Sweden;Vastra Gotaland;128.371;582.428;1;1;1
+Italy;Milano;91154;45.442;Eritrea;3;Switzerland;Vaud;65.118;466.204;1;1;1
+Italy;Udine;131961;460.839;Pakistan;5;Italy;Venezia;121.647;454.591;1;1;1
+Italy;Turin;747211;451.609;Nigeria;99;Italy;Vercelli;815.956;458.416;1;1;1
+Italy;Rieti;129445;423.382;Eritrea;3;Norway;Vest-Agder;730.897;584.481;1;3;3
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Norway;Vest-Agder;730.897;584.481;2;3;3
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Australia;Victoria;144.75;-370.082;1;3;3
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Australia;Victoria;144.75;-370.082;2;3;3
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;USA;Virginia;-782.431;377.403;3;3;1
+Greece;Athens Area;237997;380.626;DR Congo;2;Greece;Voreio Aigaio;252.262;399.531;1;1;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Afghanistan;Wardak;681.087;344.269;3;3;1
+Italy;Roma;127308;41.965;Eritrea;3;USA;Washington;-120.361;474.865;1;1;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Austria;Wien;163.798;482.247;2;3;2
+Jordan;Mafraq;376195;322.481;Syria;4;Austria;Wien;163.798;482.247;1;3;1
+Jordan;Ajlun;35761;322.932;Syria;4;Jordan;Zarqa;368.284;318.095;3;12;12
+Jordan;Mafraq;376195;322.481;Syria;4;Jordan;Zarqa;368.284;318.095;3;12;12
+Jordan;Irbid;358195;325.559;Syria;4;Jordan;Zarqa;368.284;318.095;6;12;12
+Italy;Roma;127308;41.965;Eritrea;3;Netherlands;Zuid-Holland;452.252;520.075;4;4;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Switzerland;Zurich;86.609;474.297;1;10;1
+Italy;Catania;14969;375.882;Eritrea;3;Switzerland;Zurich;86.609;474.297;1;10;9
+Italy;Milano;91154;45.442;Eritrea;3;Switzerland;Zurich;86.609;474.297;1;10;9
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Switzerland;Zurich;86.609;474.297;1;10;9
+Italy;Udine;131961;460.839;Eritrea;3;Switzerland;Zurich;86.609;474.297;1;10;9
+Italy;Roma;127308;41.965;Eritrea;3;Switzerland;Zurich;86.609;474.297;5;10;9
+Italy;Trieste;137799;456.866;Afghanistan;1;USA;;-1.004.458.825;397.837.304;1;30;3
+Italy;Udine;131961;460.839;Afghanistan;1;USA;;-1.004.458.825;397.837.304;1;30;3
+Pakistan;Sind;688685;263.734;Afghanistan;1;USA;;-1.004.458.825;397.837.304;1;30;3
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Switzerland;;82.319.736;467.985.624;1;14;4
+Greece;Athens Area;237997;380.626;Afghanistan;1;Switzerland;;82.319.736;467.985.624;3;14;4
+Greece;Athens Area;237997;380.626;Afghanistan;1;Sweden;;145.208.584;596.749.712;1;30;1
+Italy;Trieste;137799;456.866;Afghanistan;1;Saudi Arabia;;423.528.328;256.242.618;1;4;1
+Pakistan;Sind;688685;263.734;Afghanistan;1;Pakistan;;6.791.064.443;2.910.819.827;1;8;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Norway;;90.999.715;605.000.209;2;14;2
+Greece;Athens Area;237997;380.626;Afghanistan;1;Iran;;513.896.004;356.892.523;1;6;2
+Italy;Turin;747211;451.609;Afghanistan;1;Iran;;513.896.004;356.892.523;1;6;2
+Italy;Roma;127308;41.965;Afghanistan;1;Germany;;104.234.469;510.834.196;1;112;2
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Afghanistan;1;Germany;;104.234.469;510.834.196;1;112;2
+Greece;Athens Area;237997;380.626;Afghanistan;1;Finland;;259.209.164;632.467.777;1;9;1
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Austria;;13.2;47.2;1;2;1
+Greece;Athens Area;237997;380.626;Afghanistan;1;Australia;;134.755;-247.761.086;2;11;5
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Australia;;134.755;-247.761.086;3;11;5
+Greece;Voreio Aigaio;252262;399.531;Afghanistan;1;Afghanistan;;662.385.139;337.680.065;1;7;7
+Italy;Rieti;129445;423.382;Afghanistan;1;Afghanistan;;662.385.139;337.680.065;1;7;7
+Italy;Trieste;137799;456.866;Afghanistan;1;Afghanistan;;662.385.139;337.680.065;1;7;7
+Italy;Piacenza;958167;448.704;Afghanistan;1;Afghanistan;;662.385.139;337.680.065;2;7;7
+Italy;Udine;131961;460.839;Afghanistan;1;Afghanistan;;662.385.139;337.680.065;2;7;7
+Italy;Turin;747211;451.609;DR Congo;2;Philippines;;1.227.312.101;127.503.486;1;1;1
+DR Congo;Sud-Kivu;281159;-310.474;DR Congo;2;DR Congo;;238.222.636;-29.814.344;1;4;4
+Italy;Turin;747211;451.609;DR Congo;2;DR Congo;;238.222.636;-29.814.344;1;4;4
+Greece;Athens Area;237997;380.626;DR Congo;2;DR Congo;;238.222.636;-29.814.344;2;4;4
+Ethiopia;Afar;410236;121.232;Eritrea;3;USA;;-1.004.458.825;397.837.304;1;30;17
+Ethiopia;Tigray;382158;141.003;Eritrea;3;USA;;-1.004.458.825;397.837.304;2;30;17
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;USA;;-1.004.458.825;397.837.304;4;30;17
+Italy;Roma;127308;41.965;Eritrea;3;USA;;-1.004.458.825;397.837.304;10;30;17
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;UK;;-1.462.061.885;5.228.097.045;1;15;5
+Italy;Roma;127308;41.965;Eritrea;3;UK;;-1.462.061.885;5.228.097.045;4;15;5
+Ethiopia;Afar;410236;121.232;Eritrea;3;Switzerland;;82.319.736;467.985.624;1;14;10
+Italy;Turin;747211;451.609;Eritrea;3;Switzerland;;82.319.736;467.985.624;1;14;10
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Switzerland;;82.319.736;467.985.624;3;14;10
+Italy;Roma;127308;41.965;Eritrea;3;Switzerland;;82.319.736;467.985.624;5;14;10
+Ethiopia;Afar;410236;121.232;Eritrea;3;Sweden;;145.208.584;596.749.712;1;30;16
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Sweden;;145.208.584;596.749.712;5;30;16
+Italy;Roma;127308;41.965;Eritrea;3;Sweden;;145.208.584;596.749.712;10;30;16
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;South Africa;;24.991.639;-288.166.236;1;2;2
+Italy;Roma;127308;41.965;Eritrea;3;South Africa;;24.991.639;-288.166.236;1;2;2
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Saudi Arabia;;423.528.328;256.242.618;1;4;2
+Ethiopia;Afar;410236;121.232;Eritrea;3;Saudi Arabia;;423.528.328;256.242.618;1;4;2
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Norway;;90.999.715;605.000.209;1;14;10
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Norway;;90.999.715;605.000.209;1;14;10
+Italy;Pavia;92558;451.396;Eritrea;3;Norway;;90.999.715;605.000.209;1;14;10
+Italy;Turin;747211;451.609;Eritrea;3;Norway;;90.999.715;605.000.209;1;14;10
+Italy;Roma;127308;41.965;Eritrea;3;Norway;;90.999.715;605.000.209;6;14;10
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;New Zealand;;1.728.344.077;-415.000.831;1;1;1
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Netherlands;;5.453.803.502;5.217.826.107;1;11;8
+Italy;Roma;127308;41.965;Eritrea;3;Netherlands;;5.453.803.502;5.217.826.107;7;11;8
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Israel;;348.667.654;315.313.113;1;2;2
+Italy;Milano;91154;45.442;Eritrea;3;Israel;;348.667.654;315.313.113;1;2;2
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Germany;;104.234.469;510.834.196;1;112;14
+Italy;Catania;14969;375.882;Eritrea;3;Germany;;104.234.469;510.834.196;1;112;14
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Germany;;104.234.469;510.834.196;3;112;14
+Italy;Roma;127308;41.965;Eritrea;3;Germany;;104.234.469;510.834.196;9;112;14
+Ethiopia;Tigray;382158;141.003;Eritrea;3;France;;18.883.335;46.603.354;1;20;2
+Italy;Turin;747211;451.609;Eritrea;3;France;;18.883.335;46.603.354;1;20;2
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Finland;;259.209.164;632.467.777;1;9;3
+Ethiopia;Afar;410236;121.232;Eritrea;3;Finland;;259.209.164;632.467.777;1;9;3
+Italy;Roma;127308;41.965;Eritrea;3;Finland;;259.209.164;632.467.777;1;9;3
+Italy;Turin;747211;451.609;Eritrea;3;Ethiopia;;386.521.203;102.116.702;1;1;1
+Italy;Turin;747211;451.609;Eritrea;3;Eritrea;;379.999.668;159.500.319;1;5;5
+Italy;Udine;131961;460.839;Eritrea;3;Eritrea;;379.999.668;159.500.319;1;5;5
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Eritrea;;379.999.668;159.500.319;3;5;5
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Denmark;;103.333.283;55.670.249;1;7;2
+Italy;Roma;127308;41.965;Eritrea;3;Denmark;;103.333.283;55.670.249;1;7;2
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Canada;;-107.991.707;610.666.922;1;47;14
+Ethiopia;Afar;410236;121.232;Eritrea;3;Canada;;-107.991.707;610.666.922;2;47;14
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Canada;;-107.991.707;610.666.922;3;47;14
+Italy;Roma;127308;41.965;Eritrea;3;Canada;;-107.991.707;610.666.922;8;47;14
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Belgium;;46.667.145;506.402.809;2;6;4
+Italy;Roma;127308;41.965;Eritrea;3;Belgium;;46.667.145;506.402.809;2;6;4
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Australia;;134.755;-247.761.086;3;11;6
+Ethiopia;Afar;410236;121.232;Eritrea;3;Australia;;134.755;-247.761.086;3;11;6
+Ethiopia;Addis Ababa;387815;8.966;Eritrea;3;Angola;;175.691.241;-118.775.768;1;2;2
+Ethiopia;Tigray;382158;141.003;Eritrea;3;Angola;;175.691.241;-118.775.768;1;2;2
+Jordan;Ajlun;35761;322.932;Syria;4;USA;;-1.004.458.825;397.837.304;1;30;7
+Jordan;Mafraq;376195;322.481;Syria;4;USA;;-1.004.458.825;397.837.304;2;30;7
+Jordan;Irbid;358195;325.559;Syria;4;USA;;-1.004.458.825;397.837.304;4;30;7
+Jordan;Irbid;358195;325.559;Syria;4;United Arab Emirates;;539.994.829;240.002.488;5;5;5
+Greece;Athens Area;237997;380.626;Syria;4;UK;;-1.462.061.885;5.228.097.045;1;15;7
+Jordan;Ajlun;35761;322.932;Syria;4;UK;;-1.462.061.885;5.228.097.045;1;15;7
+Jordan;Mafraq;376195;322.481;Syria;4;UK;;-1.462.061.885;5.228.097.045;1;15;7
+Jordan;Irbid;358195;325.559;Syria;4;UK;;-1.462.061.885;5.228.097.045;4;15;7
+Jordan;Mafraq;376195;322.481;Syria;4;Turkey;;349.249.653;389.597.594;4;5;5
+Jordan;Irbid;358195;325.559;Syria;4;Syria;;390.494.106;346.401.861;2;2;2
+Jordan;Ajlun;35761;322.932;Syria;4;Sweden;;145.208.584;596.749.712;1;30;7
+Jordan;Mafraq;376195;322.481;Syria;4;Sweden;;145.208.584;596.749.712;2;30;7
+Greece;Athens Area;237997;380.626;Syria;4;Sweden;;145.208.584;596.749.712;4;30;7
+Jordan;Irbid;358195;325.559;Syria;4;Saudi Arabia;;423.528.328;256.242.618;1;4;1
+Jordan;Irbid;358195;325.559;Syria;4;Norway;;90.999.715;605.000.209;2;14;2
+Jordan;Irbid;358195;325.559;Syria;4;Netherlands;;5.453.803.502;5.217.826.107;3;11;3
+Greece;Athens Area;237997;380.626;Syria;4;Malta;;144.476.911;358.885.993;2;2;2
+Jordan;Mafraq;376195;322.481;Syria;4;Lebanon;;35.843.409;338.750.629;2;2;2
+Jordan;Irbid;358195;325.559;Syria;4;Kuwait;;474.979.476;292.733.964;5;5;5
+Italy;Treviso;122313;458.092;Syria;4;Germany;;104.234.469;510.834.196;1;112;83
+Jordan;Mafraq;376195;322.481;Syria;4;Germany;;104.234.469;510.834.196;1;112;83
+Jordan;Ajlun;35761;322.932;Syria;4;Germany;;104.234.469;510.834.196;3;112;83
+Jordan;Irbid;358195;325.559;Syria;4;Germany;;104.234.469;510.834.196;5;112;83
+Greece;Athens Area;237997;380.626;Syria;4;Germany;;104.234.469;510.834.196;73;112;83
+Jordan;Mafraq;376195;322.481;Syria;4;France;;18.883.335;46.603.354;1;20;3
+Greece;Athens Area;237997;380.626;Syria;4;France;;18.883.335;46.603.354;2;20;3
+Jordan;Ajlun;35761;322.932;Syria;4;Finland;;259.209.164;632.467.777;2;9;4
+Jordan;Irbid;358195;325.559;Syria;4;Finland;;259.209.164;632.467.777;2;9;4
+Jordan;Irbid;358195;325.559;Syria;4;Denmark;;103.333.283;55.670.249;1;7;5
+Greece;Athens Area;237997;380.626;Syria;4;Denmark;;103.333.283;55.670.249;4;7;5
+Jordan;Ajlun;35761;322.932;Syria;4;Canada;;-107.991.707;610.666.922;1;47;31
+Jordan;Mafraq;376195;322.481;Syria;4;Canada;;-107.991.707;610.666.922;9;47;31
+Jordan;Irbid;358195;325.559;Syria;4;Canada;;-107.991.707;610.666.922;21;47;31
+Jordan;Ajlun;35761;322.932;Syria;4;Brazil;;-53.2;-103.333.333;1;1;1
+Jordan;Mafraq;376195;322.481;Syria;4;Austria;;13.2;47.2;1;2;1
+Pakistan;Khyber Pakhtunkhwa;726402;349.407;Pakistan;5;USA;;-1.004.458.825;397.837.304;1;30;1
+Italy;Udine;131961;460.839;Pakistan;5;UK;;-1.462.061.885;5.228.097.045;2;15;2
+Italy;Udine;131961;460.839;Pakistan;5;Turkey;;349.249.653;389.597.594;1;5;1
+Greece;Athens Area;237997;380.626;Pakistan;5;Pakistan;;6.791.064.443;2.910.819.827;1;8;7
+Italy;Imperia;781935;44.011;Pakistan;5;Pakistan;;6.791.064.443;2.910.819.827;2;8;7
+Italy;Udine;131961;460.839;Pakistan;5;Pakistan;;6.791.064.443;2.910.819.827;4;8;7
+Greece;Athens Area;237997;380.626;Pakistan;5;Iran;;513.896.004;356.892.523;3;6;3
+Italy;Udine;131961;460.839;Pakistan;5;Germany;;104.234.469;510.834.196;1;112;1
+Italy;Imperia;781935;44.011;Pakistan;5;France;;18.883.335;46.603.354;1;20;1
+Italy;Turin;747211;451.609;Nigeria;99;USA;;-1.004.458.825;397.837.304;1;30;2
+Italy;Roma;127308;41.965;Sudan;99;USA;;-1.004.458.825;397.837.304;1;30;2
+Italy;Turin;747211;451.609;Nigeria;99;UK;;-1.462.061.885;5.228.097.045;1;15;1
+Ethiopia;Addis Ababa;387815;8.966;Ethiopia;99;Sweden;;145.208.584;596.749.712;1;30;6
+Italy;Roma;127308;41.965;Iran;99;Sweden;;145.208.584;596.749.712;2;30;6
+Italy;Turin;747211;451.609;Somalia;99;Sweden;;145.208.584;596.749.712;3;30;6
+Italy;Treviso;122313;458.092;Sudan;99;Sudan;;311.178.617;1.639.440.993;1;1;1
+Italy;Imperia;781935;44.011;Mali;99;Spain;;-3.523.344.922;3.956.495.146;1;3;3
+Italy;Milano;91154;45.442;Senegal;99;Spain;;-3.523.344.922;3.956.495.146;1;3;3
+Italy;Turin;747211;451.609;Gambia;99;Spain;;-3.523.344.922;3.956.495.146;1;3;3
+Italy;Treviso;122313;458.092;Somalia;99;Somalia;;49.083.416;83.676.771;2;5;5
+Italy;Turin;747211;451.609;Somalia;99;Somalia;;49.083.416;83.676.771;3;5;5
+Italy;Avellino;151044;409.404;Senegal;99;Senegal;;-144.529.612;144.750.607;1;13;13
+Italy;Imperia;781935;44.011;Senegal;99;Senegal;;-144.529.612;144.750.607;2;13;13
+Italy;Vicenza;114753;45.712;Senegal;99;Senegal;;-144.529.612;144.750.607;2;13;13
+Italy;Turin;747211;451.609;Senegal;99;Senegal;;-144.529.612;144.750.607;3;13;13
+Italy;Milano;91154;45.442;Senegal;99;Senegal;;-144.529.612;144.750.607;5;13;13
+Italy;Venezia;121647;454.591;Nigeria;99;Nigeria;;79.999.721;96.000.359;2;26;26
+Italy;Treviso;122313;458.092;Nigeria;99;Nigeria;;79.999.721;96.000.359;3;26;26
+Italy;Turin;747211;451.609;Nigeria;99;Nigeria;;79.999.721;96.000.359;21;26;26
+Italy;Vicenza;114753;45.712;Niger;99;Niger;;93.238.432;177.356.214;1;3;3
+Italy;Turin;747211;451.609;Niger;99;Niger;;93.238.432;177.356.214;2;3;3
+Italy;Milano;91154;45.442;Mali;99;Mali;;-22.900.239;163.700.359;1;8;8
+Italy;Padova;118371;45.361;Mali;99;Mali;;-22.900.239;163.700.359;2;8;8
+Italy;Vicenza;114753;45.712;Mali;99;Mali;;-22.900.239;163.700.359;2;8;8
+Italy;Turin;747211;451.609;Mali;99;Mali;;-22.900.239;163.700.359;3;8;8
+Italy;Roma;127308;41.965;Cote d'Ivoire;99;Ivory Coast;;-55.679.458;79.897.371;1;16;16
+Italy;Vicenza;114753;45.712;Mali;99;Ivory Coast;;-55.679.458;79.897.371;1;16;16
+Italy;Milano;91154;45.442;Cote d'Ivoire;99;Ivory Coast;;-55.679.458;79.897.371;4;16;16
+Italy;Turin;747211;451.609;Cote d'Ivoire;99;Ivory Coast;;-55.679.458;79.897.371;10;16;16
+Italy;Turin;747211;451.609;Nigeria;99;Italy;;1.233.284.597;4.338.126.738;1;3;3
+Italy;Treviso;122313;458.092;Ghana;99;Italy;;1.233.284.597;4.338.126.738;2;3;3
+Italy;Venezia;121647;454.591;Iran;99;Iran;;513.896.004;356.892.523;1;6;1
+Italy;Padova;118371;45.361;Guinea;99;Guinea;;-107.083.587;107.226.226;1;4;4
+Italy;Vicenza;114753;45.712;Guinea;99;Guinea;;-107.083.587;107.226.226;1;4;4
+Italy;Turin;747211;451.609;Guinea;99;Guinea;;-107.083.587;107.226.226;2;4;4
+Italy;Roma;127308;41.965;Ghana;99;Ghana;;-10.800.271;80.300.284;2;8;8
+Italy;Treviso;122313;458.092;Ghana;99;Ghana;;-10.800.271;80.300.284;2;8;8
+Italy;Turin;747211;451.609;Ghana;99;Ghana;;-10.800.271;80.300.284;4;8;8
+Ethiopia;Addis Ababa;387815;8.966;Ethiopia;99;Germany;;104.234.469;510.834.196;1;112;12
+Italy;Milano;91154;45.442;Gambia;99;Germany;;104.234.469;510.834.196;1;112;12
+Italy;Turin;747211;451.609;Gambia;99;Germany;;104.234.469;510.834.196;10;112;12
+Italy;Cuneo;763034;444.862;Gambia;99;Gambia;;-154.900.464;13.470.062;1;11;11
+Italy;Padova;118371;45.361;Gambia;99;Gambia;;-154.900.464;13.470.062;1;11;11
+Italy;Milano;91154;45.442;Gambia;99;Gambia;;-154.900.464;13.470.062;2;11;11
+Italy;Roma;127308;41.965;Gambia;99;Gambia;;-154.900.464;13.470.062;2;11;11
+Italy;Turin;747211;451.609;Gambia;99;Gambia;;-154.900.464;13.470.062;5;11;11
+Italy;Milano;91154;45.442;Cote d'Ivoire;99;France;;18.883.335;46.603.354;1;20;14
+Italy;Reggio Emilia;106186;446.699;Gambia;99;France;;18.883.335;46.603.354;1;20;14
+Italy;Roma;127308;41.965;Guinea;99;France;;18.883.335;46.603.354;1;20;14
+Italy;Vicenza;114753;45.712;Senegal;99;France;;18.883.335;46.603.354;1;20;14
+Italy;Turin;747211;451.609;Cote d'Ivoire;99;France;;18.883.335;46.603.354;10;20;14
+Italy;Turin;747211;451.609;Gambia;99;Finland;;259.209.164;632.467.777;1;9;1
+Ethiopia;Addis Ababa;387815;8.966;Ethiopia;99;Canada;;-107.991.707;610.666.922;2;47;2
+Italy;Milano;91154;45.442;Cameroon;99;Cameroon;;1.244.144.166;5.270.294.606;1;3;3
+Italy;Roma;127308;41.965;Cameroon;99;Cameroon;;1.244.144.166;5.270.294.606;1;3;3
+Italy;Vicenza;114753;45.712;Niger;99;Cameroon;;1.244.144.166;5.270.294.606;1;3;3
+Italy;Turin;747211;451.609;Burkina Faso;99;Burkina Faso;;-16.880.314;120.753.083;2;2;2
+Italy;Turin;747211;451.609;Gambia;99;Belgium;;46.667.145;506.402.809;2;6;2
+Italy;Turin;747211;451.609;Mali;99;Algeria;;29.999.825;280.000.272;2;2;2
